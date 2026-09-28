@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "76551557df8ad3af",
+        "id": "01922c13e24ee34a",
         "type": "tabs",
         "children": [
           {
-            "id": "1d3c5488a890b569",
+            "id": "76bb38ae9b55aed0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Willkommen.md",
-                "mode": "source",
-                "source": false
+                "file": "Unbenannt.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Willkommen"
+              "icon": "lucide-layout-dashboard",
+              "title": "Unbenannt"
             }
           }
         ]
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Unbenannt.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Unbenannt.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Willkommen.md",
+                "file": "Unbenannt.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,6 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d3c5488a890b569",
-  "lastOpenFiles": []
+  "active": "76bb38ae9b55aed0",
+  "lastOpenFiles": [
+    "Unbenannt.canvas",
+    "Willkommen.md"
+  ]
 }
