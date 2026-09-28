@@ -4,27 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "01922c13e24ee34a",
+        "id": "d053a5b957fc9e59",
         "type": "tabs",
         "children": [
           {
-            "id": "76bb38ae9b55aed0",
+            "id": "bbe06d81c81ad0b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Unbenannt.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Unbenannt"
+              "type": "vault-orrery-view",
+              "state": {},
+              "icon": "orbit",
+              "title": "Vault Orrery"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,7 +38,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -102,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unbenannt.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unbenannt.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -164,7 +156,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unbenannt.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -189,12 +180,16 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "orrery:Open orrery": false,
+      "vault-orrery:Open Vault Orrery": false
     }
   },
-  "active": "76bb38ae9b55aed0",
+  "active": "bbe06d81c81ad0b5",
   "lastOpenFiles": [
     "Unbenannt.canvas",
+    "Unbenannt 1",
+    "Unbenannt",
     "Willkommen.md"
   ]
 }
