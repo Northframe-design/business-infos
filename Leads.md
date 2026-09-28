@@ -1,6 +1,6 @@
 # Leads – Roofing Texas
 
-👉 **[Lead-Tabelle öffnen (Google Sheets)](https://docs.google.com/spreadsheets/d/1XPKZrTDnjQVwe2XWTjLT_Boaz90hLMDb/edit)**
+👉 **[Lead-Tabelle öffnen (Google Sheets)](https://docs.google.com/spreadsheets/d/15d7K6eBbMh-GOhdGRqrnz3YADm_eZI85CBkE6p2KDPk/edit)**
 
 Die Tabelle ist die einzige Quelle für Leads (live, beide gleichzeitig). Hier in Obsidian nur Notizen und Learnings.
 
