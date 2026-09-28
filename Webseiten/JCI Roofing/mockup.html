@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>JCI Roofing Company — Redesign concept</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --navy: #0c1726;
+    --navy-2: #122238;
+    --steel: #9db0c6;
+    --text: #e8eef6;
+    --blue: #3b74ff;
+    --blue-dark: #2a5ee0;
+    --line: rgba(157, 176, 198, 0.18);
+    --gutter: clamp(16px, 5vw, 64px);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--navy); color: var(--text); font: 400 16.5px/1.6 'Manrope', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  .wrap { width: min(1240px, 100% - 2 * var(--gutter)); margin-inline: auto; }
+
+  header { position: sticky; top: 0; z-index: 10; background: rgba(12, 23, 38, 0.85); backdrop-filter: blur(12px); border-bottom: 1px solid var(--line); }
+  header .wrap { display: flex; align-items: center; justify-content: space-between; height: 74px; gap: 1.5rem; }
+  .logo { display: flex; align-items: center; gap: 0.7rem; text-decoration: none; }
+  .logo svg { width: 40px; height: 34px; }
+  .logo b { display: block; font-weight: 800; font-size: 1.05rem; letter-spacing: 0.04em; }
+  .logo small { display: block; font-size: 0.68rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--steel); }
+  nav { display: flex; gap: 1.8rem; font-size: 0.93rem; font-weight: 500; color: var(--steel); }
+  nav a { text-decoration: none; }
+  nav a:hover { color: var(--text); }
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.55rem; min-height: 48px; padding: 0 1.35rem; border-radius: 10px; font-weight: 700; text-decoration: none; border: 0; font-family: inherit; font-size: 0.97rem; cursor: pointer; transition: background-color 0.25s, transform 0.25s; }
+  .btn:hover { transform: translateY(-1px); }
+  .btn-blue { background: var(--blue); color: #fff; box-shadow: 0 12px 30px -12px rgba(59, 116, 255, 0.8); }
+  .btn-blue:hover { background: var(--blue-dark); }
+  .btn-ghost { box-shadow: inset 0 0 0 1px rgba(232, 238, 246, 0.35); color: var(--text); }
+  .btn-ghost:hover { background: rgba(232, 238, 246, 0.08); }
+
+  .hero { position: relative; overflow: clip; padding: clamp(3.5rem, 8vw, 6.5rem) 0; border-bottom: 1px solid var(--line); }
+  .hero-bg { position: absolute; inset: 0; pointer-events: none; }
+  .hero-bg::after { content: ''; position: absolute; inset: 0; background: radial-gradient(60% 70% at 78% 30%, rgba(59, 116, 255, 0.28), transparent 70%), linear-gradient(180deg, transparent 60%, var(--navy)); }
+  .hero-bg svg { position: absolute; right: -8%; top: -10%; width: 80%; height: 130%; opacity: 0.5; }
+  .courses { fill: none; stroke: rgba(157, 176, 198, 0.22); stroke-width: 1; }
+  .hero .wrap { position: relative; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr); gap: clamp(2rem, 5vw, 4.5rem); align-items: center; }
+  .pill { display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.4rem 0.8rem; border-radius: 999px; background: rgba(59, 116, 255, 0.14); color: #b9cdff; font-size: 0.82rem; font-weight: 600; }
+  .pill i { width: 7px; height: 7px; border-radius: 50%; background: #5ee39b; }
+  h1 { margin: 1.2rem 0 1.3rem; font-weight: 800; font-size: clamp(2.5rem, 5.6vw, 4.8rem); line-height: 1.02; letter-spacing: -0.03em; }
+  h1 span { color: var(--steel); }
+  .lead { max-width: 33rem; font-size: 1.1rem; color: var(--steel); margin: 0 0 2rem; }
+  .actions { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+  .rating { display: flex; align-items: center; gap: 0.8rem; margin-top: 2rem; font-weight: 600; font-size: 0.95rem; }
+  .rating .stars { color: #ffc24b; letter-spacing: 0.1em; }
+  .rating small { color: var(--steel); font-weight: 500; }
+
+  .card { background: linear-gradient(180deg, rgba(18, 34, 56, 0.92), rgba(12, 23, 38, 0.92)); border: 1px solid var(--line); border-radius: 18px; padding: clamp(1.4rem, 3vw, 2rem); box-shadow: 0 40px 80px -40px rgba(0, 0, 0, 0.7); }
+  .card h2 { margin: 0 0 0.3rem; font-size: 1.35rem; font-weight: 800; letter-spacing: -0.01em; }
+  .card p { margin: 0 0 1.3rem; color: var(--steel); font-size: 0.93rem; }
+  .field { display: grid; gap: 0.35rem; margin-bottom: 0.85rem; }
+  .field span { font-size: 0.78rem; font-weight: 600; color: var(--steel); letter-spacing: 0.04em; }
+  .field input { min-height: 46px; padding: 0 0.9rem; border-radius: 10px; border: 1px solid var(--line); background: rgba(12, 23, 38, 0.8); color: var(--text); font: inherit; }
+  .field input:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgba(59, 116, 255, 0.3); }
+  .card .btn { width: 100%; margin-top: 0.4rem; }
+  .card small { display: block; margin-top: 0.8rem; color: var(--steel); font-size: 0.78rem; text-align: center; }
+
+  .strip { border-bottom: 1px solid var(--line); }
+  .strip .wrap { display: grid; grid-template-columns: repeat(3, 1fr); }
+  .strip div { padding: 1.6rem 0; }
+  .strip div + div { padding-left: 1.6rem; border-left: 1px solid var(--line); }
+  .strip b { display: block; font-size: 1.5rem; font-weight: 800; letter-spacing: -0.02em; }
+  .strip span { color: var(--steel); font-size: 0.9rem; }
+
+  section { padding: clamp(4rem, 9vw, 6.5rem) 0; }
+  .eyebrow { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #8fb0ff; }
+  h2.title { margin: 0.6rem 0 2.6rem; font-weight: 800; font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.05; letter-spacing: -0.025em; max-width: 20ch; }
+  .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+  .tile { position: relative; padding: 1.8rem; border-radius: 16px; background: var(--navy-2); border: 1px solid var(--line); overflow: hidden; transition: transform 0.35s, border-color 0.35s; }
+  .tile:hover { transform: translateY(-4px); border-color: rgba(59, 116, 255, 0.55); }
+  .tile svg { width: 34px; height: 34px; stroke: #8fb0ff; fill: none; stroke-width: 1.6; margin-bottom: 1.6rem; }
+  .tile h3 { margin: 0 0 0.5rem; font-size: 1.25rem; font-weight: 800; }
+  .tile p { margin: 0; color: var(--steel); font-size: 0.95rem; }
+  .projects { display: grid; grid-template-columns: 2fr 1fr 1fr; gap: 1rem; margin-top: 1rem; }
+  .ph { min-height: 200px; border-radius: 16px; border: 1px dashed rgba(157, 176, 198, 0.35); display: grid; place-items: center; color: var(--steel); font-size: 0.85rem; background: repeating-linear-gradient(135deg, rgba(157, 176, 198, 0.05) 0 12px, transparent 12px 24px); }
+
+  .logo img { display: block; height: 46px; width: auto; filter: brightness(0) invert(1); }
+  .hero-bg img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.32; }
+  .hero-bg::after { background: radial-gradient(60% 70% at 78% 30%, rgba(59, 116, 255, 0.25), transparent 70%), linear-gradient(90deg, var(--navy) 10%, rgba(12, 23, 38, 0.55) 60%, rgba(12, 23, 38, 0.3)), linear-gradient(180deg, transparent 60%, var(--navy)); }
+  figure.ph { margin: 0; position: relative; overflow: hidden; border: 0; padding: 0; background: none; }
+  figure.ph img { width: 100%; height: 100%; min-height: 220px; object-fit: cover; display: block; transition: transform 0.8s ease; }
+  figure.ph:hover img { transform: scale(1.04); }
+  figure.ph figcaption { position: absolute; left: 1rem; bottom: 1rem; padding: 0.35rem 0.75rem; border-radius: 8px; background: rgba(12, 23, 38, 0.8); color: var(--text); font-size: 0.85rem; font-weight: 600; }
+  .strip .bbb { display: flex; align-items: center; gap: 0.9rem; }
+  .strip .bbb img { height: 44px; width: auto; background: #fff; border-radius: 6px; padding: 4px 8px; }
+
+  .cta { text-align: center; background: radial-gradient(50% 80% at 50% 0%, rgba(59, 116, 255, 0.25), transparent 70%); border-top: 1px solid var(--line); }
+  .cta h2 { margin: 0.6rem auto 1.2rem; font-weight: 800; font-size: clamp(2rem, 4.5vw, 3.6rem); letter-spacing: -0.03em; line-height: 1.04; max-width: 18ch; }
+  .cta p { color: var(--steel); margin: 0 0 2rem; }
+  footer { padding: 1.6rem 0 5rem; font-size: 0.85rem; color: var(--steel); border-top: 1px solid var(--line); }
+  footer .wrap { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+  .callbar { display: none; }
+
+  @media (max-width: 900px) {
+    nav { display: none; }
+    .hero .wrap { grid-template-columns: 1fr; }
+    .grid { grid-template-columns: 1fr; }
+    .projects { grid-template-columns: 1fr 1fr; }
+    .projects .ph:first-child { grid-column: 1 / -1; }
+  }
+  @media (max-width: 560px) {
+    header .btn { display: none; }
+    .strip .wrap { grid-template-columns: 1fr; }
+    .strip div + div { padding-left: 0; border-left: 0; border-top: 1px solid var(--line); }
+    .actions .btn { flex: 1 1 100%; }
+    .callbar { display: flex; position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 20; }
+    .callbar .btn { flex: 1; }
+  }
+</style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <a class="logo" href="#"><img src="img/logo.png" alt="JCI Roofing Company" height="46" /></a>
+      <nav aria-label="Main">
+        <a href="#services">Services</a>
+        <a href="#projects">Recent projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a class="btn btn-blue" href="tel:+19722454025">(972) 245-4025</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-bg" aria-hidden="true"><img src="img/hero.webp" alt="" /></div>
+      <div class="wrap">
+        <div>
+          <span class="pill"><i></i> Roofing contractor in Carrollton, TX</span>
+          <h1>Our team's work ethic is <span>second to none.</span></h1>
+          <p class="lead">Roof replacement and repair for homeowners in Carrollton and North Dallas.</p>
+          <div class="actions">
+            <a class="btn btn-blue" href="tel:+19722454025">Call (972) 245-4025</a>
+            <a class="btn btn-ghost" href="#projects">See recent projects</a>
+          </div>
+          <div class="rating"><span class="stars">★★★★★</span> 4.8 <small>· 33 Google reviews</small></div>
+        </div>
+        <form class="card" onsubmit="event.preventDefault(); this.querySelector('small').textContent = 'Concept only, nothing was sent.';">
+          <h2>Get a free estimate</h2>
+          <p>Tell us where the house is. We call you back.</p>
+          <label class="field"><span>Name</span><input autocomplete="name" /></label>
+          <label class="field"><span>Phone</span><input type="tel" autocomplete="tel" /></label>
+          <label class="field"><span>Property address</span><input autocomplete="street-address" /></label>
+          <button class="btn btn-blue" type="submit">Request estimate</button>
+          <small>Your details are only used to contact you about your roof.</small>
+        </form>
+      </div>
+    </section>
+
+    <div class="strip">
+      <div class="wrap">
+        <div><b>4.8 ★</b><span>Google rating, 33 reviews</span></div>
+        <div><b>Carrollton</b><span>3108 Old Denton Rd, TX 75007</span></div>
+        <div class="bbb"><img src="img/bbb.png" alt="BBB Accredited Business badge, as shown on jciroofing.com" /><span>Badge shown on jciroofing.com</span></div>
+      </div>
+    </div>
+
+    <section id="services">
+      <div class="wrap">
+        <span class="eyebrow">Services</span>
+        <h2 class="title">From a single repair to a complete new roof.</h2>
+        <div class="grid">
+          <div class="tile"><svg viewBox="0 0 24 24"><path d="M3 12 L12 4 L21 12"/><path d="M6 10 V20 H18 V10"/></svg><h3>Reroofing</h3><p>Full tear-off and a new roof system when repairs are no longer enough.</p></div>
+          <div class="tile"><svg viewBox="0 0 24 24"><path d="M4 20 L20 4"/><path d="M14 4 H20 V10"/><circle cx="7" cy="17" r="3"/></svg><h3>Roof repair</h3><p>Leaks, missing shingles and flashing, fixed before they spread.</p></div>
+          <div class="tile"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8"/><path d="M12 8 V12 L15 14"/></svg><h3>Areas we serve</h3><p>Carrollton and the surrounding North Dallas communities.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="projects" style="padding-top: 0">
+      <div class="wrap">
+        <span class="eyebrow">Recent projects</span>
+        <h2 class="title">Real roofs, real neighborhoods.</h2>
+        <div class="projects">
+          <figure class="ph"><img src="img/roof-replacement.jpg" alt="Roof replacement by JCI Roofing" /><figcaption>Roof replacement</figcaption></figure>
+          <figure class="ph"><img src="img/metal-roof.jpg" alt="Metal roof replaced by JCI Roofing" /><figcaption>Metal roof</figcaption></figure>
+          <figure class="ph"><img src="img/hero.webp" alt="Architectural shingle roof" /><figcaption>Shingle roof</figcaption></figure>
+        </div>
+      </div>
+    </section>
+
+    <section class="cta" id="contact">
+      <div class="wrap">
+        <span class="eyebrow">Free estimate</span>
+        <h2>One call, a clear answer about your roof.</h2>
+        <p>3108 Old Denton Rd, Carrollton, TX 75007</p>
+        <a class="btn btn-blue" href="tel:+19722454025">Call (972) 245-4025</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>© JCI Roofing Company</span>
+      <span>Redesign concept by Northframe · not the current jciroofing.com</span>
+    </div>
+  </footer>
+  <div class="callbar"><a class="btn btn-blue" href="tel:+19722454025">Call (972) 245-4025</a></div>
+
+</body>
+</html>

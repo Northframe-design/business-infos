@@ -1,0 +1,203 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Evans & Horton Roofing — Redesign concept</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Karla:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --cream: #f3ece2;
+    --cream-2: #e8ddcd;
+    --espresso: #2a1f18;
+    --brown: #5a3e2b;
+    --copper: #a4552a;
+    --copper-dark: #87431f;
+    --muted: #6d5c4f;
+    --line: rgba(42, 31, 24, 0.15);
+    --gutter: clamp(16px, 5vw, 64px);
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--cream); color: var(--espresso); font: 400 17px/1.65 'Karla', system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  .wrap { width: min(1200px, 100% - 2 * var(--gutter)); margin-inline: auto; }
+
+  .topbar { background: var(--brown); color: #f3e6d6; font-size: 0.85rem; }
+  .topbar .wrap { display: flex; justify-content: space-between; gap: 1rem; padding: 0.55rem 0; flex-wrap: wrap; }
+  .topbar a { text-decoration: none; }
+  header { position: sticky; top: 0; z-index: 10; background: rgba(243, 236, 226, 0.94); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line); }
+  header .wrap { display: flex; align-items: center; justify-content: space-between; height: 78px; gap: 1.5rem; }
+  .logo { text-decoration: none; line-height: 1; }
+  .logo b { display: block; font: 400 1.55rem 'DM Serif Display', serif; letter-spacing: 0.01em; }
+  .logo small { display: block; margin-top: 0.3rem; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.24em; text-transform: uppercase; color: var(--copper); }
+  nav { display: flex; gap: 1.8rem; font-weight: 600; font-size: 0.95rem; }
+  nav a { text-decoration: none; color: var(--muted); }
+  nav a:hover { color: var(--espresso); }
+  .btn { display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; min-height: 48px; padding: 0 1.5rem; border-radius: 999px; font-weight: 700; text-decoration: none; transition: background-color 0.25s, transform 0.25s; }
+  .btn:hover { transform: translateY(-1px); }
+  .btn-copper { background: var(--copper); color: #fff; }
+  .btn-copper:hover { background: var(--copper-dark); }
+  .btn-outline { box-shadow: inset 0 0 0 1.5px var(--espresso); }
+  .btn-outline:hover { background: var(--espresso); color: var(--cream); }
+
+  .hero { position: relative; overflow: clip; padding: clamp(4rem, 9vw, 7rem) var(--gutter) clamp(3.5rem, 8vw, 6rem); text-align: center; }
+  .hero::before { content: ''; position: absolute; inset: auto -10% -40% -10%; height: 70%; background: radial-gradient(50% 60% at 50% 100%, rgba(164, 85, 42, 0.16), transparent 70%); }
+  .seal { position: relative; width: 150px; height: 150px; margin: 0 auto 2rem; }
+  .seal svg { width: 100%; height: 100%; }
+  .seal .ring { animation: spin 40s linear infinite; transform-origin: 75px 75px; }
+  .seal text { font: 700 11.5px 'Karla', sans-serif; letter-spacing: 3.2px; fill: var(--brown); text-transform: uppercase; }
+  .seal .year { position: absolute; inset: 0; display: grid; place-items: center; font: 400 2.4rem 'DM Serif Display', serif; color: var(--copper); }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  h1 { position: relative; margin: 0 auto 1.4rem; font: 400 clamp(2.7rem, 6.5vw, 5.8rem)/0.98 'DM Serif Display', serif; letter-spacing: -0.01em; max-width: 14ch; }
+  h1 em { color: var(--copper); }
+  .lead { position: relative; max-width: 36rem; margin: 0 auto 2.2rem; color: var(--muted); font-size: 1.12rem; }
+  .actions { position: relative; display: flex; justify-content: center; flex-wrap: wrap; gap: 0.8rem; }
+  .rating { position: relative; margin-top: 2rem; font-weight: 600; color: var(--muted); }
+  .rating span { color: var(--copper); letter-spacing: 0.12em; margin-right: 0.4rem; }
+
+  .quote { background: var(--espresso); color: var(--cream); }
+  .quote .wrap { padding: clamp(3.5rem, 8vw, 5.5rem) 0; display: grid; grid-template-columns: auto minmax(0, 1fr); gap: clamp(1.5rem, 4vw, 3.5rem); align-items: start; }
+  .quote .mark { font: 400 7rem/0.7 'DM Serif Display', serif; color: var(--copper); }
+  .quote blockquote { margin: 0; font: 400 clamp(1.5rem, 3vw, 2.3rem)/1.3 'DM Serif Display', serif; font-style: italic; max-width: 30ch; }
+  .quote cite { display: block; margin-top: 1.4rem; font: 700 0.8rem 'Karla', sans-serif; font-style: normal; letter-spacing: 0.2em; text-transform: uppercase; color: #d9a27c; }
+
+  .logo img { display: block; height: 52px; width: auto; border-radius: 6px; }
+  .hero-photo { position: relative; margin: clamp(2.5rem, 6vw, 4rem) auto 0; max-width: 1100px; aspect-ratio: 16 / 8; border-radius: 22px; overflow: hidden; box-shadow: 0 40px 80px -45px rgba(42, 31, 24, 0.6); }
+  .hero-photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .quote .wrap { grid-template-columns: minmax(0, 1fr) minmax(0, 0.55fr); align-items: center; }
+  .quote .mark { display: block; margin-bottom: 0.4rem; }
+  .quote-photo { width: 100%; aspect-ratio: 5 / 6; object-fit: cover; border-radius: 18px; }
+
+  section { padding: clamp(4rem, 9vw, 6.5rem) 0; }
+  .eyebrow { font-size: 0.78rem; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--copper); }
+  h2 { margin: 0.6rem 0 2.8rem; font: 400 clamp(2.1rem, 4.4vw, 3.5rem)/1.04 'DM Serif Display', serif; max-width: 18ch; }
+  .services { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1rem; }
+  .svc { padding: 1.6rem 1.3rem 1.8rem; background: var(--cream-2); border-radius: 18px; transition: transform 0.35s, background-color 0.35s; }
+  .svc:hover { transform: translateY(-4px); background: #e2d3bf; }
+  .svc svg { width: 32px; height: 32px; stroke: var(--copper); fill: none; stroke-width: 1.6; margin-bottom: 2.2rem; }
+  .svc h3 { margin: 0 0 0.4rem; font: 400 1.35rem/1.15 'DM Serif Display', serif; }
+  .svc p { margin: 0; font-size: 0.94rem; color: var(--muted); }
+
+  .contact { border-top: 1px solid var(--line); }
+  .contact .wrap { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 6vw, 5rem); align-items: center; }
+  .facts { display: grid; gap: 1.1rem; margin: 0; }
+  .facts div { display: grid; grid-template-columns: 7rem 1fr; gap: 1rem; padding-bottom: 1.1rem; border-bottom: 1px solid var(--line); }
+  .facts dt { font-size: 0.8rem; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--copper); }
+  .facts dd { margin: 0; }
+  .big-phone { display: inline-block; margin: 0.6rem 0 1.6rem; font: 400 clamp(2.2rem, 5vw, 3.8rem)/1 'DM Serif Display', serif; text-decoration: none; }
+  .big-phone:hover { color: var(--copper); }
+
+  footer { padding: 1.6rem 0 5rem; font-size: 0.85rem; color: var(--muted); border-top: 1px solid var(--line); }
+  footer .wrap { display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+  .callbar { display: none; }
+
+  @media (max-width: 1000px) { .services { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (max-width: 800px) {
+    nav { display: none; }
+    .contact .wrap, .quote .wrap { grid-template-columns: 1fr; }
+    .services { grid-template-columns: 1fr 1fr; }
+  }
+  @media (max-width: 560px) {
+    header .btn { display: none; }
+    .services { grid-template-columns: 1fr; }
+    .actions .btn { flex: 1 1 100%; }
+    .facts div { grid-template-columns: 1fr; gap: 0.2rem; }
+    .callbar { display: flex; position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 20; }
+    .callbar .btn { flex: 1; box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5); }
+  }
+  @media (prefers-reduced-motion: reduce) { .seal .ring { animation: none; } }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="wrap">
+      <span>Serving the Dallas–Fort Worth Metroplex since 1980</span>
+      <a href="mailto:info@evansandhorton.com">info@evansandhorton.com</a>
+    </div>
+  </div>
+
+  <header>
+    <div class="wrap">
+      <a class="logo" href="#"><img src="img/logo.png" alt="Evans and Horton Roofing, L.P." height="52" /></a>
+      <nav aria-label="Main">
+        <a href="#services">Services</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a class="btn btn-copper" href="tel:+19722591558">972-259-1558</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="seal" aria-hidden="true">
+        <svg viewBox="0 0 150 150">
+          <defs><path id="circle" d="M75 75 m-58 0 a58 58 0 1 1 116 0 a58 58 0 1 1 -116 0" /></defs>
+          <g class="ring"><text><textPath href="#circle">Satisfaction guaranteed · Irving, Texas ·</textPath></text></g>
+        </svg>
+        <span class="year">1980</span>
+      </div>
+      <h1>Serving the Metroplex <em>since 1980.</em></h1>
+      <p class="lead">Residential and commercial roofing, flat roofs, skylights and chimney caps, from a local company in Irving.</p>
+      <div class="actions">
+        <a class="btn btn-copper" href="tel:+19722591558">Call 972-259-1558</a>
+        <a class="btn btn-outline" href="#contact">Request a free estimate</a>
+      </div>
+      <p class="rating"><span>★★★★★</span>5.0 on Google · 20 reviews</p>
+      <figure class="hero-photo"><img src="img/roof-drone.webp" alt="New shingle roof on a brick home, photo from evansandhorton.com" /></figure>
+    </section>
+
+    <div class="quote" id="about">
+      <div class="wrap">
+        <div>
+          <span class="mark" aria-hidden="true">“</span>
+          <blockquote>My goal is to provide a service that is top quality for a fair price.</blockquote>
+          <cite>Evans &amp; Horton Roofing</cite>
+        </div>
+        <img class="quote-photo" src="img/roofer.webp" alt="Roofer nailing shingles" />
+      </div>
+    </div>
+
+    <section id="services">
+      <div class="wrap">
+        <span class="eyebrow">Services</span>
+        <h2>Every part of the roof, under one name.</h2>
+        <div class="services">
+          <div class="svc"><svg viewBox="0 0 24 24"><path d="M3 12 L12 4 L21 12"/><path d="M6 10 V20 H18 V10"/></svg><h3>Residential</h3><p>Repairs and replacements for homes.</p></div>
+          <div class="svc"><svg viewBox="0 0 24 24"><rect x="4" y="6" width="16" height="14"/><path d="M8 10h2M14 10h2M8 14h2M14 14h2"/></svg><h3>Commercial</h3><p>Roofing for business properties.</p></div>
+          <div class="svc"><svg viewBox="0 0 24 24"><path d="M3 10 H21"/><path d="M4 10 V18 H20 V10"/></svg><h3>Flat roofs</h3><p>Low-slope and flat roof systems.</p></div>
+          <div class="svc"><svg viewBox="0 0 24 24"><rect x="6" y="6" width="12" height="12"/><path d="M12 6v12M6 12h12"/></svg><h3>Skylights</h3><p>Installed and sealed properly.</p></div>
+          <div class="svc"><svg viewBox="0 0 24 24"><path d="M8 20 V8 H16 V20"/><path d="M6 8 H18"/><path d="M9 5 H15"/></svg><h3>Chimney caps</h3><p>Keep water and animals out.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="contact" id="contact">
+      <div class="wrap">
+        <div>
+          <span class="eyebrow">Free estimate</span>
+          <h2 style="margin-bottom: 0.5rem">Call us about your roof.</h2>
+          <a class="big-phone" href="tel:+19722591558">972-259-1558</a>
+          <div><a class="btn btn-copper" href="mailto:info@evansandhorton.com">Email us</a></div>
+        </div>
+        <dl class="facts">
+          <div><dt>Office</dt><dd>1826 Parkside Ave, Irving, TX 75061</dd></div>
+          <div><dt>Email</dt><dd>info@evansandhorton.com</dd></div>
+          <div><dt>Since</dt><dd>1980, Dallas–Fort Worth Metroplex</dd></div>
+        </dl>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <span>© Evans &amp; Horton Roofing, L.P.</span>
+      <span>Redesign concept by Northframe · not the current evansandhorton.com</span>
+    </div>
+  </footer>
+  <div class="callbar"><a class="btn btn-copper" href="tel:+19722591558">Call 972-259-1558</a></div>
+</body>
+</html>
