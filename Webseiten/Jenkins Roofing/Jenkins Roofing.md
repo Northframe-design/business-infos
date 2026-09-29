@@ -11,6 +11,9 @@ Telefon (817) 886-6710 · info@jenkinsroofing.com · aktuelle Seite: https://jen
 Stil: hell, klassische Serifenschrift, Rot aus ihrem Logo. Ihr eigenes Hero-Video, Referenzfotos, GAF-Logo.
 Öffnen: `mockup.html` in diesem Ordner · Code: [GitHub](https://github.com/Northframe-design/website-business/tree/main/leads/jenkins-roofing)
 
+### Werbevideo (22 s, ohne Ton)
+![[Jenkins Roofing/werbevideo.mp4]]
+
 ### Desktop
 ![[Jenkins Roofing/desktop.png]]
 

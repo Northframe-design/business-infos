@@ -11,6 +11,9 @@ Telefon 972-259-1558 · info@evansandhorton.com · aktuelle Seite: https://evans
 Stil: warm (Creme, Kupfer), elegante Serifenschrift, drehendes "Since 1980"-Siegel, ihr echtes Zitat, Drohnenfoto und Dachdecker-Foto von ihrer Website.
 Öffnen: `mockup.html` in diesem Ordner · Code: [GitHub](https://github.com/Northframe-design/website-business/tree/main/leads/evans-horton-roofing)
 
+### Werbevideo (22 s, ohne Ton)
+![[Evans & Horton Roofing/werbevideo.mp4]]
+
 ### Desktop
 ![[Evans & Horton Roofing/desktop.png]]
 

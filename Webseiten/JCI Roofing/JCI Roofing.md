@@ -11,6 +11,9 @@ Telefon (972) 245-4025 · aktuelle Seite: https://jciroofing.com
 Stil: dunkel/Marineblau, moderne Schrift, ihr Slogan als Überschrift, Anfrage-Formular oben, echte Projektfotos, BBB-Siegel.
 Öffnen: `mockup.html` in diesem Ordner · Code: [GitHub](https://github.com/Northframe-design/website-business/tree/main/leads/jci-roofing)
 
+### Werbevideo (22 s, ohne Ton)
+![[JCI Roofing/werbevideo.mp4]]
+
 ### Desktop
 ![[JCI Roofing/desktop.png]]
 
