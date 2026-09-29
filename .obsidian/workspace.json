@@ -16,8 +16,23 @@
               "icon": "orbit",
               "title": "Vault Orrery"
             }
+          },
+          {
+            "id": "ecf535a66af4eda9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Webseiten/Evans & Horton Roofing/Evans & Horton Roofing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Evans & Horton Roofing"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -185,8 +200,10 @@
       "vault-orrery:Open Vault Orrery": false
     }
   },
-  "active": "bbe06d81c81ad0b5",
+  "active": "ecf535a66af4eda9",
   "lastOpenFiles": [
+    "Webseiten/JCI Roofing/JCI Roofing.md",
+    "Webseiten/Jenkins Roofing/Jenkins Roofing.md",
     "Webseiten/JCI Roofing/JCI Roofing.md.tmp.14272.e7a021ddaeff",
     "Webseiten/Jenkins Roofing/Jenkins Roofing.md.tmp.14272.c83a7fda5c64",
     "Webseiten/Evans & Horton Roofing/werbevideo.mp4",
@@ -196,16 +213,13 @@
     "Webseiten/Lone Star Demo/Lone Star Demo.md.tmp.14272.74ec4f195e39",
     "Webseiten/Evans & Horton Roofing/Evans & Horton Roofing.md",
     "Webseiten/Evans & Horton Roofing/Evans & Horton Roofing.md.tmp.14272.9e2c9a047400",
-    "Webseiten/JCI Roofing/JCI Roofing.md",
     "Webseiten/JCI Roofing/JCI Roofing.md.tmp.14272.6fffd0d31bc8",
-    "Webseiten/Jenkins Roofing/Jenkins Roofing.md",
     "Webseiten/Webseiten.md",
     "Webseiten/Webseiten.md.tmp.14272.44070aa4b641",
     "Webseiten/Lone Star Demo",
     "Webseiten/Evans & Horton Roofing/img/roofer.webp",
     "Webseiten/Evans & Horton Roofing/img/roof-drone.webp",
     "Webseiten/Evans & Horton Roofing/img/logo.png",
-    "Webseiten/Evans & Horton Roofing/img",
     "Webseiten/JCI Roofing/img/roof-replacement.jpg",
     "Webseiten/JCI Roofing/img/metal-roof.jpg",
     "Webseiten/JCI Roofing/img/logo.png",
