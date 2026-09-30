@@ -17,3 +17,5 @@ Weitere freigegebene Markenmaterialien werden in diesem Ordner gesammelt. Die au
 Die verbindlichen Regeln für Tonalität und Formulare stehen in [Sprache und Verhalten](<Sprache und Verhalten.md>).
 
 Die englischen Kundentexte für Projektanfrage und Onboarding liegen unter [Formulare](Formulare/README.md).
+
+Ausfüllbare PDFs liegen unter Formulare; die gestaltete [Onboarding-E-Mail](E-Mail/Onboarding.md) mit HTML-Version unter E-Mail. Originalfonts samt Lizenz liegen unter Fonts.

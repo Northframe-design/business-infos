@@ -30,3 +30,10 @@ Die Formulare sind vollständige Textentwürfe in amerikanischem Englisch. Sie s
 - `farbpaletten.html` enthält die früheren, verworfenen Farbvorschläge, nicht die aktuelle Brand Identity.
 
 Übernommen aus dem Projektordner „Website Buisness/Brand identity“. Diese Ablage ist eine Kopie; es wurde keine automatische Synchronisierung zwischen Projektordner und Vault eingerichtet.
+
+## PDF-Formulare und E-Mail
+- [[Northframe-Project-Inquiry.pdf|Ausfüllbare Projektanfrage]]
+- [[Northframe-Website-Onboarding.pdf|Ausfüllbares Onboarding]]
+- [[Brand identity/E-Mail/Onboarding|E-Mail-Vorlage und Versandhinweise]]
+
+Die PDFs sind ausfüllbar; nur die Onlineformulare sind noch nicht eingerichtet.

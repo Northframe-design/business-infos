@@ -18,5 +18,6 @@ Für Formulare: 16–18 px Eingabetext, mindestens 16 px Fließtext, Zeilenhöhe
 - https://www.fontshare.com/licenses/itf-ffl
 - https://madebyshape.co.uk/web-design-blog/50-best-free-fonts-for-designers-in-2026/
 
-Die Awwwards-Free-Fonts-Sammlung war bei der Recherche nicht abrufbar. Fontshare erklärt seine Schriften als kostenlos für persönliche und kommerzielle Nutzung. Bei Einbindung Originaldateien samt jeweiliger Lizenz aufbewahren. Die Fontdateien wurden im Rahmen dieser Festlegung noch nicht neu installiert.
+Die Awwwards-Free-Fonts-Sammlung war bei der Recherche nicht abrufbar. Fontshare erklärt seine Schriften als kostenlos für persönliche und kommerzielle Nutzung. Bei Einbindung Originaldateien samt jeweiliger Lizenz aufbewahren. Originaldateien von Cabinet Grotesk Bold sowie Satoshi Regular und Medium liegen mit Lizenz in Fonts und werden in den PDF-Seitentexten verwendet. PDF-Eingabefelder verwenden Helvetica für Reader-Kompatibilität; E-Mails verwenden Arial/Helvetica als Fallback.
+
 
