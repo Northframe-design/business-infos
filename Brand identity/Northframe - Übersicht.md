@@ -37,3 +37,7 @@ Die Formulare sind vollständige Textentwürfe in amerikanischem Englisch. Sie s
 - [[Brand identity/E-Mail/Onboarding|E-Mail-Vorlage und Versandhinweise]]
 
 Die PDFs sind ausfüllbar; nur die Onlineformulare sind noch nicht eingerichtet.
+
+## Akquise
+- [[Brand identity/E-Mail/Akquise/01-Mailentwuerfe|Drei Akquise-Stile und Follow-ups]]
+- [[Brand identity/E-Mail/Akquise/02-Testplan|Einfacher Vergleich der Varianten]]
