@@ -22,3 +22,8 @@ Stil: hell, klassische Serifenschrift, Rot aus ihrem Logo. Ihr eigenes Hero-Vide
 
 ## Notizen
 - Video wird live von jenkinsroofing.com geladen (20 MB), nicht kopiert.
+
+## Neues Akquisevideo
+
+[[Webseiten/Jenkins Roofing/Akquisevideo V4|Akquisevideo V4 – mit Musik, Sprecheraufnahme offen]]
+

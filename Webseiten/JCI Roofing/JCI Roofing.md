@@ -19,3 +19,8 @@ Stil: dunkel/Marineblau, moderne Schrift, ihr Slogan als Überschrift, Anfrage-F
 
 ### Handy
 ![[JCI Roofing/mobil.png|300]]
+
+## Neues Akquisevideo
+
+[[Webseiten/JCI Roofing/Akquisevideo V4|Akquisevideo V4 – mit Musik, Sprecheraufnahme offen]]
+

@@ -19,3 +19,8 @@ Stil: warm (Creme, Kupfer), elegante Serifenschrift, drehendes "Since 1980"-Sieg
 
 ### Handy
 ![[Evans & Horton Roofing/mobil.png|300]]
+
+## Neues Akquisevideo
+
+[[Webseiten/Evans & Horton Roofing/Akquisevideo V4|Akquisevideo V4 – mit Musik, Sprecheraufnahme offen]]
+
