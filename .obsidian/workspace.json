@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d053a5b957fc9e59",
+        "id": "eba597c4a631ca21",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe06d81c81ad0b5",
+            "id": "3be38ff06073068d",
             "type": "leaf",
             "state": {
-              "type": "vault-orrery-view",
+              "type": "graph",
               "state": {},
-              "icon": "orbit",
-              "title": "Vault Orrery"
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           }
         ],
@@ -185,8 +185,11 @@
       "vault-orrery:Open Vault Orrery": false
     }
   },
-  "active": "bbe06d81c81ad0b5",
+  "active": "3be38ff06073068d",
   "lastOpenFiles": [
+    "Unbenannt 1.canvas",
+    "Unbenannt 1.md",
+    "Unbenannt.md",
     "Akquise/Neue-Leads-2026-10-01.md",
     "Akquise/Lead-Profile-2026-10-01.md",
     "Webseiten/Evans & Horton Roofing/Akquisevideo V3.md",
@@ -230,9 +233,6 @@
     "Brand identity/Formulare/02-Kunden-Onboarding.md",
     "Brand identity/Typografie.md",
     "Brand identity/Sprache und Verhalten.md",
-    "Brand identity/README.md",
-    "Brand identity/Farben.md",
-    "Akquise/Akquise-Mails.md",
     "Unbenannt.canvas"
   ]
 }
