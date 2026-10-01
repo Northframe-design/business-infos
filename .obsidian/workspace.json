@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "e086d89a64b556c1",
+            "id": "a9311fa29089087f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Webseiten/Evans & Horton Roofing/Akquisevideo V3.md",
+                "file": "Akquise/Neue-Leads-2026-10-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akquisevideo V3"
+              "title": "Neue-Leads-2026-10-01"
             }
           }
         ],
@@ -200,8 +200,11 @@
       "vault-orrery:Open Vault Orrery": false
     }
   },
-  "active": "e086d89a64b556c1",
+  "active": "a9311fa29089087f",
   "lastOpenFiles": [
+    "Webseiten/Evans & Horton Roofing/Akquisevideo V3.md",
+    "Akquise/Neue-Leads-2026-10-01.md",
+    "Akquise/Neue-Leads-2026-10-01.tsv",
     "Webseiten/Evans & Horton Roofing/Northframe-Website-Concept-Evans-Horton-Roofing.pdf",
     "Webseiten/Evans & Horton Roofing/mobil-2026-10-01.png",
     "Webseiten/Evans & Horton Roofing/desktop-2026-10-01.png",
@@ -226,12 +229,9 @@
     "Ressourcen/UI-UX-Ideen-2026-09-30/07-progress.jpg",
     "Ressourcen/UI-UX-Ideen-2026-09-30",
     "Ressourcen",
-    "Webseiten/Evans & Horton Roofing/Akquisevideo V3.md",
     "Webseiten/Evans & Horton Roofing/evans-clay-v3.mp4",
     "Webseiten/JCI Roofing/Akquisevideo V3.md",
-    "Webseiten/JCI Roofing/jci-modern-v3.mp4",
     "Webseiten/Jenkins Roofing/Akquisevideo V3.md",
-    "Webseiten/Jenkins Roofing/jenkins-cardboard-v3.mp4",
     "Webseiten/Evans & Horton Roofing/Akquisevideo V2.md",
     "Webseiten/JCI Roofing/Akquisevideo V2.md",
     "Webseiten/Jenkins Roofing/Akquisevideo V2.md",
