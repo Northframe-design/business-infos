@@ -28,7 +28,7 @@ Drei Sprüche wechseln automatisch alle vier Sekunden an derselben Position: „
 
 ## Akquise
 
-- [[Brand identity/E-Mail/Akquise/05-Versandfertig-American-Air-Customs|Versandfassung der Mail]] — laut Notiz noch nicht versendet.
+- [[03 Vertrieb/E-Mails/05-Versandfertig-American-Air-Customs|Versandfassung der Mail]] — laut Notiz noch nicht versendet.
 - [[Akquise-Mail|Älterer Mailentwurf]] · [[Akquisevideo – Skript|Videoskript]]
 - [[Northframe-Website-Concept-American-Air-Customs.pdf|Konzept-PDF]] · [[scroll-desktop-2026-10-02.mp4|Scroll-Video]]
 

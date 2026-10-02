@@ -1,14 +1,14 @@
 # Northframe — Akquise-Mails Bright Tree & Ft Worth Fence, versandfertig
 
 Gleicher Aufbau und Ton wie `03-Versandfertig.md`. Stand: 02.10.2026. **Noch nicht versendet.**
-Die Beobachtungen zur aktuellen Website stammen aus unserer Prüfung am 01.10.2026 (Lead-Liste `Akquise/Neue-Leads-2026-10-01.tsv`). Vor dem Senden kurz auf dem Handy nachsehen, ob es noch stimmt; wenn nicht, den ersten Absatz streichen.
+Die Beobachtungen zur aktuellen Website stammen aus unserer Prüfung am 01.10.2026 (Lead-Liste `03 Vertrieb/Leads/Neue-Leads-2026-10-01.tsv`). Vor dem Senden kurz auf dem Handy nachsehen, ob es noch stimmt; wenn nicht, den ersten Absatz streichen.
 
 ## Versandplan
 
 | Firma | Empfänger | Anhang | Erstmail frühestens | Follow-up |
 |---|---|---|---|---|
-| Bright Tree Service | info@brighttreeservice.com | `Webseiten/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Ft Worth Fence & Patio | sales@ftworthfenceandpatio.com | `Webseiten/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
+| Bright Tree Service | info@brighttreeservice.com | `03 Vertrieb/Konzepte/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
+| Ft Worth Fence & Patio | sales@ftworthfenceandpatio.com | `03 Vertrieb/Konzepte/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
 
 **Warum erst ab 14.10.:** wie in `03-Versandfertig.md` (Postfach warmlaufen lassen, Gewerbe vorher anmelden).
 **Video:** Das Scroll-Video (`scroll-desktop-2026-10-02.mp4`, ca. 10 MB) nicht an die Erstmail hängen, große Anhänge landen leichter im Spam. Erst in der Antwort auf ein "Ja" mitschicken.

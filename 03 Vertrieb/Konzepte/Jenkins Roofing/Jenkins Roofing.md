@@ -25,11 +25,11 @@ Stil: hell, klassische Serifenschrift, Rot aus ihrem Logo. Ihr eigenes Hero-Vide
 
 ## Neues Akquisevideo
 
-[[Webseiten/Jenkins Roofing/Akquisevideo V4|Akquisevideo V4 – mit Musik, Sprecheraufnahme offen]]
+[[03 Vertrieb/Konzepte/Jenkins Roofing/Akquisevideo V4|Akquisevideo V4 – mit Musik, Sprecheraufnahme offen]]
 
 ## Akquiseunterlagen
 
-- [[Brand identity/E-Mail/Akquise/03-Versandfertig#B — Jenkins Roofing / Persönlich und markenbezogen|Versandfassung der Mail]] — laut Notiz noch nicht versendet.
+- [[03 Vertrieb/E-Mails/03-Versandfertig#B — Jenkins Roofing / Persönlich und markenbezogen|Versandfassung der Mail]] — laut Notiz noch nicht versendet.
 - [[Northframe-Website-Concept-Jenkins-Roofing.pdf|Konzept-PDF]]
 - [[Akquisevideo V4|Aktuelles Akquisevideo]] — ohne Sprecherstimme, daher noch nicht versandfertig. V2 und V3 sind ältere Fassungen.
 - Lead- und Versandstatus: [[Leads|Google-Tabelle]].

@@ -1,3 +1,5 @@
+> **Ältere Fassung (29.09.2026).** Aktuelle Versandfassungen: [[03 Vertrieb/E-Mails/03-Versandfertig|03]], [[03 Vertrieb/E-Mails/04-Versandfertig-Bright-Tree-Fence|04]], [[03 Vertrieb/E-Mails/05-Versandfertig-American-Air-Customs|05]]. Die Recherche-Tabelle bleibt nützlich.
+
 # Akquise-Mails – Texas Roofing (Jenkins, JCI, Evans & Horton)
 
 Stand: 29.09.2026 · Entwürfe, **noch nicht versendet**. Vor dem Versand: siehe „Checkliste vor dem Senden“ unten.

@@ -29,7 +29,7 @@ Die Antwort-Mail unten verlinkt eine private Vorschau ([PRIVATE_PREVIEW_URL]). D
 
 ## A — JCI Roofing / Direkt und konkret
 
-**Anhang:** `Northframe-Website-Concept-JCI-Roofing.pdf` (im Lead-Ordner unter Webseiten/)
+**Anhang:** `Northframe-Website-Concept-JCI-Roofing.pdf` (im Lead-Ordner unter 03 Vertrieb/Konzepte/)
 
 **Subject:** A website concept for JCI
 
@@ -69,7 +69,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 
 ## B — Jenkins Roofing / Persönlich und markenbezogen
 
-**Anhang:** `Northframe-Website-Concept-Jenkins-Roofing.pdf` (im Lead-Ordner unter Webseiten/)
+**Anhang:** `Northframe-Website-Concept-Jenkins-Roofing.pdf` (im Lead-Ordner unter 03 Vertrieb/Konzepte/)
 
 **Subject:** Jenkins, a different first impression
 
@@ -107,7 +107,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 
 ## C — Evans & Horton / Bildhaft und designorientiert
 
-**Anhang:** `Northframe-Website-Concept-Evans-Horton-Roofing.pdf` (im Lead-Ordner unter Webseiten/)
+**Anhang:** `Northframe-Website-Concept-Evans-Horton-Roofing.pdf` (im Lead-Ordner unter 03 Vertrieb/Konzepte/)
 
 **Subject:** A fresh look for Evans & Horton
 

@@ -21,10 +21,10 @@ Problem heute (geprüft 01.10.2026): Überschrift auf dem Handy abgeschnitten, L
 
 ## Akquise
 
-- [[Brand identity/E-Mail/Akquise/04-Versandfertig-Bright-Tree-Fence#Bright Tree Service|Versandfassung der Mail]], noch nicht versendet
-- [[Webseiten/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf|Konzept-PDF]] (Anhang der Erstmail)
-- [[Webseiten/Bright Tree Service/scroll-desktop-2026-10-02.mp4|Scroll-Video]] (erst in der Antwort auf ein „Ja“)
-- [[Webseiten/Bright Tree Service/desktop-2026-10-02.png|Desktop-Screenshot]] · [[Webseiten/Bright Tree Service/mobil-2026-10-02.png|Handy-Screenshot]]
+- [[03 Vertrieb/E-Mails/04-Versandfertig-Bright-Tree-Fence#Bright Tree Service|Versandfassung der Mail]], noch nicht versendet
+- [[03 Vertrieb/Konzepte/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf|Konzept-PDF]] (Anhang der Erstmail)
+- [[03 Vertrieb/Konzepte/Bright Tree Service/scroll-desktop-2026-10-02.mp4|Scroll-Video]] (erst in der Antwort auf ein „Ja“)
+- [[03 Vertrieb/Konzepte/Bright Tree Service/desktop-2026-10-02.png|Desktop-Screenshot]] · [[03 Vertrieb/Konzepte/Bright Tree Service/mobil-2026-10-02.png|Handy-Screenshot]]
 
 ## Nächster Schritt
 

@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mail American Air Customs, versandfertig
 
-Fertige Version von Codex' Entwurf (`Webseiten/American Air Customs/Akquise-Mail.md`, unverändert gelassen): Ton und Kern behalten, ergänzt um Absender, PDF-Anhang, KI-Hinweis und die "no thanks"-Zeile. Stand: 02.10.2026. **Noch nicht versendet.**
+Fertige Version von Codex' Entwurf (`03 Vertrieb/Konzepte/American Air Customs/Akquise-Mail.md`, unverändert gelassen): Ton und Kern behalten, ergänzt um Absender, PDF-Anhang, KI-Hinweis und die "no thanks"-Zeile. Stand: 02.10.2026. **Noch nicht versendet.**
 
 Geprüft am 02.10.2026 auf americanaircustomsinc.com: "Where Family Comes First" und "Since 1992, our family-owned business" (Startseite), "Meet Our Owners Ronnie and Donnie Cagle" (/gallery).
 
@@ -8,9 +8,9 @@ Geprüft am 02.10.2026 auf americanaircustomsinc.com: "Where Family Comes First"
 
 | Empfänger | Anhang | Erstmail frühestens | Follow-up |
 |---|---|---|---|
-| americanaircustoms@yahoo.com | `Webseiten/American Air Customs/Northframe-Website-Concept-American-Air-Customs.pdf` | 14.10.2026 (wie bei den anderen) | 5–7 Werktage später, nur ohne Antwort |
+| americanaircustoms@yahoo.com | `03 Vertrieb/Konzepte/American Air Customs/Northframe-Website-Concept-American-Air-Customs.pdf` | 14.10.2026 (wie bei den anderen) | 5–7 Werktage später, nur ohne Antwort |
 
-**Video:** `Webseiten/American Air Customs/scroll-desktop-2026-10-02.mp4` (21,5 s, ca. 5 MB) erst in der Antwort auf ein "Ja" mitschicken.
+**Video:** `03 Vertrieb/Konzepte/American Air Customs/scroll-desktop-2026-10-02.mp4` (21,5 s, ca. 5 MB) erst in der Antwort auf ein "Ja" mitschicken.
 **Hinweis:** Das Konzept ist eine eigene Vite-Seite von Codex (`leads/american-air-customs/`, Vorschau mit `aac-vite` auf Port 5183). Für den Link in der Antwort braucht es noch eine private Vorschau-Adresse.
 
 ## Erstmail
