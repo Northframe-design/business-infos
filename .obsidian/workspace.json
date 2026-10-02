@@ -11,10 +11,14 @@
             "id": "3be38ff06073068d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Brand identity/E-Mail/Akquise/04-Versandfertig-Bright-Tree-Fence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-Versandfertig-Bright-Tree-Fence"
             }
           }
         ],
@@ -187,12 +191,15 @@
   },
   "active": "3be38ff06073068d",
   "lastOpenFiles": [
+    "Akquise/Akquise-Mails.md",
+    "Leads.md",
+    "Webseiten/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio.pdf",
+    "Webseiten/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio 1.pdf",
     "Brand identity/E-Mail/Akquise/04-Versandfertig-Bright-Tree-Fence.md.tmp.20820.839314fb5168",
     "Brand identity/E-Mail/Akquise/04-Versandfertig-Bright-Tree-Fence.md",
     "Brand identity/E-Mail/Akquise/04-Versandfertig-Bright-Tree-Fence.md.tmp.20820.21edf77d6b46",
     "Webseiten/Ft Worth Fence & Patio/scroll-desktop-2026-10-02.mp4",
     "Webseiten/Bright Tree Service/scroll-desktop-2026-10-02.mp4",
-    "Webseiten/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio.pdf",
     "Webseiten/Ft Worth Fence & Patio/mobil-2026-10-02.png",
     "Webseiten/Ft Worth Fence & Patio/desktop-2026-10-02.png",
     "Webseiten/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf",
@@ -206,11 +213,9 @@
     "Webseiten/American Air Customs/Projektstand/public/images/texas-home.webp",
     "Webseiten/American Air Customs/Projektstand/public/images/texas-home.png",
     "Webseiten/American Air Customs/Projektstand/public/images/hvac-source.mp4",
-    "Webseiten/American Air Customs/Projektstand/public/images/hvac-exploded.mp4",
     "Webseiten/American Air Customs/Projektstand/public/images/exploded-check.jpg",
     "Webseiten/American Air Customs/Projektstand/public/images/cinematic-hero.webp",
     "Webseiten/American Air Customs/Projektstand/public/images/cinematic-hero.png",
-    "Webseiten/American Air Customs/Projektstand/public/fonts/satoshi-regular.woff2",
     "Webseiten/American Air Customs/Projektstand/img/repair-man-air-conditioning-repair-in-03.png",
     "Webseiten/American Air Customs/Projektstand/SOURCES.md",
     "Webseiten/American Air Customs/Projektstand/QA.md",
@@ -234,7 +239,6 @@
     "Webseiten/JCI Roofing/Akquisevideo V3.md",
     "Webseiten/Jenkins Roofing/Akquisevideo V3.md",
     "Webseiten/Evans & Horton Roofing/Akquisevideo V2.md",
-    "Webseiten/JCI Roofing/Akquisevideo V2.md",
     "Unbenannt.canvas"
   ]
 }
