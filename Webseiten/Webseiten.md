@@ -9,6 +9,8 @@ Alle Websites und Redesign-Mockups an einem Ort. Code liegt im GitHub-Repo [webs
 | [[Evans & Horton Roofing/Evans & Horton Roofing\|Evans & Horton Roofing]] | Redesign-Mockup | fertig, nicht verschickt | 7 |
 | [[Lone Star Demo/Lone Star Demo\|Lone Star Demo]] | Eigene Demo-Seite (Template) | live | [lonestar-demo.pages.dev](https://lonestar-demo.pages.dev/) |
 
+| [[American Air Customs/American Air Customs\|American Air Customs]] | HVAC-Website mit filmischem Hero | Entwurf im Vault, Mail + Videoskript vorbereitet | offen |
+
 ## Mockup im Browser öffnen
 Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: Rechtsklick → "Im Standardprogramm öffnen").
 

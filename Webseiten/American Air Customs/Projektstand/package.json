@@ -1,0 +1,14 @@
+{
+  "name": "american-air-customs-concept",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5191",
+    "build": "vite build",
+    "check": "node check.mjs"
+  },
+  "dependencies": {
+    "three": "0.186.1",
+    "vite": "8.3.2"
+  }
+}
