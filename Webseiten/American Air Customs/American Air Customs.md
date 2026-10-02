@@ -28,8 +28,10 @@ Drei Sprüche wechseln automatisch alle vier Sekunden an derselben Position: „
 
 ## Akquise
 
-[[Akquise-Mail]] · [[Akquisevideo – Skript]]
+- [[Brand identity/E-Mail/Akquise/05-Versandfertig-American-Air-Customs|Versandfassung der Mail]] — laut Notiz noch nicht versendet.
+- [[Akquise-Mail|Älterer Mailentwurf]] · [[Akquisevideo – Skript|Videoskript]]
+- [[Northframe-Website-Concept-American-Air-Customs.pdf|Konzept-PDF]] · [[scroll-desktop-2026-10-02.mp4|Scroll-Video]]
 
 Öffentliche Kontaktdaten: americanaircustoms@yahoo.com · 972-313-3734 · 335 N Briery Rd, Irving, TX 75061. Offizielle Website: https://www.americanaircustomsinc.com/
 
-Nächster Schritt: 30-Sekunden-Website-Showcase nach Skript produzieren und einen tatsächlich erreichbaren privaten Vorschau-Link vorbereiten. Erst danach Versandfassung finalisieren. Die Mail wurde nicht versendet; das Akquisevideo ist noch nicht produziert. Das Kontaktformular der Demo öffnet nur einen E-Mail-Entwurf.
+Nächster Schritt: Einen tatsächlich erreichbaren privaten Vorschau-Link vorbereiten und prüfen, ob das vorhandene Scroll-Video das geplante Akquisevideo ersetzt oder ob noch ein Showcase nach Skript fehlt. Die Versandfassung der Mail und ein Scroll-Video liegen vor; ein Versand ist nicht dokumentiert. Das Kontaktformular der Demo öffnet nur einen E-Mail-Entwurf.

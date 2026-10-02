@@ -41,3 +41,6 @@ Die PDFs sind ausfüllbar; nur die Onlineformulare sind noch nicht eingerichtet.
 ## Akquise
 - [[Brand identity/E-Mail/Akquise/01-Mailentwuerfe|Drei Akquise-Stile und Follow-ups]]
 - [[Brand identity/E-Mail/Akquise/02-Testplan|Einfacher Vergleich der Varianten]]
+- [[Brand identity/E-Mail/Akquise/03-Versandfertig|Versandfassungen: JCI, Jenkins, Evans & Horton]]
+- [[Brand identity/E-Mail/Akquise/04-Versandfertig-Bright-Tree-Fence|Versandfassungen: Bright Tree und Ft Worth Fence]]
+- [[Brand identity/E-Mail/Akquise/05-Versandfertig-American-Air-Customs|Versandfassung: American Air Customs]]
