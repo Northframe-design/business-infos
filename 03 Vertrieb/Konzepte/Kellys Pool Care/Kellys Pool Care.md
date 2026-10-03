@@ -7,7 +7,7 @@ mail_versendet: nein
 ---
 # Kelly's Pool Care & Renovation
 
-Stand: 02.10.2026 · Konzept in Arbeit (Codex angefangen, Claude weitergeführt)
+Stand: 03.10.2026 · Konzept fertig, Mail versandfertig, Video und Screenshots macht Codex
 
 Öffentliche Kontaktdaten: info@kellyspoolcare.com · 817-219-2380 (North of Division St.) · 817-201-1455 (South of Division St.) · https://www.kellyspoolcare.com
 Problem heute (geprüft 01.10.2026): älteres Theme mit „Select Page“-Menü, wirkt nicht mehr zeitgemäß.
@@ -18,9 +18,14 @@ Problem heute (geprüft 01.10.2026): älteres Theme mit „Select Page“-Menü,
 - Schriften: Melodrama, Telma, Chillax.
 - Poolbild und Film sind KI (Higgsfield). Vor einem Go-live durch echte Fotos von Kelly's ersetzen.
 
+- Teamfoto stammt von ihrer Website (freigegeben, eingebaut).
+
+## Unterlagen
+- Konzept-PDF: `Northframe-Website-Concept-Kellys-Pool-Care.pdf` (hier im Ordner)
+- Akquise-Mail: [[03 Vertrieb/E-Mails/06-Versandfertig-Kellys-Pool-Care|06 Versandfertig Kelly's Pool Care]]
+
 ## Offen
-- Teamfoto von der Firmenwebsite: Download noch nicht freigegeben
-- Konzept-PDF, Scroll-Video und Akquise-Mail
+- Scroll-Video und Screenshots: macht Codex (Auftrag `leads/_codex/2026-10-03-medien-kellys-structured.md`)
 
 ## Nächster Schritt
-Review fertig machen, dann PDF, Scroll-Video und Mail wie bei Bright Tree.
+Codex-Auftrag starten. Mail frühestens am 14.10.2026 senden.

@@ -8,8 +8,8 @@ Alle Websites und Redesign-Mockups an einem Ort. Code liegt im GitHub-Repo [webs
 | [[JCI Roofing/JCI Roofing\|JCI Roofing]] | Redesign-Mockup | fertig, nicht verschickt | 9 |
 | [[Evans & Horton Roofing/Evans & Horton Roofing\|Evans & Horton Roofing]] | Redesign-Mockup | fertig, nicht verschickt | 7 |
 | [[05 Angebot/Lone Star Demo/Lone Star Demo\|Lone Star Demo]] | Eigene Demo-Seite (Template, liegt unter 05 Angebot) | live | [lonestar-demo.pages.dev](https://lonestar-demo.pages.dev/) |
-| [[Kellys Pool Care/Kellys Pool Care\|Kelly's Pool Care]] | Konzept mit Unterwasser-Scrollfilm | in Arbeit | — |
-| [[Structured Foundation/Structured Foundation\|Structured Foundation Repairs]] | Kamerafahrt: Haus auseinander, Zoom aufs Fundament | wartet auf Freigabe | — |
+| [[Kellys Pool Care/Kellys Pool Care\|Kelly's Pool Care]] | Konzept mit Unterwasser-Scrollfilm | Mail + PDF fertig, Video macht Codex, nicht verschickt | — |
+| [[Structured Foundation/Structured Foundation\|Structured Foundation Repairs]] | Kamerafahrt: Haus auseinander, Zoom aufs Fundament | Mail fertig, PDF + Video macht Codex, nicht verschickt | — |
 | [[Bright Tree Service/Bright Tree Service\|Bright Tree Service]] | Konzept mit Kino-Hero | versandfertig, nicht verschickt | — |
 | [[Ft Worth Fence & Patio/Ft Worth Fence & Patio\|Ft Worth Fence & Patio]] | Konzept mit Kino-Hero | versandfertig, nicht verschickt | — |
 | [[American Air Customs/American Air Customs\|American Air Customs]] | HVAC-Website mit filmischem Hero | Entwurf, PDF und Scroll-Video vorhanden | offen |
