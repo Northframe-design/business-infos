@@ -11,12 +11,14 @@
             "id": "3be38ff06073068d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Structured-Foundation-Scroll-Video.pdf"
+                "file": "03 Vertrieb/E-Mails/08-Versandfertig-HVAC.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Structured-Foundation-Scroll-Video"
+              "icon": "lucide-file",
+              "title": "08-Versandfertig-HVAC"
             }
           }
         ],
@@ -189,8 +191,9 @@
   },
   "active": "3be38ff06073068d",
   "lastOpenFiles": [
-    "03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Structured-Foundation-Fotos.pdf",
+    "03 Vertrieb/E-Mails/03-Versandfertig.md",
     "03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Structured-Foundation-Scroll-Video.pdf",
+    "03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Structured-Foundation-Fotos.pdf",
     "03 Vertrieb/E-Mails/08-Versandfertig-HVAC.md",
     "03 Vertrieb/E-Mails/07-Versandfertig-Structured-Foundation.md",
     "03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Northframe-Website-Concept-Structured-Foundation-Repairs.pdf",
@@ -202,7 +205,6 @@
     "03 Vertrieb/E-Mails/sedV0ySmM",
     "03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Structured Foundation.md",
     "04 Kunden/Kunden.md",
-    "03 Vertrieb/E-Mails/03-Versandfertig.md",
     "03 Vertrieb/E-Mails/04-Versandfertig-Bright-Tree-Fence.md",
     "03 Vertrieb/E-Mails/05-Versandfertig-American-Air-Customs.md",
     "03 Vertrieb/Leads/Neue-Leads-HVAC-2026-10-05.md",
