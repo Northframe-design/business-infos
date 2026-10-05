@@ -1,7 +1,7 @@
 # Northframe — Akquise-Mails Bright Tree & Ft Worth Fence, versandfertig
 
 Gleicher Aufbau und Ton wie `03-Versandfertig.md`. Stand: 02.10.2026. **Noch nicht versendet.**
-Die Beobachtungen zur aktuellen Website stammen aus unserer Prüfung am 01.10.2026 (Lead-Liste `03 Vertrieb/Leads/Neue-Leads-2026-10-01.tsv`). Vor dem Senden kurz auf dem Handy nachsehen, ob es noch stimmt; wenn nicht, den ersten Absatz streichen.
+Die Erstmail beginnt bewusst mit dem Nutzen des Konzepts, nicht mit einem Mangel der aktuellen Website (Stil wie bei Kelly's: Nutzen, Besonderheit, Hinweis „unabhängiger Vorschlag“, eine Frage).
 
 ## Versandplan
 
@@ -17,7 +17,6 @@ Die Beobachtungen zur aktuellen Website stammen aus unserer Prüfung am 01.10.20
 
 - [ ] Gewerbe angemeldet
 - [ ] Postfach mindestens 10–14 Tage warmgelaufen
-- [ ] Beobachtung im ersten Absatz auf dem Handy noch einmal geprüft
 - [ ] Eine Mail pro Firma, normale Textmail, nur das PDF im Anhang, keine Tracking-Links
 - [ ] Senden zu Geschäftszeiten in Texas (z. B. 16–17 Uhr deutscher Zeit)
 - [ ] Versand und Antworten im Lead-Sheet eintragen
@@ -31,13 +30,13 @@ Die Beobachtungen zur aktuellen Website stammen aus unserer Prüfung am 01.10.20
 
 Hi Bright Tree team,
 
-When I opened your website on a phone on October 1, the main heading was cut off, so the first thing visitors saw looked a little broken.
+I put together a website concept for Bright Tree Service that puts your tree services in one clear list and makes calling you the first thing anyone can do on a phone.
 
-I built a private website concept for Bright Tree Service to show another way: your own climber photo becomes a short film that plays as visitors scroll, your tree services sit in one clear list, and calling you is the first thing anyone can do, on a phone too.
+The design includes a scrolling experience: your own climber photo becomes a short film that plays as visitors scroll. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
-I'm Nathanael Gutperl, and I run Northframe, a website design studio. This is an independent design proposal, not a commissioned project. The moving hero is made with AI from your own photo.
+It's an independent proposal from my studio, Northframe; the moving hero is made with AI from your own photo.
 
-I've attached a short PDF with screenshots of the concept on desktop and phone. Would you like to see the live preview as well?
+Would this be a direction you'd consider for Bright Tree?
 
 Best,
 Nathanael Gutperl
@@ -71,13 +70,13 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 
 Hi Ft Worth Fence & Patio team,
 
-When I opened your website on a phone on October 1, the logo, social icons and phone number overlapped at the top, so the first impression didn't match the quality of the cedar work in your photos.
+I put together a website concept for Ft Worth Fence & Patio that shows your fence types like a build sheet and keeps the free on-site estimate one tap away on a phone.
 
-I built a private website concept for Ft Worth Fence & Patio: your own horizontal cedar fence photo becomes a short film that plays as visitors scroll, the fence types are laid out like a build sheet, and the free on-site estimate is one tap away.
+The design includes a scrolling experience: your own horizontal cedar fence photo becomes a short film that plays as visitors scroll. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
-I'm Nathanael Gutperl, and I run Northframe, a website design studio. This is an independent design proposal, not a commissioned project. The moving hero is made with AI from your own photo.
+It's an independent proposal from my studio, Northframe; the moving hero is made with AI from your own photo.
 
-I've attached a short PDF with screenshots of the concept on desktop and phone. Would you like to see the live preview as well?
+Would this be a direction you'd consider for Ft Worth Fence & Patio?
 
 Best,
 Nathanael Gutperl

@@ -1,7 +1,7 @@
 # Northframe — Akquise-Mail Kelly's Pool Care, versandfertig
 
 Gleicher Aufbau und Ton wie `04-Versandfertig-Bright-Tree-Fence.md`. Stand: 03.10.2026. **Noch nicht versendet.**
-Die Beobachtung im ersten Absatz stammt aus unserer Prüfung am 01.10.2026 (`03 Vertrieb/Leads/Neue-Leads-2026-10-01.tsv`). Vor dem Senden kurz nachsehen, ob es noch stimmt; wenn nicht, den ersten Absatz streichen.
+Die Erstmail beginnt bewusst mit dem Nutzen des Konzepts, nicht mit einem Mangel der aktuellen Website (Stil wie bei Kelly's: Nutzen, Besonderheit, Hinweis „unabhängiger Vorschlag“, eine Frage).
 
 ## Versand
 
@@ -15,7 +15,6 @@ Die Beobachtung im ersten Absatz stammt aus unserer Prüfung am 01.10.2026 (`03 
 ## Checkliste vor dem Senden
 
 - [ ] Gewerbe angemeldet, Postfach 10–14 Tage warmgelaufen
-- [ ] Beobachtung im ersten Absatz noch einmal geprüft
 - [ ] Eine normale Textmail, nur das PDF im Anhang, keine Tracking-Links
 - [ ] Zu Geschäftszeiten in Texas senden (z. B. 16–17 Uhr deutscher Zeit)
 - [ ] Versand und Antwort im Lead-Sheet eintragen; bei "no thanks" sofort stoppen
@@ -28,13 +27,13 @@ Die Beobachtung im ersten Absatz stammt aus unserer Prüfung am 01.10.2026 (`03 
 
 Hi Kelly's Pool Care team,
 
-When I looked at your website on October 1, it was still running on an older theme with a "Select Page" menu, which doesn't show your renovation work as well as it could.
+I put together a website concept for Kelly's that gives your renovation services more room and makes it easy for visitors to find your services and phone numbers on mobile.
 
-I built a private website concept for Kelly's Pool Care: as visitors scroll, the page dives into a pool and keeps sinking deeper to the end. Remodeling, repairs and weekly service, your team and both phone lines are easy to find, on a phone too.
+The design includes a pool-inspired scrolling experience: as visitors scroll, the page dives into a pool and keeps sinking deeper. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
-I'm Nathanael Gutperl, and I run Northframe, a website design studio. This is an independent design proposal, not a commissioned project. The pool scenes are AI-generated concept visuals, not photos of your work; the team photo is from your current website.
+It's an independent proposal from my studio, Northframe, with illustrative pool imagery.
 
-I've attached a short PDF with screenshots of the concept on desktop and phone. Would you like to see the live preview as well?
+Would this be a direction you'd consider for Kelly's?
 
 Best,
 Nathanael Gutperl

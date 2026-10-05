@@ -1,7 +1,7 @@
 # Northframe — Akquise-Mail Structured Foundation Repairs, versandfertig
 
 Gleicher Aufbau und Ton wie `04-Versandfertig-Bright-Tree-Fence.md`. Stand: 03.10.2026. **Noch nicht versendet.**
-Die Beobachtung im ersten Absatz stammt aus unserer Prüfung am 01.10.2026 (`03 Vertrieb/Leads/Neue-Leads-2026-10-01.tsv`). Vor dem Senden kurz nachsehen, ob es noch stimmt; wenn nicht, den ersten Absatz streichen.
+Die Erstmail beginnt bewusst mit dem Nutzen des Konzepts, nicht mit einem Mangel der aktuellen Website (Stil wie bei Kelly's: Nutzen, Besonderheit, Hinweis „unabhängiger Vorschlag“, eine Frage).
 Geprüft am 03.10.2026 auf structuredfoundation.com: "Building a foundation of trust since 2003", "100% Employee Owned", "If you don't have a problem, we will tell you."
 
 ## Versand
@@ -17,7 +17,6 @@ Geprüft am 03.10.2026 auf structuredfoundation.com: "Building a foundation of t
 
 - [ ] PDF von Codex liegt im Konzept-Ordner und zeigt die aktuelle Seite (Big-Shoulders-Schrift, 1080p-Film)
 - [ ] Gewerbe angemeldet, Postfach 10–14 Tage warmgelaufen
-- [ ] Beobachtung im ersten Absatz noch einmal geprüft
 - [ ] Eine normale Textmail, nur das PDF im Anhang, keine Tracking-Links
 - [ ] Zu Geschäftszeiten in Texas senden (z. B. 16–17 Uhr deutscher Zeit)
 - [ ] Versand und Antwort im Lead-Sheet eintragen; bei "no thanks" sofort stoppen
@@ -30,13 +29,13 @@ Geprüft am 03.10.2026 auf structuredfoundation.com: "Building a foundation of t
 
 Hi Structured Foundation team,
 
-When I looked at your homepage on October 1, the large red shapes made it hard to see at a glance what you do and where to start.
+I put together a website concept for Structured Foundation Repairs that shows at a glance what you do and where to call, and keeps your free inspection one tap away on a phone.
 
-I built a private website concept for Structured Foundation Repairs: as visitors scroll, a house comes apart and the camera moves down to the foundation. The warning signs from your website appear on the parts of the house, your repair services on the parts of the foundation, and it ends with your free inspection, one tap away.
+The design includes a scroll ride: as visitors scroll, the house comes apart and the camera moves down to the foundation, with your warning signs and repair services sitting on the parts of the house and foundation. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
-I'm Nathanael Gutperl, and I run Northframe, a website design studio. This is an independent design proposal, not a commissioned project. The house and foundation scenes are AI-generated concept visuals, not photos of your work. The texts come from your current website.
+It's an independent proposal from my studio, Northframe. The texts are from your website, and the house and foundation scenes are AI-generated visuals.
 
-I've attached a short PDF with screenshots of the concept on desktop and phone. Would you like to see the live preview as well?
+Would this be a direction you'd consider for Structured?
 
 Best,
 Nathanael Gutperl
@@ -81,26 +80,26 @@ hello@northframesites.com · northframesites.com
 Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
-## Erstmail, Variante B (Hook · Verlust · Pilotpreis) — Entwurf 05.10.2026
+## Erstmail, Variante B (Hook · Pilotpreis) — Entwurf 05.10.2026
 
-Zum Testen gegen die Erstmail oben. Gleiche Fakten, Anhang und Absenderzeilen. Preis aus `05 Angebot/Angebot.md` (Pilotpreis 999 $ + 99 $/Monat, Standardpaket mit 5 Seiten). Beobachtung (rote Formen) wie oben vor dem Senden noch einmal prüfen.
+Zum Testen gegen die Erstmail oben. Gleiche Fakten, Anhang und Absenderzeilen. Preis aus `05 Angebot/Angebot.md` (Pilotpreis 999 $ + 99 $/Monat, Standardpaket mit 5 Seiten). 
 
 **Subject (eins wählen):**
 1. I built your new homepage (the house comes apart as you scroll)  ← Empfehlung
-2. Your homepage vs. the one I already built for you
-3. Before the next foundation lead taps back
+2. A homepage where the house comes apart as you scroll
+3. A foundation repair website, already built
 
 **Anhang:** `Northframe-Website-Concept-Structured-Foundation-Repairs.pdf`
 
 Hi Structured Foundation team,
 
-Picture a homeowner with a fresh crack over the door, searching for foundation repair on their phone. When I opened your homepage on October 1, the big red shapes made it hard to see what you do and where to call. That visitor is one tap from the next company in the results.
-
-So I built you a new one first: as people scroll, the house comes apart and the camera drops to the foundation, ending on your free inspection. The texts are from your own website, and the PDF is attached.
+I built a new homepage for Structured Foundation Repairs before asking: as people scroll, the house comes apart and the camera drops to the foundation, with your warning signs and repair services on the parts of the house and foundation, ending on your free inspection, one tap away on a phone.
 
 It's already built. If you like it, it's yours for a pilot price of $999 once plus $99 a month (five pages). If not, keep the PDF, no strings.
 
-I'm Nathanael Gutperl, and I run Northframe, a website design studio. This is an independent proposal, and the house scenes are AI-generated. Want the live preview?
+It's an independent proposal from my studio, Northframe. The texts are from your website, and the house scenes are AI-generated.
+
+Would this be a direction you'd consider for Structured?
 
 Best,
 Nathanael Gutperl
@@ -112,4 +111,4 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Vor dem Senden klären:**
 - Deckt „999 $ + 99 $/Monat (five pages)“ wirklich diese Seite mit Kamerafahrt und Film ab? Das Standardpaket nennt nur 5 Seiten; Higgsfield-Film und Fahrt kosten Credits und Zeit. Wenn nein, den Satz auf das Standardpaket umformulieren.
 - „No strings“ meint nur: das PDF darf man behalten, es entsteht keine Verpflichtung. Weitere Zusagen (z. B. „zahlen nur bei Gefallen“) stehen nicht im Angebot und sind bewusst nicht drin.
-- Der Verlust ist als Szene formuliert, nicht als Zahl: keine belegten Aussagen über entgangene Aufträge.
+- Variante B beginnt wie die anderen positiv; es gibt bewusst keine Mangel- oder Verlust-Aussage (keine belegten Zahlen zu entgangenen Aufträgen).
