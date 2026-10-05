@@ -8,9 +8,9 @@ Geprüft am 03.10.2026 auf structuredfoundation.com: "Building a foundation of t
 
 | Empfänger | Anhang | Erstmail frühestens | Follow-up |
 |---|---|---|---|
-| info@structuredfoundation.com | `03 Vertrieb/Konzepte/Structured Foundation/Northframe-Website-Concept-Structured-Foundation-Repairs.pdf` (macht Codex) | 14.10.2026 (wie bei den anderen) | 5–7 Werktage später, nur ohne Antwort |
+| info@structuredfoundation.com | `03 Vertrieb/Konzepte/Foundation Repair/Structured Foundation/Northframe-Website-Concept-Structured-Foundation-Repairs.pdf` (macht Codex) | 14.10.2026 (wie bei den anderen) | 5–7 Werktage später, nur ohne Antwort |
 
-**PDF, Screenshots und Scroll-Video macht Codex** (Auftrag: `leads/_codex/2026-10-03-medien-kellys-structured.md`). Erst senden, wenn das PDF da ist. Video erst in der Antwort auf ein "Ja".
+**PDF, Screenshots und Scroll-Video macht Codex** (Auftrag: `leads/_codex/2026-10-05-medien-structured-foundation.md`). Erst senden, wenn das PDF da ist. Video erst in der Antwort auf ein "Ja".
 **Hinweis:** Haus, Fundament und Film sind KI. Herkunft in `leads/structured-foundation/BILDER.md`.
 
 ## Checkliste vor dem Senden
@@ -80,3 +80,36 @@ Northframe | Website design
 hello@northframesites.com · northframesites.com
 Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+
+## Erstmail, Variante B (Hook · Verlust · Pilotpreis) — Entwurf 05.10.2026
+
+Zum Testen gegen die Erstmail oben. Gleiche Fakten, Anhang und Absenderzeilen. Preis aus `05 Angebot/Angebot.md` (Pilotpreis 999 $ + 99 $/Monat, Standardpaket mit 5 Seiten). Beobachtung (rote Formen) wie oben vor dem Senden noch einmal prüfen.
+
+**Subject (eins wählen):**
+1. I built your new homepage (the house comes apart as you scroll)  ← Empfehlung
+2. Your homepage vs. the one I already built for you
+3. Before the next foundation lead taps back
+
+**Anhang:** `Northframe-Website-Concept-Structured-Foundation-Repairs.pdf`
+
+Hi Structured Foundation team,
+
+Picture a homeowner with a fresh crack over the door, searching for foundation repair on their phone. When I opened your homepage on October 1, the big red shapes made it hard to see what you do and where to call. That visitor is one tap from the next company in the results.
+
+So I built you a new one first: as people scroll, the house comes apart and the camera drops to the foundation, ending on your free inspection. The texts are from your own website, and the PDF is attached.
+
+It's already built. If you like it, it's yours for a pilot price of $999 once plus $99 a month (five pages). If not, keep the PDF, no strings.
+
+I'm Nathanael Gutperl, and I run Northframe, a website design studio. This is an independent proposal, and the house scenes are AI-generated. Want the live preview?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+
+**Vor dem Senden klären:**
+- Deckt „999 $ + 99 $/Monat (five pages)“ wirklich diese Seite mit Kamerafahrt und Film ab? Das Standardpaket nennt nur 5 Seiten; Higgsfield-Film und Fahrt kosten Credits und Zeit. Wenn nein, den Satz auf das Standardpaket umformulieren.
+- „No strings“ meint nur: das PDF darf man behalten, es entsteht keine Verpflichtung. Weitere Zusagen (z. B. „zahlen nur bei Gefallen“) stehen nicht im Angebot und sind bewusst nicht drin.
+- Der Verlust ist als Szene formuliert, nicht als Zahl: keine belegten Aussagen über entgangene Aufträge.
