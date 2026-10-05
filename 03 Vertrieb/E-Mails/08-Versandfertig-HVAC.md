@@ -32,12 +32,12 @@ Die alte Seite `leads/HVAC/hvac-concept` ("Climate Control DFW") gehört zu kein
 
 ## Offene Punkte je Firma (vor dem Senden prüfen)
 
-| Firma | Punkt |
-|---|---|
-| Garland | Seite nennt "since 1952" und "over 60 years" (passt nicht ganz zusammen); Öffnungszeiten, Finanzierungskonditionen und Bewertungszahlen sind `[Platzhalter]` |
-| Just Right | Original zeigt zwei Telefonnummern (817-966-7753 und 817-966-7793); Konzept nutzt 7793, beim Kunden klären |
-| A/C Service | "49 years" (Seite) gegen "since 1978" (Fahrzeug) passt nicht exakt; "5.0 / 83 Google Reviews" vor dem Senden neu prüfen |
-| Hector Torres | Logo "Las Torres ACR" gegen Seitenname "Hector Torres HVAC"; Konzept führt "Hector Torres HVAC". Lizenz/EPA-Zertifikat der Seite nicht belegt |
+| Firma         | Punkt                                                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Garland       | Seite nennt "since 1952" und "over 60 years" (passt nicht ganz zusammen); Öffnungszeiten, Finanzierungskonditionen und Bewertungszahlen sind `[Platzhalter]` |
+| Just Right    | Original zeigt zwei Telefonnummern (817-966-7753 und 817-966-7793); Konzept nutzt 7793, beim Kunden klären                                                   |
+| A/C Service   | "49 years" (Seite) gegen "since 1978" (Fahrzeug) passt nicht exakt; "5.0 / 83 Google Reviews" vor dem Senden neu prüfen                                      |
+| Hector Torres | Logo "Las Torres ACR" gegen Seitenname "Hector Torres HVAC"; Konzept führt "Hector Torres HVAC". Lizenz/EPA-Zertifikat der Seite nicht belegt                |
 
 ---
 

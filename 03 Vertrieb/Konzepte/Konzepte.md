@@ -13,6 +13,12 @@ Alle Websites und Redesign-Mockups an einem Ort. Code liegt im GitHub-Repo [webs
 | [[Bright Tree Service/Bright Tree Service\|Bright Tree Service]] | Konzept mit Kino-Hero | versandfertig, nicht verschickt | — |
 | [[Ft Worth Fence & Patio/Ft Worth Fence & Patio\|Ft Worth Fence & Patio]] | Konzept mit Kino-Hero | versandfertig, nicht verschickt | — |
 | [[American Air Customs/American Air Customs\|American Air Customs]] | HVAC-Website mit filmischem Hero | Entwurf, PDF und Scroll-Video vorhanden | offen |
+| [[Garland Heating and Air Conditioning/Garland Heating and Air Conditioning\|Garland Heating and Air Conditioning]] | HVAC-Konzept mit Thermostat-Scroll | Konzept, PDF und Scroll-Video fertig, Mail vorbereitet, nicht verschickt | — |
+| [[Just Right Air & Heat/Just Right Air & Heat\|Just Right Air & Heat]] | HVAC-Konzept, laut und lesbar | Konzept, PDF und Scroll-Video fertig, Mail vorbereitet, nicht verschickt | — |
+| [[AC Service & Repairs Co/AC Service & Repairs Co\|A/C Service & Repairs Co.]] | HVAC-Konzept, Papier und Tinte (817-SERVICE) | Konzept, PDF und Scroll-Video fertig, Mail vorbereitet, nicht verschickt | — |
+| [[Hector Torres HVAC/Hector Torres HVAC\|Hector Torres HVAC]] | HVAC-Konzept mit Kühl/Heiß-Slider | Konzept, PDF und Scroll-Video fertig, Mail vorbereitet, nicht verschickt | — |
+
+Die vier HVAC-Konzepte liegen im Unterordner `HVAC/`, ihre Mails in `E-Mails/08-Versandfertig-HVAC.md`.
 
 Die Projektseiten verlinken die jeweils bekannten Fassungen von Mockup, PDF, Video und Akquise-Mail. Der tatsächliche Lead- und Versandstatus steht in [[Leads|der Google-Tabelle]].
 
