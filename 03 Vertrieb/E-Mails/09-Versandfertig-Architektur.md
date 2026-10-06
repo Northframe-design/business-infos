@@ -9,15 +9,15 @@ Sieben Konzept-Seiten sind gebaut (Repo `leads/Architecture & Design/<ordner>/`,
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang (im Vault-Ordner der Firma) | Erstmail frühestens | Follow-up |
-|---|---|---|---|---|
-| conduit architecture + design | info@conduitad.com | `Konzepte/Architektur/conduit architecture + design/Northframe-Website-Concept-Conduit-Architecture-Design.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Peck Architects | bill@peckarchitects.com | `Konzepte/Architektur/Peck Architects/Northframe-Website-Concept-Peck-Architects.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Boothe Architects | ray@boothearchitects.com | `Konzepte/Architektur/Boothe Architects/Northframe-Website-Concept-Boothe-Architects.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Laurie Murphy Architect | lmurphy@lmurphyarchitect.com | `Konzepte/Architektur/Laurie Murphy Architect/Northframe-Website-Concept-Laurie-Murphy-Architect.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Magee Architects | marchitects@magee-architects.com | `Konzepte/Architektur/Magee Architects/Northframe-Website-Concept-Magee-Architects.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Bush Architects | contact@busharchitects.design | `Konzepte/Architektur/Bush Architects/Northframe-Website-Concept-Bush-Architects.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| A.GRUPPO Architects | thad@agruppo.com | `Konzepte/Architektur/A.GRUPPO Architects/Northframe-Website-Concept-A-GRUPPO-Architects.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
+| Firma                         | Empfänger                        | Anhang (im Vault-Ordner der Firma)                                                                              | Erstmail frühestens | Follow-up                             |
+| ----------------------------- | -------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------- |
+| conduit architecture + design | info@conduitad.com               | `Konzepte/Architektur/conduit architecture + design/Northframe-Website-Concept-Conduit-Architecture-Design.pdf` | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Peck Architects               | bill@peckarchitects.com          | `Konzepte/Architektur/Peck Architects/Northframe-Website-Concept-Peck-Architects.pdf`                           | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Boothe Architects             | ray@boothearchitects.com         | `Konzepte/Architektur/Boothe Architects/Northframe-Website-Concept-Boothe-Architects.pdf`                       | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Laurie Murphy Architect       | lmurphy@lmurphyarchitect.com     | `Konzepte/Architektur/Laurie Murphy Architect/Northframe-Website-Concept-Laurie-Murphy-Architect.pdf`           | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Magee Architects              | marchitects@magee-architects.com | `Konzepte/Architektur/Magee Architects/Northframe-Website-Concept-Magee-Architects.pdf`                         | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Bush Architects               | contact@busharchitects.design    | `Konzepte/Architektur/Bush Architects/Northframe-Website-Concept-Bush-Architects.pdf`                           | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| A.GRUPPO Architects           | thad@agruppo.com                 | `Konzepte/Architektur/A.GRUPPO Architects/Northframe-Website-Concept-A-GRUPPO-Architects.pdf`                   | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
 
 **Warum erst ab 14.10.:** wie in `03-Versandfertig.md` (Postfach warmlaufen lassen, Gewerbe vorher anmelden).
 **Video:** nicht an die Erstmail hängen, erst in der Antwort auf ein "Ja".
