@@ -5,10 +5,10 @@ Die Erstmail beginnt bewusst mit dem Nutzen des Konzepts, nicht mit einem Mangel
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang | Erstmail frühestens | Follow-up |
-|---|---|---|---|---|
-| Bright Tree Service | info@brighttreeservice.com | `03 Vertrieb/Konzepte/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Ft Worth Fence & Patio | sales@ftworthfenceandpatio.com | `03 Vertrieb/Konzepte/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
+| Firma                  | Empfänger                      | Anhang                                                                                            | Erstmail frühestens | Follow-up                             |
+| ---------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------- |
+| Bright Tree Service    | info@brighttreeservice.com     | `03 Vertrieb/Konzepte/Bright Tree Service/Northframe-Website-Concept-Bright-Tree-Service.pdf`     | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Ft Worth Fence & Patio | sales@ftworthfenceandpatio.com | `03 Vertrieb/Konzepte/Ft Worth Fence & Patio/Northframe-Website-Concept-Ft-Worth-Fence-Patio.pdf` | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
 
 **Warum erst ab 14.10.:** wie in `03-Versandfertig.md` (Postfach warmlaufen lassen, Gewerbe vorher anmelden).
 **Video:** Das Scroll-Video (`scroll-desktop-2026-10-02.mp4`, ca. 10 MB) nicht an die Erstmail hängen, große Anhänge landen leichter im Spam. Erst in der Antwort auf ein "Ja" mitschicken.

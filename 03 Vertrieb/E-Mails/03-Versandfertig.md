@@ -5,11 +5,11 @@ Aus `01-Mailentwuerfe.md` (Codex, 30.09.2026), mit echten Absenderdaten gefüllt
 
 ## Versandplan
 
-| Firma | Variante | Empfänger | Erstmail frühestens | Follow-up |
-|---|---|---|---|---|
-| JCI Roofing | A, direkt | [Platzhalter: E-Mail-Adresse auf jciroofing.com suchen; in den Notizen steht nur die Telefonnummer] | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Jenkins Roofing | B, persönlich | info@jenkinsroofing.com | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Evans & Horton Roofing | C, bildhaft | info@evansandhorton.com | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
+| Firma                  | Variante      | Empfänger                                                                                           | Erstmail frühestens | Follow-up                             |
+| ---------------------- | ------------- | --------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------- |
+| JCI Roofing            | A, direkt     | [Platzhalter: E-Mail-Adresse auf jciroofing.com suchen; in den Notizen steht nur die Telefonnummer] | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Jenkins Roofing        | B, persönlich | info@jenkinsroofing.com                                                                             | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Evans & Horton Roofing | C, bildhaft   | info@evansandhorton.com                                                                             | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
 
 **Warum erst ab 14.10.:** Die Adresse hello@ ist seit 30.09. aktiv und läuft 1–2 Wochen warm. Außerdem muss vorher das Gewerbe angemeldet sein.
 
