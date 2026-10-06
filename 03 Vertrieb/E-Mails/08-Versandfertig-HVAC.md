@@ -10,12 +10,12 @@ Die alte Seite `leads/HVAC/hvac-concept` ("Climate Control DFW") gehört zu kein
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang (im Vault-Ordner der Firma) | Erstmail frühestens | Follow-up |
-|---|---|---|---|---|
-| Garland Heating and Air Conditioning | info@garlandheatingandair.com | `Konzepte/HVAC/Garland Heating and Air Conditioning/Northframe-Website-Concept-Garland-Heating-Air.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Just Right Air & Heat | justrightairheat@gmail.com | `Konzepte/HVAC/Just Right Air & Heat/Northframe-Website-Concept-Just-Right-Air-Heat.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| A/C Service & Repairs Co. | russ@acserviceandrepairs.com | `Konzepte/HVAC/AC Service & Repairs Co/Northframe-Website-Concept-AC-Service-Repairs.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
-| Hector Torres HVAC | iraelt@hotmail.com | `Konzepte/HVAC/Hector Torres HVAC/Northframe-Website-Concept-Hector-Torres-HVAC.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
+| Firma                                | Empfänger                     | Anhang (im Vault-Ordner der Firma)                                                                      | Erstmail frühestens | Follow-up                             |
+| ------------------------------------ | ----------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------- | ------------------------------------- |
+| Garland Heating and Air Conditioning | info@garlandheatingandair.com | `Konzepte/HVAC/Garland Heating and Air Conditioning/Northframe-Website-Concept-Garland-Heating-Air.pdf` | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Just Right Air & Heat                | justrightairheat@gmail.com    | `Konzepte/HVAC/Just Right Air & Heat/Northframe-Website-Concept-Just-Right-Air-Heat.pdf`                | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| A/C Service & Repairs Co.            | russ@acserviceandrepairs.com  | `Konzepte/HVAC/AC Service & Repairs Co/Northframe-Website-Concept-AC-Service-Repairs.pdf`               | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
+| Hector Torres HVAC                   | iraelt@hotmail.com            | `Konzepte/HVAC/Hector Torres HVAC/Northframe-Website-Concept-Hector-Torres-HVAC.pdf`                    | 14.10.2026          | 5–7 Werktage später, nur ohne Antwort |
 
 **Warum erst ab 14.10.:** wie in `03-Versandfertig.md` (Postfach warmlaufen lassen, Gewerbe vorher anmelden).
 **Video:** `scroll-desktop-2026-10-05.mp4` im selben Ordner nicht an die Erstmail hängen, erst in der Antwort auf ein "Ja".
