@@ -33,7 +33,7 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Handwerk (09.10.2026, Technik aus Vorlagen, Look neu nach Awwwards-Referenzen, Hero-Videos mit Higgsfield)
 | Firma | Konzept | Stand | Vorlage |
 |---|---|---|---|
-| [[Royal Flush Plumbing/Royal Flush Plumbing\|Royal Flush Plumbing]] | Klempner, "Wasser": Strudel-Hero, Rohr füllt sich (nach Olympic Subsea) | Konzept, PDF, Scroll-Video und Mail fertig (09.10.), nicht verschickt | Just Right |
-| [[KPS Electric/KPS Electric\|KPS Electric]] | Elektriker, "Lights On": Licht geht beim Scrollen an (nach Halcyon/LEDUP) | Konzept, PDF, Scroll-Video und Mail fertig (09.10.), nicht verschickt | A/C Service |
-| [[Independent Overhead Doors/Independent Overhead Doors\|Independent Overhead Doors]] | Garagentore, "Door's Open": Tor rollt beim Scrollen hoch (nach Wiemer/Kardev) | Konzept, PDF, Scroll-Video und Mail fertig (09.10.), nicht verschickt | Hector Torres |
-| [[Stevan Buren Roofing/Stevan Buren Roofing\|Stevan Buren Roofing]] | Dachdecker, "Built in Texas": Drohnenflug + Kapitel-Leiste (nach Rogers-O'Brien) | Konzept, PDF, Scroll-Video und Mail fertig (09.10.), nicht verschickt | Lone Star |
+| [[Royal Flush Plumbing/Royal Flush Plumbing\|Royal Flush Plumbing]] | Klempner, "Wasser": Strudel-Hero, Rohr füllt sich (nach Olympic Subsea) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | Just Right |
+| [[KPS Electric/KPS Electric\|KPS Electric]] | Elektriker, "Lights On": Licht geht beim Scrollen an (nach Halcyon/LEDUP) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | A/C Service |
+| [[Independent Overhead Doors/Independent Overhead Doors\|Independent Overhead Doors]] | Garagentore, "Door's Open": Tor rollt beim Scrollen hoch (nach Wiemer/Kardev) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | Hector Torres |
+| [[Stevan Buren Roofing/Stevan Buren Roofing\|Stevan Buren Roofing]] | Dachdecker, "Built in Texas": Drohnenflug + Kapitel-Leiste (nach Rogers-O'Brien) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | Lone Star |

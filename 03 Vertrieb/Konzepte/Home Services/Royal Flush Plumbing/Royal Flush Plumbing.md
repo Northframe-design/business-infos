@@ -1,6 +1,6 @@
 # Royal Flush Plumbing & Drain Cleaning
 
-**Status:** Konzept gebaut aus der Vorlage `just-right-air-heat, neu gestaltet nach Olympic Subsea (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
+**Status:** Konzept gebaut aus der Vorlage `just-right-air-heat, neu gestaltet nach Olympic Subsea (Awwwards)` (09.10.2026), **Erstmail abgeschickt am 09.10.2026.** Follow-up ab 16.10.2026, nur ohne Antwort. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Wasser": tiefes Ozeanblau, Schaumweiß, königliche Serife Gambarino + General Sans. Hero: Wasserstrudel-Video (Higgsfield/Kling, rein illustrativ, keine Firmendaten); beim Scrollen zieht sich das Bild kreisförmig zu einem Abfluss zusammen, um den "Every pipe. Every drain." erscheint. Leistungen hängen an einem Rohr, das sich beim Scrollen mit Wasser füllt (Ventile färben sich), Karten mit Wellen-Hover. Danach Crew-Foto vom Firmenwagen mit den Gründen (Familienbetrieb, 50 Jahre Erfahrung zusammen, kostenlose Kostenvoranschläge, 24/7), drei Termin-Wege (Anruf, SMS, E-Mail), die drei echten Kundenstimmen, Formular.
 
 ## Code und Notizen im Repo
@@ -10,8 +10,8 @@
 ## Kontakt (von der Firmenseite)
 Fort Worth, TX (keine Straße auf der Seite) · Anruf (817) 222-9777 · SMS und Notfall (817) 716-1853 · rfplumber@yahoo.com
 
-## Mail (versandfertig, nicht verschickt)
-Frühestens am 14.10.2026 senden, 16–17 Uhr deutscher Zeit. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+## Mail (abgeschickt am 09.10.2026)
+Abgeschickt am 09.10.2026 mit dem PDF. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[10-Versandfertig-Handwerk]]
 
 **An:** rfplumber@yahoo.com

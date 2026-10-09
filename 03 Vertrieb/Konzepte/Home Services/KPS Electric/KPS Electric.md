@@ -1,6 +1,6 @@
 # KPS Electric LLC
 
-**Status:** Konzept gebaut aus der Vorlage `ac-service-repairs, neu gestaltet nach Halcyon und LEDUP (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
+**Status:** Konzept gebaut aus der Vorlage `ac-service-repairs, neu gestaltet nach Halcyon und LEDUP (Awwwards)` (09.10.2026), **Erstmail abgeschickt am 09.10.2026.** Follow-up ab 16.10.2026, nur ohne Antwort. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Lights On": dunkle Seite, warmes 2700K-Licht als Akzent, Panchang + Boska kursiv + Satoshi. Hero: das Wohnzimmer-Foto der Originalseite als Video (Higgsfield/Kling von dunkel zu hell), per Scroll gespult; "LIGHTS off?" wird zu "LIGHTS on.", ein großer Lichtschalter klappt um, die Glühbirne in der Kopfzeile geht an. Danach Zahlen (15+ Jahre, Master, TECL), Leistungen mit Umschalter Wohnung/Gewerbe und glühender Hover-Linie, About mit Kyle Snyder, seitwärts scrollende Galerie, Städte-Laufband, Formular.
 
 ## Code und Notizen im Repo
@@ -10,8 +10,8 @@
 ## Kontakt (von der Firmenseite)
 Arlington, TX 76015 · (817) 682-4788 · kpselectricllc@yahoo.com · TECL #33843
 
-## Mail (versandfertig, nicht verschickt)
-Frühestens am 14.10.2026 senden, 16–17 Uhr deutscher Zeit. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+## Mail (abgeschickt am 09.10.2026)
+Abgeschickt am 09.10.2026 mit dem PDF. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[10-Versandfertig-Handwerk]]
 
 **An:** kpselectricllc@yahoo.com

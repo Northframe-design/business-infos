@@ -1,6 +1,6 @@
 # Independent Overhead Doors
 
-**Status:** Konzept gebaut aus der Vorlage `hector-torres-hvac, neu gestaltet nach Wiemer und Kardev (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
+**Status:** Konzept gebaut aus der Vorlage `hector-torres-hvac, neu gestaltet nach Wiemer und Kardev (Awwwards)` (09.10.2026), **Erstmail abgeschickt am 09.10.2026.** Follow-up ab 16.10.2026, nur ohne Antwort. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Door's Open": heller Industrie-Look (Beton, Stahl, IOD-Gold), Cabinet Grotesk + Supreme. Hero: ein Sektionaltor aus vier Lamellen mit der Headline; beim Scrollen rollt das Tor hoch, dahinter fährt im Video das echte Tor der Firma auf (Higgsfield/Kling aus dem Einbau-Foto), dann "Let's get your door open.". Danach Vertrauens-Leiste, Leistungen als Torlamellen, die beim Antippen aufklappen, Marken, Doug und Becky Holloway, Galerie mit Lamellen-Reveal, goldener Kontaktblock.
 
 ## Code und Notizen im Repo
@@ -10,8 +10,8 @@
 ## Kontakt (von der Firmenseite)
 2309 Royce Dr., Arlington, TX 76016 · (817) 680-5169 · iodoors@sbcglobal.net
 
-## Mail (versandfertig, nicht verschickt)
-Frühestens am 14.10.2026 senden, 16–17 Uhr deutscher Zeit. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+## Mail (abgeschickt am 09.10.2026)
+Abgeschickt am 09.10.2026 mit dem PDF. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[10-Versandfertig-Handwerk]]
 
 **An:** iodoors@sbcglobal.net

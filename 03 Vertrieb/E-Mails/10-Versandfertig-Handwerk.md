@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mails Handwerk (4 Firmen), versandfertig vorbereitet
 
-Stil wie `08-Versandfertig-HVAC.md` (Nutzen zuerst, keine Mängel, eine Frage am Ende). Stand: 09.10.2026. **Noch nicht versendet.**
+Stil wie `08-Versandfertig-HVAC.md` (Nutzen zuerst, keine Mängel, eine Frage am Ende). Stand: 09.10.2026. **Abgeschickt am 09.10.2026 (alle 4). Follow-up ab 16.10.2026, nur ohne Antwort.**
 Quelle der Firmenangaben: die jeweilige eigene Website (angesehen am 09.10.2026), Lead-Liste `03 Vertrieb/Leads/Neue-Leads-Handwerk-2026-10-09.tsv`.
 Die Seiten sind aus bestehenden Vorlagen gebaut (siehe Projektnotizen unter `03 Vertrieb/Konzepte/`).
 
