@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mails Service-Nischen (4 Firmen), vorbereitet
 
-Stil wie `11-Versandfertig-Gastro-Architektur.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 09.10.2026. **Noch nicht verschickt. PDFs noch nicht erstellt.**
+Stil wie `11-Versandfertig-Gastro-Architektur.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 09.10.2026. **Noch nicht verschickt. PDFs fertig (09.10.2026), die Mails können raus.**
 Quelle der Firmenangaben: die jeweilige eigene Website (angesehen am 09.10.2026), Lead-Liste [[Neue-Leads-Service-2026-10-09]].
 Konzeptseiten und Projektnotizen: `03 Vertrieb/Konzepte/Auto/`, `Konzepte/Home Services/`, `Konzepte/Health/`.
 
@@ -8,10 +8,10 @@ Konzeptseiten und Projektnotizen: `03 Vertrieb/Konzepte/Auto/`, `Konzepte/Home S
 
 | Firma | Empfänger | Anhang (im Vault-Ordner der Firma) | Erstmail frühestens | Follow-up |
 |---|---|---|---|---|
-| Fort Worth Pest & Termite | sales@fortworthpest.com | `Northframe-Website-Concept-Fort-Worth-Pest-Termite.pdf` (noch erstellen) | wenn das PDF fertig ist | 5–7 Werktage später, nur ohne Antwort |
-| Mike's Brake & Alignment | mikesbrakeandalignment@gmail.com | `Northframe-Website-Concept-Mikes-Brake-Alignment.pdf` (noch erstellen) | wenn das PDF fertig ist | 5–7 Werktage später, nur ohne Antwort |
-| BBN Pest Control | bbnpestcontrol@aol.com | `Northframe-Website-Concept-BBN-Pest-Control.pdf` (noch erstellen) | wenn das PDF fertig ist | 5–7 Werktage später, nur ohne Antwort |
-| Burleson Dental Care | info@burlesondentalcare.com | `Northframe-Website-Concept-Burleson-Dental-Care.pdf` (noch erstellen) | wenn das PDF fertig ist | 5–7 Werktage später, nur ohne Antwort |
+| Fort Worth Pest & Termite | sales@fortworthpest.com | `Northframe-Website-Concept-Fort-Worth-Pest-Termite.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Mike's Brake & Alignment | mikesbrakeandalignment@gmail.com | `Northframe-Website-Concept-Mikes-Brake-Alignment.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| BBN Pest Control | bbnpestcontrol@aol.com | `Northframe-Website-Concept-BBN-Pest-Control.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Burleson Dental Care | info@burlesondentalcare.com | `Northframe-Website-Concept-Burleson-Dental-Care.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
 
 **Video:** das Scroll-Video nicht an die Erstmail hängen, erst in der Antwort auf ein "Ja".
 **Reihenfolge nach Klarheit des Mangels:** Fort Worth Pest & Termite, Mike's, BBN, Burleson Dental.

@@ -1,6 +1,6 @@
 # Fort Worth Pest & Termite
 
-**Status:** Konzeptseite und Mail fertig (09.10.2026), nicht verschickt. PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Service-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -16,13 +16,18 @@ Creme, Blau und Gelb aus dem eigenen Banner, Anton + Inter Tight. "Total elimina
 ![[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/desktop-hero-2026-10-09.jpg|600]]
 ![[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/mobil-hero-2026-10-09.jpg|220]]
 
+## Unterlagen
+- **PDF (8 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/Northframe-Website-Concept-Fort-Worth-Pest-Termite.pdf]]
+- **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/scroll-desktop-2026-10-09.mp4]]
+- **Ganze Seite:** [[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/desktop-2026-10-09.png|Desktop]] · [[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/mobil-2026-10-09.png|Handy]]
+
 ## Mail (vorbereitet, nicht verschickt)
-Erst senden, wenn das PDF fertig ist. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[12-Versandfertig-Service]]
 
 **An:** sales@fortworthpest.com
 **Betreff:** A website concept for Fort Worth Pest & Termite
-**Anhang:** `Northframe-Website-Concept-Fort-Worth-Pest-Termite.pdf` (noch erstellen)
+**Anhang:** [[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/Northframe-Website-Concept-Fort-Worth-Pest-Termite.pdf|Northframe-Website-Concept-Fort-Worth-Pest-Termite.pdf]]
 
 ```text
 Hi Fort Worth Pest & Termite team,

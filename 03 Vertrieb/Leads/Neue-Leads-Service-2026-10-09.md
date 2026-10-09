@@ -31,4 +31,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - Fort Worth Pest & Termite: `leads/Home Services/fort-worth-pest-termite` (nach Flashlights, Kapitel + Taschenlampen-Wand)
 - Burleson Dental Care: `leads/Health/burleson-dental-care` (nach Marylebone Smile Clinic)
 - Chief Pest Control: Reserve, noch keine Seite.
-Offen: Mails, PDFs, Scroll-Videos.
+Mails, PDFs und Scroll-Videos fertig (09.10.), Mails in [[12-Versandfertig-Service]]. Noch nicht verschickt.

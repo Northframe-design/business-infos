@@ -1,6 +1,6 @@
 # Mike's Brake & Alignment
 
-**Status:** Konzeptseite und Mail fertig (09.10.2026), nicht verschickt. PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Service-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -16,13 +16,18 @@ Schwarz, warmes Arbeitslicht-Amber, Manrope + Newsreader kursiv. Hero: das Nacht
 ![[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/desktop-hero-2026-10-09.jpg|600]]
 ![[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/mobil-hero-2026-10-09.jpg|220]]
 
+## Unterlagen
+- **PDF (6 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/Northframe-Website-Concept-Mikes-Brake-Alignment.pdf]]
+- **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/scroll-desktop-2026-10-09.mp4]]
+- **Ganze Seite:** [[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/desktop-2026-10-09.png|Desktop]] · [[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/mobil-2026-10-09.png|Handy]]
+
 ## Mail (vorbereitet, nicht verschickt)
-Erst senden, wenn das PDF fertig ist. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[12-Versandfertig-Service]]
 
 **An:** mikesbrakeandalignment@gmail.com
 **Betreff:** A website concept for Mike's Brake & Alignment
-**Anhang:** `Northframe-Website-Concept-Mikes-Brake-Alignment.pdf` (noch erstellen)
+**Anhang:** [[03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/Northframe-Website-Concept-Mikes-Brake-Alignment.pdf|Northframe-Website-Concept-Mikes-Brake-Alignment.pdf]]
 
 ```text
 Hi Fonzie,

@@ -1,6 +1,6 @@
 # Burleson Dental Care
 
-**Status:** Konzeptseite und Mail fertig (09.10.2026), nicht verschickt. PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Service-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -16,13 +16,18 @@ Weiß und Eisblau, Logo-Blau, Gloock + Plus Jakarta Sans, schwebende Pill-Naviga
 ![[03 Vertrieb/Konzepte/Health/Burleson Dental Care/desktop-hero-2026-10-09.jpg|600]]
 ![[03 Vertrieb/Konzepte/Health/Burleson Dental Care/mobil-hero-2026-10-09.jpg|220]]
 
+## Unterlagen
+- **PDF (6 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Health/Burleson Dental Care/Northframe-Website-Concept-Burleson-Dental-Care.pdf]]
+- **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Health/Burleson Dental Care/scroll-desktop-2026-10-09.mp4]]
+- **Ganze Seite:** [[03 Vertrieb/Konzepte/Health/Burleson Dental Care/desktop-2026-10-09.png|Desktop]] · [[03 Vertrieb/Konzepte/Health/Burleson Dental Care/mobil-2026-10-09.png|Handy]]
+
 ## Mail (vorbereitet, nicht verschickt)
-Erst senden, wenn das PDF fertig ist. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[12-Versandfertig-Service]]
 
 **An:** info@burlesondentalcare.com
 **Betreff:** A website concept for Burleson Dental Care
-**Anhang:** `Northframe-Website-Concept-Burleson-Dental-Care.pdf` (noch erstellen)
+**Anhang:** [[03 Vertrieb/Konzepte/Health/Burleson Dental Care/Northframe-Website-Concept-Burleson-Dental-Care.pdf|Northframe-Website-Concept-Burleson-Dental-Care.pdf]]
 
 ```text
 Hi Dr. Sohi and team,
