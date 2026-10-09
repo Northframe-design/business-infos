@@ -6,7 +6,7 @@ Die Seiten sind aus bestehenden Vorlagen gebaut (siehe Projektnotizen unter `03 
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang (im Vault-Ordner der Firma, macht Codex) | Erstmail frühestens | Follow-up |
+| Firma | Empfänger | Anhang (im Vault-Ordner der Firma, fertig) | Erstmail frühestens | Follow-up |
 |---|---|---|---|---|
 | Royal Flush Plumbing | rfplumber@yahoo.com | `Konzepte/Home Services/Royal Flush Plumbing/Northframe-Website-Concept-Royal-Flush-Plumbing.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
 | KPS Electric | kpselectricllc@yahoo.com | `Konzepte/Home Services/KPS Electric/Northframe-Website-Concept-KPS-Electric.pdf` | 14.10.2026 | 5–7 Werktage später, nur ohne Antwort |
@@ -18,7 +18,7 @@ Die Seiten sind aus bestehenden Vorlagen gebaut (siehe Projektnotizen unter `03 
 
 ## Checkliste vor dem Senden
 
-- [ ] PDF von Codex im Vault-Ordner der Firma vorhanden und angesehen
+- [x] PDF im Vault-Ordner der Firma vorhanden (09.10.2026)
 - [ ] Offene Punkte (Projektnotiz der Firma) geklärt oder als Platzhalter belassen
 - [ ] Eine Mail pro Firma, normale Textmail, nur das PDF im Anhang, keine Tracking-Links
 - [ ] Senden zu Geschäftszeiten in Texas (z. B. 16–17 Uhr deutscher Zeit)

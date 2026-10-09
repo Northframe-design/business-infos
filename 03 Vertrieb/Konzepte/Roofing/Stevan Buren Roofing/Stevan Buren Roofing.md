@@ -1,6 +1,6 @@
 # Stevan Buren Roofing, Windows & Flooring
 
-**Status:** Konzept gebaut aus der Vorlage `roofing-template (Lone Star), neu gestaltet nach Rogers-O'Brien Construction (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Status:** Konzept gebaut aus der Vorlage `roofing-template (Lone Star), neu gestaltet nach Rogers-O'Brien Construction (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Built in Texas": Schwarz, schmale Versalien (Tanker) + Switzer, Logo mittig wie bei R-O. Hero: Drohnenflug über eine Dachbaustelle der Firma (Higgsfield/Kling aus deren Luftbild, Wasserzeichen vorher entfernt), per Scroll gespult, mit Kapitel-Leiste Inspect, Insure, Install. Danach große Zahlen (3 Zertifikate, 4,9/5, 20+ Jahre), Leistungen in Versal-Zeilen mit Bild, das dem Mauszeiger folgt, Team-Foto, das sich beim Scrollen öffnet, Kundenstimme auf Blau, FAQ, Kontakt.
 
 ## Code und Notizen im Repo

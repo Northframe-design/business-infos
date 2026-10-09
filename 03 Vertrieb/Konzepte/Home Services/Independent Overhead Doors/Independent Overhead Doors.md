@@ -1,6 +1,6 @@
 # Independent Overhead Doors
 
-**Status:** Konzept gebaut aus der Vorlage `hector-torres-hvac, neu gestaltet nach Wiemer und Kardev (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Status:** Konzept gebaut aus der Vorlage `hector-torres-hvac, neu gestaltet nach Wiemer und Kardev (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Door's Open": heller Industrie-Look (Beton, Stahl, IOD-Gold), Cabinet Grotesk + Supreme. Hero: ein Sektionaltor aus vier Lamellen mit der Headline; beim Scrollen rollt das Tor hoch, dahinter fährt im Video das echte Tor der Firma auf (Higgsfield/Kling aus dem Einbau-Foto), dann "Let's get your door open.". Danach Vertrauens-Leiste, Leistungen als Torlamellen, die beim Antippen aufklappen, Marken, Doug und Becky Holloway, Galerie mit Lamellen-Reveal, goldener Kontaktblock.
 
 ## Code und Notizen im Repo

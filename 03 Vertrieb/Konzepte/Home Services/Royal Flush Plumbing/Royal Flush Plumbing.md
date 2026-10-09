@@ -1,6 +1,6 @@
 # Royal Flush Plumbing & Drain Cleaning
 
-**Status:** Konzept gebaut aus der Vorlage `just-right-air-heat, neu gestaltet nach Olympic Subsea (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Status:** Konzept gebaut aus der Vorlage `just-right-air-heat, neu gestaltet nach Olympic Subsea (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Wasser": tiefes Ozeanblau, Schaumweiß, königliche Serife Gambarino + General Sans. Hero: Wasserstrudel-Video (Higgsfield/Kling, rein illustrativ, keine Firmendaten); beim Scrollen zieht sich das Bild kreisförmig zu einem Abfluss zusammen, um den "Every pipe. Every drain." erscheint. Leistungen hängen an einem Rohr, das sich beim Scrollen mit Wasser füllt (Ventile färben sich), Karten mit Wellen-Hover. Danach Crew-Foto vom Firmenwagen mit den Gründen (Familienbetrieb, 50 Jahre Erfahrung zusammen, kostenlose Kostenvoranschläge, 24/7), drei Termin-Wege (Anruf, SMS, E-Mail), die drei echten Kundenstimmen, Formular.
 
 ## Code und Notizen im Repo

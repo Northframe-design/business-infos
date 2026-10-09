@@ -1,6 +1,6 @@
 # KPS Electric LLC
 
-**Status:** Konzept gebaut aus der Vorlage `ac-service-repairs, neu gestaltet nach Halcyon und LEDUP (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Status:** Konzept gebaut aus der Vorlage `ac-service-repairs, neu gestaltet nach Halcyon und LEDUP (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF sind fertig (Claude, 09.10.2026) und liegen in diesem Ordner.
 **Look:** "Lights On": dunkle Seite, warmes 2700K-Licht als Akzent, Panchang + Boska kursiv + Satoshi. Hero: das Wohnzimmer-Foto der Originalseite als Video (Higgsfield/Kling von dunkel zu hell), per Scroll gespult; "LIGHTS off?" wird zu "LIGHTS on.", ein großer Lichtschalter klappt um, die Glühbirne in der Kopfzeile geht an. Danach Zahlen (15+ Jahre, Master, TECL), Leistungen mit Umschalter Wohnung/Gewerbe und glühender Hover-Linie, About mit Kyle Snyder, seitwärts scrollende Galerie, Städte-Laufband, Formular.
 
 ## Code und Notizen im Repo
