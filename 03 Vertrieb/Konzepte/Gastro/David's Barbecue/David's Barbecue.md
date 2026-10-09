@@ -1,6 +1,6 @@
 # David's Barbecue
 
-**Status:** Konzeptseite fertig (09.10.2026), nicht verschickt. Mail, PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
 **Nische:** Gastro · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,3 +22,14 @@ Dunkel, Rauch und Glut: Holzstapel als Hero mit aufsteigenden Glut-Funken, Zeitl
 
 ## Offene Punkte
 Zitat von Bud Kennedy (Artikel-Überschrift von ihrer Local-News-Seite) vor dem Versand prüfen. Mangel abwägen.
+
+## Unterlagen
+### PDF für die Mail
+![[Northframe-Website-Concept-Davids-Barbecue.pdf]]
+
+### Scroll-Video (erst nach einem "Ja" schicken)
+![[03 Vertrieb/Konzepte/Gastro/David's Barbecue/scroll-desktop-2026-10-09.mp4]]
+
+### Ganze Seite
+Desktop: ![[03 Vertrieb/Konzepte/Gastro/David's Barbecue/desktop-2026-10-09.png|400]]
+Handy: ![[03 Vertrieb/Konzepte/Gastro/David's Barbecue/mobil-2026-10-09.png|200]]

@@ -1,6 +1,6 @@
 # Touch Ya' Soul Food Catering
 
-**Status:** Konzeptseite fertig (09.10.2026), nicht verschickt. Mail, PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
 **Nische:** Gastro · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,3 +22,14 @@ Name baut sich beim Laden Buchstabe für Buchstabe auf, Hintergrund wechselt von
 
 ## Offene Punkte
 Sonntags-Öffnungszeit unklar ([confirm hours]). Formular ohne Backend (öffnet E-Mail).
+
+## Unterlagen
+### PDF für die Mail
+![[Northframe-Website-Concept-Touch-Ya-Soul-Food-Catering.pdf]]
+
+### Scroll-Video (erst nach einem "Ja" schicken)
+![[03 Vertrieb/Konzepte/Gastro/Touch Ya' Soul Food Catering/scroll-desktop-2026-10-09.mp4]]
+
+### Ganze Seite
+Desktop: ![[03 Vertrieb/Konzepte/Gastro/Touch Ya' Soul Food Catering/desktop-2026-10-09.png|400]]
+Handy: ![[03 Vertrieb/Konzepte/Gastro/Touch Ya' Soul Food Catering/mobil-2026-10-09.png|200]]

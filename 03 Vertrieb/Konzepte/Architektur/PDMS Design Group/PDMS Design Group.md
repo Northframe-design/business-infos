@@ -1,6 +1,6 @@
 # PDMS Design Group
 
-**Status:** Konzeptseite fertig (09.10.2026), nicht verschickt. Mail, PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
 **Nische:** Architektur · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,3 +22,14 @@ Schwarze Bühne mit 3D-Punktwolke (Three.js): Lagerhalle → Schnellrestaurant �
 
 ## Offene Punkte
 Projektfotos nur mit Kategorie beschriftet; Porträts der Leitung nicht eindeutig zuzuordnen, daher nur Namen.
+
+## Unterlagen
+### PDF für die Mail
+![[Northframe-Website-Concept-PDMS-Design-Group.pdf]]
+
+### Scroll-Video (erst nach einem "Ja" schicken)
+![[03 Vertrieb/Konzepte/Architektur/PDMS Design Group/scroll-desktop-2026-10-09.mp4]]
+
+### Ganze Seite
+Desktop: ![[03 Vertrieb/Konzepte/Architektur/PDMS Design Group/desktop-2026-10-09.png|400]]
+Handy: ![[03 Vertrieb/Konzepte/Architektur/PDMS Design Group/mobil-2026-10-09.png|200]]

@@ -1,6 +1,6 @@
 # CHS Architects
 
-**Status:** Konzeptseite fertig (09.10.2026), nicht verschickt. Mail, PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
 **Nische:** Architektur · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,3 +22,14 @@ Blau und Schwarz, drei Balken laden und öffnen das Hero-Foto (Worthington Natio
 
 ## Offene Punkte
 Einige Projektstädte und Projektnamen unbekannt ([city], [Project name]).
+
+## Unterlagen
+### PDF für die Mail
+![[Northframe-Website-Concept-CHS-Architects.pdf]]
+
+### Scroll-Video (erst nach einem "Ja" schicken)
+![[03 Vertrieb/Konzepte/Architektur/CHS Architects/scroll-desktop-2026-10-09.mp4]]
+
+### Ganze Seite
+Desktop: ![[03 Vertrieb/Konzepte/Architektur/CHS Architects/desktop-2026-10-09.png|400]]
+Handy: ![[03 Vertrieb/Konzepte/Architektur/CHS Architects/mobil-2026-10-09.png|200]]
