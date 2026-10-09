@@ -24,3 +24,12 @@ Region: Dallas-Fort Worth. Gefunden über DuckDuckGo und Branchenlisten (Home Bu
 - **Keine E-Mail gefunden:** Emerald Sky Co. (zeigt den Dateinamen eines Stockfotos), Southwest Architects (keine Handy-Version), Walton & Walton, Philip Newburn, Catfish Sam's, Bluebonnet Bakery, Cousins BBQ, Just 7 Catering.
 - **Zertifikatsfehler:** Allen Architecture, Grand Home Designs.
 - **Andere Gründe:** JDA Architects (britische Firma). Ferah Catering und Our Place Restaurant (Cleburne) nur leichte Mängel, als Reserve.
+
+## Konzeptseiten (09.10.2026)
+Gebaut nach je einer Awwwards-Referenz, Vorschau über `leads-static` (Port 5180). Details je Ordner in `konzept.md`.
+- RPGA: `leads/Architecture & Design/rpga-design-group` (nach SANTAL)
+- CHS: `leads/Architecture & Design/chs-architects` (nach Rialto)
+- PDMS: `leads/Architecture & Design/pdms-design-group` (nach Pinnacl, 3D-Punktwolke)
+- Touch Ya' Soul: `leads/Gastro/touch-ya-soul-catering` (nach Monarque Événements; 2 Foodfotos mit Higgsfield verbessert)
+- David's Barbecue: `leads/Gastro/davids-barbecue` (nach Qissa)
+Offen: Mails, PDFs, Scroll-Videos.
