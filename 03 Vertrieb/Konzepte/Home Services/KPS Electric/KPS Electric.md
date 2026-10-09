@@ -10,8 +10,49 @@
 ## Kontakt (von der Firmenseite)
 Arlington, TX 76015 · (817) 682-4788 · kpselectricllc@yahoo.com · TECL #33843
 
-## Mail
-[[10-Versandfertig-Handwerk]]
+## Mail (versandfertig, nicht verschickt)
+Frühestens am 14.10.2026 senden, 16–17 Uhr deutscher Zeit. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 4 Mails mit Versandplan und Checkliste: [[10-Versandfertig-Handwerk]]
+
+**An:** kpselectricllc@yahoo.com
+**Betreff:** A website concept for KPS Electric
+**Anhang:** [[Northframe-Website-Concept-KPS-Electric.pdf]]
+
+```text
+Hi Kyle,
+
+I put together a website concept for KPS Electric that opens with your phone number, big enough to tap on any phone, and makes it easy for visitors to find residential and commercial electrical work on mobile.
+
+The design opens in a dark room: as visitors scroll, the lights switch on, followed by your Master Electrician credentials and your full list of residential and commercial services. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, with illustrative imagery.
+
+Would this be a direction you'd consider for KPS Electric?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Kyle, one detail from the concept: your license number TECL #33843 and "on time and on budget" sit right next to the request form. Would you like to see the live preview? Best, Nathanael
+```
+
+## Unterlagen
+### PDF für die Mail
+![[Northframe-Website-Concept-KPS-Electric.pdf]]
+
+### Scroll-Video (erst nach einem "Ja" schicken)
+![[03 Vertrieb/Konzepte/Home Services/KPS Electric/scroll-desktop-2026-10-09.mp4]]
+
+### Screenshots
+Desktop: ![[03 Vertrieb/Konzepte/Home Services/KPS Electric/desktop-2026-10-09.png|400]]
+Handy: ![[03 Vertrieb/Konzepte/Home Services/KPS Electric/mobil-2026-10-09.png|200]]
 
 ## Offene Punkte
 Logo liegt nur in 165 px vor: beim Kunden eine größere Datei anfragen. Keine Öffnungszeiten und keine Kundenstimmen auf der Originalseite. Kein Foto von Kyle Snyder (About zeigt eine Installation).
