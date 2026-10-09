@@ -1,6 +1,6 @@
 # RPGA Design Group
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), **nicht verschickt**.
 **Nische:** Architektur · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,6 +22,39 @@ Hellgrau mit Konstruktionslinien, riesiges RPGA, Ladeband "Two brothers / One st
 
 ## Offene Punkte
 Drittes Projekt ohne Namen, Projektdetails [confirm]. 3D-Canvas von Santal noch nicht untersucht.
+
+## Mail (versandfertig, nicht verschickt)
+Frühestens Mo 12.10.2026 senden, zu Geschäftszeiten in Texas. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[11-Versandfertig-Gastro-Architektur]]
+
+**An:** rickgarza@rpgaarchitects.com
+**Betreff:** A website concept for RPGA Design Group
+**Anhang:** [[Northframe-Website-Concept-RPGA-Design-Group.pdf]]
+
+```text
+Hi Rick,
+
+I put together a website concept for RPGA Design Group that presents your studio, projects and team on one page and makes it easy for visitors to start a project or call your office on mobile.
+
+The design opens with a 3D flight through a cube structure built from your own words, from Architecture and Planning to Fort Worth and Since 1989, then moves through your values, your projects and your team portraits. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own photos and texts.
+
+Would this be a direction you'd consider for RPGA?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Rick, one detail from the concept: the emails of all three principals sit right next to the contact button, so a client reaches you, Robert or Javier directly. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Unterlagen
 ### PDF für die Mail

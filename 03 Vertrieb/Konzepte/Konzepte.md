@@ -41,8 +41,8 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Gastro & Architektur (09.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[David's Barbecue/David's Barbecue\|David's Barbecue]] | Gastro, nach Qissa – A Tale of Food | Konzeptseite, PDF und Scroll-Video fertig 09.10., Mail offen, nicht verschickt | eigene Seite |
-| [[Touch Ya' Soul Food Catering/Touch Ya' Soul Food Catering\|Touch Ya' Soul Food Catering]] | Gastro, nach Monarque Événements | Konzeptseite, PDF und Scroll-Video fertig 09.10., Mail offen, nicht verschickt | eigene Seite |
-| [[RPGA Design Group/RPGA Design Group\|RPGA Design Group]] | Architektur, nach SANTAL | Konzeptseite, PDF und Scroll-Video fertig 09.10., Mail offen, nicht verschickt | eigene Seite |
-| [[CHS Architects/CHS Architects\|CHS Architects]] | Architektur, nach Rialto | Konzeptseite, PDF und Scroll-Video fertig 09.10., Mail offen, nicht verschickt | eigene Seite |
-| [[PDMS Design Group/PDMS Design Group\|PDMS Design Group]] | Architektur, nach Pinnacl | Konzeptseite, PDF und Scroll-Video fertig 09.10., Mail offen, nicht verschickt | eigene Seite |
+| [[David's Barbecue/David's Barbecue\|David's Barbecue]] | Gastro, nach Qissa – A Tale of Food | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
+| [[Touch Ya' Soul Food Catering/Touch Ya' Soul Food Catering\|Touch Ya' Soul Food Catering]] | Gastro, nach Monarque Événements | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
+| [[RPGA Design Group/RPGA Design Group\|RPGA Design Group]] | Architektur, nach SANTAL | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
+| [[CHS Architects/CHS Architects\|CHS Architects]] | Architektur, nach Rialto | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
+| [[PDMS Design Group/PDMS Design Group\|PDMS Design Group]] | Architektur, nach Pinnacl | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |

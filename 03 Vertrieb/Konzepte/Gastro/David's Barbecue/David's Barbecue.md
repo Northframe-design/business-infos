@@ -1,6 +1,6 @@
 # David's Barbecue
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), **nicht verschickt**.
 **Nische:** Gastro · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,6 +22,39 @@ Dunkel, Rauch und Glut: Holzstapel als Hero mit aufsteigenden Glut-Funken, Zeitl
 
 ## Offene Punkte
 Zitat von Bud Kennedy (Artikel-Überschrift von ihrer Local-News-Seite) vor dem Versand prüfen. Mangel abwägen.
+
+## Mail (versandfertig, nicht verschickt)
+Frühestens Mo 12.10.2026 senden, zu Geschäftszeiten in Texas. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[11-Versandfertig-Gastro-Architektur]]
+
+**An:** austin@davidsbarbecuetx.com
+**Betreff:** A website concept for David's Barbecue
+**Anhang:** [[Northframe-Website-Concept-Davids-Barbecue.pdf]]
+
+```text
+Hi Austin,
+
+I put together a website concept for David's Barbecue that puts your phone number and menu one tap away and makes it easy for visitors to find your hours, prices and catering on mobile.
+
+The design opens with embers rising over your woodpile and tells your family's five generations as a scroll story, from Oak Cliff in 1910 to West Park Row today, followed by your full menu. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own photos and menu.
+
+Would this be a direction you'd consider for David's Barbecue?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Austin, one detail from the concept: your catering contact sits right under the menu, so a crowd order is one email away. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Unterlagen
 ### PDF für die Mail

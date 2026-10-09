@@ -1,6 +1,6 @@
 # PDMS Design Group
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (09.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), **nicht verschickt**.
 **Nische:** Architektur · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -22,6 +22,39 @@ Schwarze Bühne mit 3D-Punktwolke (Three.js): Lagerhalle → Schnellrestaurant �
 
 ## Offene Punkte
 Projektfotos nur mit Kategorie beschriftet; Porträts der Leitung nicht eindeutig zuzuordnen, daher nur Namen.
+
+## Mail (versandfertig, nicht verschickt)
+Frühestens Mo 12.10.2026 senden, zu Geschäftszeiten in Texas. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[11-Versandfertig-Gastro-Architektur]]
+
+**An:** design@pdmsdesign.com
+**Betreff:** A website concept for PDMS Design Group
+**Anhang:** [[Northframe-Website-Concept-PDMS-Design-Group.pdf]]
+
+```text
+Hi PDMS team,
+
+I put together a website concept for PDMS Design Group that puts "Start a project" one tap away and makes it easy for visitors to find your full list of architecture and MEP engineering services on mobile.
+
+The design opens with a 3D point-cloud building that turns from a warehouse into a quick-serve restaurant and then a store as visitors scroll, one scene for each of your three sectors. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, with an illustrative 3D building.
+
+Would this be a direction you'd consider for PDMS?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi PDMS team, one detail from the concept: "Registered coast to coast" and your single- and multi-location work sit right under the opening scene. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Unterlagen
 ### PDF für die Mail
