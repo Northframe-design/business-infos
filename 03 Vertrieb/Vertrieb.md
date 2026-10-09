@@ -5,6 +5,7 @@ Wie wir Kunden gewinnen: Leads finden, Konzept bauen, Mail mit PDF schicken, nac
 ## Leads
 - [[Leads]]: Google-Tabelle, **einzige Quelle für Status und Kontakte**
 - [[03 Vertrieb/Leads/Neue-Leads-2026-10-01\|Neue Leads 01.10.2026]] (14 Firmen mit E-Mail) · [[03 Vertrieb/Leads/Lead-Profile-2026-10-01\|Lead-Profile]] (Nische, Farben, Schriften, Bilder)
+- [[03 Vertrieb/Leads/Neue-Leads-Handwerk-2026-10-09\|Neue Leads Handwerk 09.10.2026]] (Klempner, Elektriker, Garagentore, Dachdecker)
 
 ## E-Mails
 | Datei | Firmen | Stand |
@@ -12,6 +13,7 @@ Wie wir Kunden gewinnen: Leads finden, Konzept bauen, Mail mit PDF schicken, nac
 | [[03 Vertrieb/E-Mails/03-Versandfertig\|03-Versandfertig]] | Jenkins, Evans & Horton, JCI | versandfertig (JCI: Adresse fehlt) |
 | [[03 Vertrieb/E-Mails/04-Versandfertig-Bright-Tree-Fence\|04-Versandfertig]] | Bright Tree, Ft Worth Fence & Patio | versandfertig |
 | [[03 Vertrieb/E-Mails/05-Versandfertig-American-Air-Customs\|05-Versandfertig]] | American Air Customs | versandfertig |
+| [[03 Vertrieb/E-Mails/10-Versandfertig-Handwerk\|10-Versandfertig]] | Royal Flush, KPS Electric, Independent Overhead Doors, Stevan Buren | versandfertig, PDFs offen (Codex) |
 | [[03 Vertrieb/E-Mails/01-Mailentwuerfe\|01-Mailentwuerfe]] · [[03 Vertrieb/E-Mails/02-Testplan\|02-Testplan]] | alle | Grundlagen |
 | `E-Mails/Archiv/` | Roofing, 29.09. | ältere Fassung mit Recherche |
 

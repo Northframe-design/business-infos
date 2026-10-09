@@ -29,3 +29,11 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 - Mockups enthalten echte Logos und Fotos der Firmen: **nur der jeweiligen Firma zeigen**, nicht öffentlich als Portfolio.
 - Nur echte, öffentliche Firmendaten. Nichts erfinden.
 - Lead-Daten und Status: siehe [[Leads]].
+
+## Handwerk (09.10.2026, aus Vorlagen gebaut)
+| Firma | Konzept | Stand | Vorlage |
+|---|---|---|---|
+| [[Royal Flush Plumbing/Royal Flush Plumbing\|Royal Flush Plumbing]] | Klempner, laut und lesbar | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Just Right |
+| [[KPS Electric/KPS Electric\|KPS Electric]] | Elektriker, Telefonnummer als Hero | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | A/C Service |
+| [[Independent Overhead Doors/Independent Overhead Doors\|Independent Overhead Doors]] | Garagentore, Wisch-Foto Reparatur/neu | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Hector Torres |
+| [[Stevan Buren Roofing/Stevan Buren Roofing\|Stevan Buren Roofing]] | Dachdecker, Dach-Kamerafahrt | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Lone Star |
