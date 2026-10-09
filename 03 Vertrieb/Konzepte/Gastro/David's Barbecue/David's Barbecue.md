@@ -1,6 +1,6 @@
 # David's Barbecue
 
-**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), **nicht verschickt**.
+**Status:** **Erstmail abgeschickt am 09.10.2026.** Follow-up ab 16.10.2026, nur ohne Antwort.
 **Nische:** Gastro · **Lead-Liste:** [[Neue-Leads-Gastro-Architektur-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -23,8 +23,8 @@ Dunkel, Rauch und Glut: Holzstapel als Hero mit aufsteigenden Glut-Funken, Zeitl
 ## Offene Punkte
 Zitat von Bud Kennedy (Artikel-Überschrift von ihrer Local-News-Seite) vor dem Versand prüfen. Mangel abwägen.
 
-## Mail (versandfertig, nicht verschickt)
-Frühestens Mo 12.10.2026 senden, zu Geschäftszeiten in Texas. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+## Mail (abgeschickt am 09.10.2026)
+Abgeschickt am 09.10.2026 mit dem PDF. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 5 Mails mit Versandplan und Checkliste: [[11-Versandfertig-Gastro-Architektur]]
 
 **An:** austin@davidsbarbecuetx.com

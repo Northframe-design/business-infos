@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mails Gastro & Architektur (5 Firmen), versandfertig vorbereitet
 
-Stil wie `10-Versandfertig-Handwerk.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 09.10.2026. **Noch nicht verschickt.**
+Stil wie `10-Versandfertig-Handwerk.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 09.10.2026. **Abgeschickt am 09.10.2026 (alle 5). Follow-up ab 16.10.2026, nur ohne Antwort.**
 Quelle der Firmenangaben: die jeweilige eigene Website (angesehen am 09.10.2026), Lead-Liste [[Neue-Leads-Gastro-Architektur-2026-10-09]].
 Konzeptseiten, PDFs und Videos: Projektnotizen unter `03 Vertrieb/Konzepte/Gastro/` und `03 Vertrieb/Konzepte/Architektur/`.
 

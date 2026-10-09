@@ -41,8 +41,8 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Gastro & Architektur (09.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[David's Barbecue/David's Barbecue\|David's Barbecue]] | Gastro, nach Qissa – A Tale of Food | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
-| [[Touch Ya' Soul Food Catering/Touch Ya' Soul Food Catering\|Touch Ya' Soul Food Catering]] | Gastro, nach Monarque Événements | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
-| [[RPGA Design Group/RPGA Design Group\|RPGA Design Group]] | Architektur, nach SANTAL | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
-| [[CHS Architects/CHS Architects\|CHS Architects]] | Architektur, nach Rialto | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
-| [[PDMS Design Group/PDMS Design Group\|PDMS Design Group]] | Architektur, nach Pinnacl | Konzept, PDF, Scroll-Video und Mail fertig 09.10., nicht verschickt | eigene Seite |
+| [[David's Barbecue/David's Barbecue\|David's Barbecue]] | Gastro, nach Qissa – A Tale of Food | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
+| [[Touch Ya' Soul Food Catering/Touch Ya' Soul Food Catering\|Touch Ya' Soul Food Catering]] | Gastro, nach Monarque Événements | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
+| [[RPGA Design Group/RPGA Design Group\|RPGA Design Group]] | Architektur, nach SANTAL | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
+| [[CHS Architects/CHS Architects\|CHS Architects]] | Architektur, nach Rialto | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
+| [[PDMS Design Group/PDMS Design Group\|PDMS Design Group]] | Architektur, nach Pinnacl | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
