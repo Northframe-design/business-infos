@@ -1,7 +1,7 @@
 # KPS Electric LLC
 
-**Status:** Konzept gebaut aus der Vorlage `ac-service-repairs` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
-**Look:** "Papier und Kupfer": warmes Papier, Schwarz aus dem Logo, Kupfer aus der Leitungs-Grafik der Originalseite, Serifenschrift Gambetta. Der Hero ist die Telefonnummer selbst, die Ziffer für Ziffer einläuft ("Call a Master Electrician 817-682-4788"), daneben das Foto des Elektrikers am Schaltschrank im Rundbogen. Danach Zahlen (15+ Jahre, Master Electrician, Wohnung und Gewerbe), "How we work" mit Zeitlinie, About mit Kyle Snyder, Leistungen als Akkordeon, Städte-Liste, Anfrageformular.
+**Status:** Konzept gebaut aus der Vorlage `ac-service-repairs, neu gestaltet nach Halcyon und LEDUP (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Look:** "Lights On": dunkle Seite, warmes 2700K-Licht als Akzent, Panchang + Boska kursiv + Satoshi. Hero: das Wohnzimmer-Foto der Originalseite als Video (Higgsfield/Kling von dunkel zu hell), per Scroll gespult; "LIGHTS off?" wird zu "LIGHTS on.", ein großer Lichtschalter klappt um, die Glühbirne in der Kopfzeile geht an. Danach Zahlen (15+ Jahre, Master, TECL), Leistungen mit Umschalter Wohnung/Gewerbe und glühender Hover-Linie, About mit Kyle Snyder, seitwärts scrollende Galerie, Städte-Laufband, Formular.
 
 ## Code und Notizen im Repo
 - Seite: `leads/Home Services/kps-electric/site` (Start über die Konfiguration `kps-site`, Port 5206)

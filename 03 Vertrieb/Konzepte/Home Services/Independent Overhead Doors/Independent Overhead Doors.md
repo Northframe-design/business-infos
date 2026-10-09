@@ -1,7 +1,7 @@
 # Independent Overhead Doors
 
-**Status:** Konzept gebaut aus der Vorlage `hector-torres-hvac` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
-**Look:** "Werkstatt bei Nacht": warmes Anthrazit, Gold aus dem IOD-Monogramm, Rot aus dem Info-Block der Originalseite, Geist Sans/Mono. Hero: große Headline "Garage door repair & installation." und rechts ein gerahmtes Foto, in dem man zwischen einer Reparatur und einem neu eingebauten Tor hin und her wischt (zwei echte Fotos der Firma, ehrlich beschriftet). Danach Über-uns (Doug und Becky Holloway), Vertrauens-Leiste (Familie, A+ BBB, American made, same/next day), Leistungs-Karten, Fotogalerie mit Parallax, "Door stuck?"-Block, Kostenvoranschlag.
+**Status:** Konzept gebaut aus der Vorlage `hector-torres-hvac, neu gestaltet nach Wiemer und Kardev (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Look:** "Door's Open": heller Industrie-Look (Beton, Stahl, IOD-Gold), Cabinet Grotesk + Supreme. Hero: ein Sektionaltor aus vier Lamellen mit der Headline; beim Scrollen rollt das Tor hoch, dahinter fährt im Video das echte Tor der Firma auf (Higgsfield/Kling aus dem Einbau-Foto), dann "Let's get your door open.". Danach Vertrauens-Leiste, Leistungen als Torlamellen, die beim Antippen aufklappen, Marken, Doug und Becky Holloway, Galerie mit Lamellen-Reveal, goldener Kontaktblock.
 
 ## Code und Notizen im Repo
 - Seite: `leads/Home Services/independent-overhead-doors/site` (Start über die Konfiguration `iod-site`, Port 5207)

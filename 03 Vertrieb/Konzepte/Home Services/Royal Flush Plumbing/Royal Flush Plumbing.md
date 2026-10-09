@@ -1,7 +1,7 @@
 # Royal Flush Plumbing & Drain Cleaning
 
-**Status:** Konzept gebaut aus der Vorlage `just-right-air-heat` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
-**Look:** "Laut und lesbar" in Royal-Flush-Blau: Navy-Kopfzeile mit dem weißen Logo, riesige Versal-Headline "Fast, reliable plumbers.", echtes Foto (Techniker am Firmenwagen), rotes Laufband, Leistungs-Karten, die auf dem Desktop seitwärts scrollen. Neu gegenüber der Vorlage: Termin-Panel mit den drei Wegen der Originalseite (Anruf, SMS, E-Mail) und die drei Kundenstimmen von der Originalseite in großer Schrift.
+**Status:** Konzept gebaut aus der Vorlage `just-right-air-heat, neu gestaltet nach Olympic Subsea (Awwwards)` (09.10.2026), Mail vorbereitet, nicht verschickt. Screenshots, Scroll-Video und PDF macht Codex.
+**Look:** "Wasser": tiefes Ozeanblau, Schaumweiß, königliche Serife Gambarino + General Sans. Hero: Wasserstrudel-Video (Higgsfield/Kling, rein illustrativ, keine Firmendaten); beim Scrollen zieht sich das Bild kreisförmig zu einem Abfluss zusammen, um den "Every pipe. Every drain." erscheint. Leistungen hängen an einem Rohr, das sich beim Scrollen mit Wasser füllt (Ventile färben sich), Karten mit Wellen-Hover. Danach Crew-Foto vom Firmenwagen mit den Gründen (Familienbetrieb, 50 Jahre Erfahrung zusammen, kostenlose Kostenvoranschläge, 24/7), drei Termin-Wege (Anruf, SMS, E-Mail), die drei echten Kundenstimmen, Formular.
 
 ## Code und Notizen im Repo
 - Seite: `leads/Home Services/royal-flush-plumbing/site` (Start über die Konfiguration `royalflush-site`, Port 5205)

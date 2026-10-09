@@ -34,7 +34,7 @@ Hi Royal Flush Plumbing team,
 
 I put together a website concept for Royal Flush Plumbing that puts your call, text and emergency numbers one tap away and makes it easy for visitors to find drain cleaning, water heaters and slab leak repair on mobile.
 
-The design includes a scheduling panel where visitors pick how they want to reach you (call, text or email), and your customer reviews set in large type. The PDF with screenshots is attached, and I'm happy to send the live preview.
+The design opens with water swirling into a drain as visitors scroll, then lines up your services along a pipe that fills as they read, with your customer reviews in large type. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
 It's an independent proposal from my studio, Northframe, with illustrative imagery.
 
@@ -58,7 +58,7 @@ Hi Kyle,
 
 I put together a website concept for KPS Electric that opens with your phone number, big enough to tap on any phone, and makes it easy for visitors to find residential and commercial electrical work on mobile.
 
-The design leads with your number rolling in digit by digit, followed by your Master Electrician credentials and your full list of services in a simple open-and-close menu. The PDF with screenshots is attached, and I'm happy to send the live preview.
+The design opens in a dark room: as visitors scroll, the lights switch on, followed by your Master Electrician credentials and your full list of residential and commercial services. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
 It's an independent proposal from my studio, Northframe, with illustrative imagery.
 
@@ -82,7 +82,7 @@ Hi Doug and Becky,
 
 I put together a website concept for Independent Overhead Doors that puts your phone number and free estimate first and makes it easy for visitors to find repairs, openers and new American made doors on mobile.
 
-The design includes a photo slider at the top where visitors drag between a repair job and a newly installed door, using photos from your own website. The PDF with screenshots is attached, and I'm happy to send the live preview.
+The design opens with a garage door that rolls up as visitors scroll, revealing one of your own installations, and lays out your services as door panels that lift open. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
 It's an independent proposal from my studio, Northframe, with illustrative imagery.
 
@@ -106,7 +106,7 @@ Hi Stevan Buren team,
 
 I put together a website concept for Stevan Buren Roofing that puts your free roof inspection one tap away and makes it easy for visitors to find roofing, windows and flooring on mobile.
 
-The design opens with a scroll animation that takes a roof apart layer by layer, then puts your three manufacturer certifications and your team photo up front. The PDF with screenshots is attached, and I'm happy to send the live preview.
+The design opens with a drone flight over one of your roof jobs, guided by three steps (inspect, insure, install), and puts your three manufacturer certifications and your team photo up front. The PDF with screenshots is attached, and I'm happy to send the live preview.
 
 It's an independent proposal from my studio, Northframe, with illustrative imagery.
 

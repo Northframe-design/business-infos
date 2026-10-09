@@ -30,10 +30,10 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 - Nur echte, öffentliche Firmendaten. Nichts erfinden.
 - Lead-Daten und Status: siehe [[Leads]].
 
-## Handwerk (09.10.2026, aus Vorlagen gebaut)
+## Handwerk (09.10.2026, Technik aus Vorlagen, Look neu nach Awwwards-Referenzen, Hero-Videos mit Higgsfield)
 | Firma | Konzept | Stand | Vorlage |
 |---|---|---|---|
-| [[Royal Flush Plumbing/Royal Flush Plumbing\|Royal Flush Plumbing]] | Klempner, laut und lesbar | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Just Right |
-| [[KPS Electric/KPS Electric\|KPS Electric]] | Elektriker, Telefonnummer als Hero | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | A/C Service |
-| [[Independent Overhead Doors/Independent Overhead Doors\|Independent Overhead Doors]] | Garagentore, Wisch-Foto Reparatur/neu | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Hector Torres |
-| [[Stevan Buren Roofing/Stevan Buren Roofing\|Stevan Buren Roofing]] | Dachdecker, Dach-Kamerafahrt | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Lone Star |
+| [[Royal Flush Plumbing/Royal Flush Plumbing\|Royal Flush Plumbing]] | Klempner, "Wasser": Strudel-Hero, Rohr füllt sich (nach Olympic Subsea) | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Just Right |
+| [[KPS Electric/KPS Electric\|KPS Electric]] | Elektriker, "Lights On": Licht geht beim Scrollen an (nach Halcyon/LEDUP) | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | A/C Service |
+| [[Independent Overhead Doors/Independent Overhead Doors\|Independent Overhead Doors]] | Garagentore, "Door's Open": Tor rollt beim Scrollen hoch (nach Wiemer/Kardev) | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Hector Torres |
+| [[Stevan Buren Roofing/Stevan Buren Roofing\|Stevan Buren Roofing]] | Dachdecker, "Built in Texas": Drohnenflug + Kapitel-Leiste (nach Rogers-O'Brien) | Konzept fertig, Mail vorbereitet, Medien offen (Codex) | Lone Star |
