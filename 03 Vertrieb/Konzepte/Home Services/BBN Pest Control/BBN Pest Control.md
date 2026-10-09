@@ -1,6 +1,6 @@
 # BBN Pest Control
 
-**Status:** Konzeptseite fertig (09.10.2026), nicht verschickt. Mail, PDF und Scroll-Video noch offen.
+**Status:** Konzeptseite und Mail fertig (09.10.2026), nicht verschickt. PDF und Scroll-Video noch offen.
 **Lead-Liste:** [[Neue-Leads-Service-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -15,6 +15,39 @@ Nachtblau mit bunten Ausschnitt-Blättern in drei Tiefenebenen (Maus- und Scroll
 
 ![[03 Vertrieb/Konzepte/Home Services/BBN Pest Control/desktop-hero-2026-10-09.jpg|600]]
 ![[03 Vertrieb/Konzepte/Home Services/BBN Pest Control/mobil-hero-2026-10-09.jpg|220]]
+
+## Mail (vorbereitet, nicht verschickt)
+Erst senden, wenn das PDF fertig ist. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 4 Mails mit Versandplan und Checkliste: [[12-Versandfertig-Service]]
+
+**An:** bbnpestcontrol@aol.com
+**Betreff:** A website concept for BBN Pest Control
+**Anhang:** `Northframe-Website-Concept-BBN-Pest-Control.pdf` (noch erstellen)
+
+```text
+Hi Josh and Karisa,
+
+I put together a website concept for BBN Pest Control that puts your phone number and a quote form one tap away and makes it easy for visitors west of 35 to see that you cover their town on mobile.
+
+The design takes your motto literally: bugs crawl across a colorful page and visitors can squash them, with a counter in the corner, before they meet the two of you and your 19 towns from Benbrook to Reno. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own photos and texts.
+
+Would this be a direction you'd consider for BBN?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Josh and Karisa, one detail from the concept: "Bugs et morietur" drops onto the page letter by letter right after the first screen. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Code im Repo
 - Seite: `leads/Home Services/bbn-pest-control/index.html` (Vorschau: http://localhost:5180/Home%20Services/bbn-pest-control/)
