@@ -23,3 +23,12 @@ Region: Dallas-Fort Worth. Neue Nischen: Schädlingsbekämpfung, Autowerkstatt, 
 - **Modern oder ohne klaren Mangel:** Guerrero's, Denmark Lawn, Cody Landscape, Velazquez, Espinoza's, K.O. Pest Control, Finley, All Pro Pest, Pest One, GMP Painting, Dan Keenan, Bearcat, Platinum Painting, Cooper Pit Stop, Ken's Automotive, Roberts Automotive, Marvel Dental, Happy Smiles.
 - **Keine E-Mail gefunden:** Clark Landscape, Ideal Landscape, T&T Brake (keine Handy-Version), River Oaks Car (Seite zu breit), CF Dentist und Burleson Modern Dentistry (beide ohne Handy-Version), Alsbury, Renfro, Legacy Dental, Arlington Family Dentistry.
 - **Andere Gründe:** arlington-dentistry.com (Domain zu vermieten), D&B Lawn (nur 25 px zu breit, sonst modern).
+
+## Konzeptseiten (09.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`.
+- Mike's Brake & Alignment: `leads/Auto/mikes-brake-alignment` (nach Forge Automotive, WebGL-Spotlight; Nachtbild mit Higgsfield aus dem eigenen Ladenfoto)
+- BBN Pest Control: `leads/Home Services/bbn-pest-control` (nach Pest Stop Boys, Käfer zum Zerquetschen)
+- Fort Worth Pest & Termite: `leads/Home Services/fort-worth-pest-termite` (nach Flashlights, Kapitel + Taschenlampen-Wand)
+- Burleson Dental Care: `leads/Health/burleson-dental-care` (nach Marylebone Smile Clinic)
+- Chief Pest Control: Reserve, noch keine Seite.
+Offen: Mails, PDFs, Scroll-Videos.

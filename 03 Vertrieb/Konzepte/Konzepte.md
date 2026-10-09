@@ -46,3 +46,11 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[RPGA Design Group/RPGA Design Group\|RPGA Design Group]] | Architektur, nach SANTAL | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
 | [[CHS Architects/CHS Architects\|CHS Architects]] | Architektur, nach Rialto | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
 | [[PDMS Design Group/PDMS Design Group\|PDMS Design Group]] | Architektur, nach Pinnacl | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | eigene Seite |
+
+## Service-Nischen (09.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Mike's Brake & Alignment/Mike's Brake & Alignment\|Mike's Brake & Alignment]] | Auto, nach Forge Automotive | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[BBN Pest Control/BBN Pest Control\|BBN Pest Control]] | Home Services, nach Pest Stop Boys | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[Fort Worth Pest & Termite/Fort Worth Pest & Termite\|Fort Worth Pest & Termite]] | Home Services, nach Flashlights | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[Burleson Dental Care/Burleson Dental Care\|Burleson Dental Care]] | Health, nach Marylebone Smile Clinic | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
