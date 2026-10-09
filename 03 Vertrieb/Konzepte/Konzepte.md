@@ -37,3 +37,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[KPS Electric/KPS Electric\|KPS Electric]] | Elektriker, "Lights On": Licht geht beim Scrollen an (nach Halcyon/LEDUP) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | A/C Service |
 | [[Independent Overhead Doors/Independent Overhead Doors\|Independent Overhead Doors]] | Garagentore, "Door's Open": Tor rollt beim Scrollen hoch (nach Wiemer/Kardev) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | Hector Torres |
 | [[Stevan Buren Roofing/Stevan Buren Roofing\|Stevan Buren Roofing]] | Dachdecker, "Built in Texas": Drohnenflug + Kapitel-Leiste (nach Rogers-O'Brien) | Abgeschickt am 09.10.2026, Follow-up ab 16.10. | Lone Star |
+
+## Gastro & Architektur (09.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[David's Barbecue/David's Barbecue\|David's Barbecue]] | Gastro, nach Qissa – A Tale of Food | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[Touch Ya' Soul Food Catering/Touch Ya' Soul Food Catering\|Touch Ya' Soul Food Catering]] | Gastro, nach Monarque Événements | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[RPGA Design Group/RPGA Design Group\|RPGA Design Group]] | Architektur, nach SANTAL | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[CHS Architects/CHS Architects\|CHS Architects]] | Architektur, nach Rialto | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
+| [[PDMS Design Group/PDMS Design Group\|PDMS Design Group]] | Architektur, nach Pinnacl | Konzeptseite fertig 09.10., Mail/PDF/Video offen, nicht verschickt | eigene Seite |
