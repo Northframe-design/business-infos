@@ -57,3 +57,12 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 **Geprüft und verworfen (Auswahl):**
 - **Modern oder ohne klaren Mangel:** Maple Branch, Cowtown Brew, Jolly Pint, Rising Sun Café, Monkey and Dog Books, Chief Records, Holland Lake Vet, Mansfield Dentistry, Keller Premier Eye, Griffith Roofing, Hoss Pools, Weatherford Pest, Trickle Creek, Dove Ridge, Raven Black.
 - **Ketten oder Portale:** Mr. Electric, Mister Sparky, FASTSIGNS, AudioNova, Mr. Handyman.
+
+## Konzeptseiten (10.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Kleine Firmenfotos mit Real-ESRGAN hochskaliert.
+- The Brooks at Weatherford: `leads/Gastro/brooks-at-weatherford` (nach Quinta D'Amália: 3D-Foto-Ring, Kapelle/Venue-Bögen)
+- Mobile Dog Grooming: `leads/Home Services/mobile-dog-grooming` (nach Dirty Dog Beauty Club: Seifenblasen, Pflege-Checkliste)
+- Doc's Records: `leads/Custom Services/docs-records` (nach Light My Fire Records: drehende Platte, Ankauf, Markt)
+- HopFusion Ale Works: `leads/Gastro/hopfusion-ale-works` (nach Angle Brewery: Pint füllt sich, Wochenplan)
+- Pitchford Pest Control: `leads/Home Services/pitchford-pest-control` (nach Shiner: Steckbriefe, Taschenlampe, Lasso)
+Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
