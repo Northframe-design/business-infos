@@ -86,3 +86,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 
 | [[Architektur/A.GRUPPO Architects/A.GRUPPO Architects|A.GRUPPO Architects]] | Orange Markenfarbe, großzügige Wohnprojektbilder und ein Logo-Fenster, das sich beim Scrollen in den Header bewegt. | PDF, Scrollvideo, Mailentwurf und Website-Quelle |
 | [[Architektur/Laurie Murphy Architect/Laurie Murphy Architect|Laurie Murphy Architect]] | Interaktive Arbeitsliste mit großem Bildwechsel, Originalfotos und dauerhaft sichtbarem Logo. | PDF, Scrollvideo, Mailentwurf und Website-Quelle |
+
+## Läden & Dienste (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Funky Town Donuts/Funky Town Donuts\|Funky Town Donuts]] | Läden & Dienste, nach Doe Donuts | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Michael's PC Sales & Service/Michael's PC Sales & Service\|Michael's PC Sales & Service]] | Läden & Dienste, nach Beige Force | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Helga's Custom Alterations/Helga's Custom Alterations\|Helga's Custom Alterations]] | Läden & Dienste, nach Las Manos que Cosen, Balenciaga-Museum | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[DFW Granite/DFW Granite\|DFW Granite]] | Läden & Dienste, nach Elite Stone | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[DFW Auto Details/DFW Auto Details\|DFW Auto Details]] | Läden & Dienste, nach Speeders Car Wash | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
