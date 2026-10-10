@@ -58,3 +58,12 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 - **Modern oder ohne klaren Mangel:** USA Granite, Onis Stone, Hunter Trim, 5K Woodworks, Avondale, Lone Star Blinds, Brick Experts, Bike Mart, Tone Shop Guitars, Home Zone, Tucker Brown, Anejo, Urban Yoga, Emler.
 - **Ketten oder Lead-Portale:** Window Nation, Duck Donuts, Living Spaces, YogaSix, Massage Envy, mehrere "fortworth…"-Ortsdomains.
 - **Fossil Creek Massage:** leerer erster Bildschirm, aber unklare Betreiber-Mail, bewusst ausgelassen.
+
+## Konzeptseiten (10.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Kleine Firmenfotos mit Real-ESRGAN hochskaliert.
+- Funky Town Donuts: `leads/Gastro/funky-town-donuts` (nach Doe Donuts: fliegende Donuts, "Say it with donuts")
+- Michael's PC: `leads/Custom Services/michaels-pc` (nach Beige Force: Pixel-Käfer im Reparaturfenster)
+- Helga's Custom Alterations: `leads/Custom Services/helgas-alterations` (nach Las Manos que Cosen: Archiv, roter Faden)
+- DFW Granite: `leads/Construction & Repair/dfw-granite` (nach Elite Stone: Marmor-Shader, Steinauswahl)
+- DFW Auto Details: `leads/Auto/dfw-auto-details` (nach Speeders: Schmutz wegwischen)
+Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
