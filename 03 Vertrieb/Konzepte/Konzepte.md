@@ -54,3 +54,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[BBN Pest Control/BBN Pest Control\|BBN Pest Control]] | Home Services, nach Pest Stop Boys | verschickt 09.10., Follow-up ab 16.10. | eigene Seite |
 | [[Fort Worth Pest & Termite/Fort Worth Pest & Termite\|Fort Worth Pest & Termite]] | Home Services, nach Flashlights | verschickt 09.10., Follow-up ab 16.10. | eigene Seite |
 | [[Burleson Dental Care/Burleson Dental Care\|Burleson Dental Care]] | Health, nach Marylebone Smile Clinic | verschickt 09.10., Follow-up ab 16.10. | eigene Seite |
+
+## Mix-Nischen (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Monkey Wrench Cycles/Monkey Wrench Cycles\|Monkey Wrench Cycles]] | Auto, nach Different Motorcycle | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Factory Finish Collision Center/Factory Finish Collision Center\|Factory Finish Collision Center]] | Auto, nach Garage Italia | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Kite's Custom Cleaners/Kite's Custom Cleaners\|Kite's Custom Cleaners]] | Home Services, nach The Wolf's Tailor | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Studio of MoveMINT/Studio of MoveMINT\|Studio of MoveMINT]] | Education, nach Unplush | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Arlington Natural Wellness Center/Arlington Natural Wellness Center\|Arlington Natural Wellness Center]] | Health, nach Trevor Blount Pilates | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |

@@ -59,4 +59,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - Kite's Custom Cleaners: `leads/Home Services/kites-custom-cleaners` (nach The Wolf's Tailor: schwingende Fäden, Handschrift, Anhänger an Kleiderstangen)
 - Studio of MoveMINT: `leads/Education/studio-of-movemint` (nach Unplush: Bühnenfotos ziehen in Tiefen vorbei, Klassen-Finder nach Alter)
 - Arlington Natural Wellness: `leads/Health/arlington-natural-wellness` (nach Trevor Blount Pilates: Rauten-Fotos, Linie quer durch, Wirbelsäulen-Navigation)
-Keine Higgsfield-Bilder (Guthaben ca. 0,13 Credits). Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
+Keine Higgsfield-Bilder (Guthaben ca. 0,13 Credits). PDFs und Scroll-Videos fertig (10.10.), Projektnotizen unter `Konzepte/`. Fotos von Monkey Wrench, Factory Finish und Arlington mit Real-ESRGAN hochskaliert. Offen: Mails. Noch nicht verschickt.
