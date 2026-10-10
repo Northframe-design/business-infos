@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Vertrieb/E-Mails/09-Versandfertig-Architektur.md",
+                "file": "03 Vertrieb/E-Mails/15-Versandfertig-Laden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09-Versandfertig-Architektur"
+              "title": "15-Versandfertig-Laden"
             }
           }
         ],
@@ -189,8 +189,12 @@
       "vault-orrery:Open Vault Orrery": false
     }
   },
-  "active": "ea0c8ecfa8fd7420",
+  "active": "3be38ff06073068d",
   "lastOpenFiles": [
+    "03 Vertrieb/E-Mails/14-Versandfertig-Gewerbe.md",
+    "03 Vertrieb/E-Mails/15-Versandfertig-Laden.md",
+    "03 Vertrieb/E-Mails/13-Versandfertig-Mix.md",
+    "03 Vertrieb/E-Mails/09-Versandfertig-Architektur.md",
     "03 Vertrieb/Konzepte/Läden & Dienste/DFW Auto Details/DFW Auto Details.md",
     "03 Vertrieb/Konzepte/Läden & Dienste/DFW Auto Details/mobil-hero-2026-10-10.jpg",
     "03 Vertrieb/Konzepte/Läden & Dienste/DFW Auto Details/desktop-hero-2026-10-10.jpg",
@@ -233,10 +237,6 @@
     "03 Vertrieb/Konzepte/Architektur/Conduit Architecture/Conduit Architecture.md",
     "03 Vertrieb/Konzepte/Architektur/Conduit Architecture/Website-Quelle/README.md",
     "03 Vertrieb/Konzepte/Architektur/Conduit Architecture/Website-Quelle/leads/Architecture & Design/conduit-architecture/konzept.md",
-    "03 Vertrieb/Konzepte/Architektur/Conduit Architecture/Website-Quelle/leads/Architecture & Design/conduit-architecture/DESIGN.md",
-    "03 Vertrieb/Konzepte/Architektur/Conduit Architecture/Website-Quelle/leads/Architecture & Design/conduit-architecture/akquise.md",
-    "03 Vertrieb/Konzepte/Architektur/Boothe Architects/Website-Quelle/leads/Architecture & Design/boothe-architects/konzept.md",
-    "03 Vertrieb/Konzepte/Architektur/Boothe Architects/Website-Quelle/leads/Architecture & Design/boothe-architects/DESIGN.md",
     "Vaulttt/Unbenannt.canvas",
     "Unbenannt 1.canvas",
     "Unbenannt.canvas"

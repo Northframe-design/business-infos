@@ -6,13 +6,13 @@ Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Läden & D
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang (im Vault-Ordner der Firma) | Erstmail | Follow-up |
-|---|---|---|---|---|
-| Funky Town Donuts | orders@funkytowndonuts.com | `Northframe-Website-Concept-Funky-Town-Donuts.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Michael's PC Sales & Service | info@michaelspcsalesandservice.com | `Northframe-Website-Concept-Michaels-PC.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Helga's Custom Alterations | info@helgasalterations.com | `Northframe-Website-Concept-Helgas-Alterations.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| DFW Granite | dfwgranitetx@gmail.com | `Northframe-Website-Concept-DFW-Granite.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| DFW Auto Details | dfwautodetails@gmail.com | `Northframe-Website-Concept-DFW-Auto-Details.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Firma                        | Empfänger                          | Anhang (im Vault-Ordner der Firma)                           | Erstmail                               | Follow-up                             |
+| ---------------------------- | ---------------------------------- | ------------------------------------------------------------ | -------------------------------------- | ------------------------------------- |
+| Funky Town Donuts            | orders@funkytowndonuts.com         | `Northframe-Website-Concept-Funky-Town-Donuts.pdf` (fertig)  | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Michael's PC Sales & Service | info@michaelspcsalesandservice.com | `Northframe-Website-Concept-Michaels-PC.pdf` (fertig)        | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Helga's Custom Alterations   | info@helgasalterations.com         | `Northframe-Website-Concept-Helgas-Alterations.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| DFW Granite                  | dfwgranitetx@gmail.com             | `Northframe-Website-Concept-DFW-Granite.pdf` (fertig)        | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| DFW Auto Details             | dfwautodetails@gmail.com           | `Northframe-Website-Concept-DFW-Auto-Details.pdf` (fertig)   | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
 
 **Video:** das Scroll-Video nicht an die Erstmail hängen, erst in der Antwort auf ein "Ja".
 **Reihenfolge nach Stärke des Mangels:** Funky Town Donuts, Michael's PC, Helga's, DFW Granite, DFW Auto Details.
