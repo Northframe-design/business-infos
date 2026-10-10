@@ -20,3 +20,8 @@ The concept pairs Peck’s Lewisville work with a warm editorial layout and a mo
 ## Review note
 
 Independent concept proposal; not commissioned by the firm. Original company logos, text and project photographs are shown for private review. No new project facts are asserted.
+
+## Website-Quellcode
+
+Vollständiges Mockup samt lokalen Abhängigkeiten: [[Website-Quelle/README|Website-Quellpaket]].
+

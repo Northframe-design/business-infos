@@ -20,3 +20,8 @@ The concept leads with Magee’s project imagery, then lets visitors explore wor
 ## Review note
 
 Independent concept proposal; not commissioned by the firm. Original company logos, text and project photographs are shown for private review. No new project facts are asserted.
+
+## Website-Quellcode
+
+Vollständiges Mockup samt lokalen Abhängigkeiten: [[Website-Quelle/README|Website-Quellpaket]].
+

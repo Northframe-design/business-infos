@@ -1,0 +1,28 @@
+/* Auszug aus dem Stil von https://www.magee-architects.com/ (computed rules for :root/body/links/headings/buttons, 2026-10-05) */
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { border: 0px; font-family: inherit; font-size: 100%; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; }
+html { background-color: rgb(245, 248, 250); }
+body { height: 100%; font-size: 87.52%; line-height: 1.6875; font-family: "Droid Serif", sans-serif; color: rgb(102, 117, 127); overflow-x: hidden; text-size-adjust: 100%; -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1); }
+h1, h2, h3, h4, h5, h6, li, p { overflow-wrap: break-word; hyphens: auto; color: rgb(255, 204, 153); }
+h1, h2, h3, h4, h5 { font-family: "Playfair Display", sans-serif; color: rgb(41, 47, 51); }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; color: inherit; }
+button, input[type="submit"], input[type="reset"], input[type="button"], .button { display: inline-block; padding: 1em 2em; line-height: normal; margin: 0px 0px 1.2em; border: 1px solid rgb(204, 214, 221); font-family: Droid, Arial, sans-serif; font-size: 1em; font-weight: inherit; vertical-align: middle; text-decoration: none; background: -webkit-linear-gradient(top, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)) transparent; color: rgb(41, 47, 51); cursor: pointer; outline: 0px; border-radius: 0px; appearance: none; transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out; }
+button:hover, button:focus, input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="button"]:hover, input[type="button"]:focus, .button:hover, .button:focus { border-color: rgb(41, 47, 51); }
+button:active, input[type="submit"]:active, input[type="reset"]:active, input[type="button"]:active, .button:active, .button.filled { border-color: rgb(41, 47, 51); background-color: rgb(41, 47, 51); color: rgb(255, 255, 255); }
+button.grey, input[type="submit"].grey, input[type="reset"].grey, input[type="button"].grey, .button.grey { border-color: rgb(245, 248, 250); background-color: rgb(245, 248, 250); color: rgb(41, 47, 51); }
+button.grey:hover, button.grey:focus, input[type="submit"].grey:hover, input[type="submit"].grey:focus, input[type="reset"].grey:hover, input[type="reset"].grey:focus, input[type="button"].grey:hover, input[type="button"].grey:focus, .button.grey:hover, .button.grey:focus, .button.grey.filled { border-color: rgb(41, 47, 51); background-color: rgb(41, 47, 51); color: rgb(255, 255, 255); }
+button.color, input[type="submit"].color, input[type="reset"].color, input[type="button"].color, .button.color { color: rgb(255, 38, 65); }
+button.color:hover, button.color:focus, input[type="submit"].color:hover, input[type="submit"].color:focus, input[type="reset"].color:hover, input[type="reset"].color:focus, input[type="button"].color:hover, input[type="button"].color:focus, .button.color:hover, .button.color:focus, .button.color.filled { border-color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); }
+button { background-color: transparent; }
+a { color: rgb(255, 38, 65); text-decoration: none; }
+html { background-color: rgb(0, 0, 0); }
+body { color: rgb(0, 0, 0); -webkit-tap-highlight-color: rgba(255, 255, 255, 0.1); }
+h1, h2, h3, h4, h5 { color: rgb(255, 255, 255); }
+button, input[type="submit"], input[type="reset"], input[type="button"], .button { border-color: rgb(102, 117, 127); color: rgb(102, 117, 127); }
+button:hover, button:focus, input[type="submit"]:hover, input[type="submit"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="button"]:hover, input[type="button"]:focus, .button:hover, .button:focus { border-color: rgb(255, 255, 255); color: rgb(255, 255, 255); }
+button:active, input[type="submit"]:active, input[type="reset"]:active, input[type="button"]:active, .button:active, .button.filled { border-color: rgb(102, 117, 127); background-color: rgb(102, 117, 127); color: rgb(255, 255, 255); }
+button.grey, input[type="submit"].grey, input[type="reset"].grey, input[type="button"].grey, .button.grey { border-color: rgb(45, 52, 57); background-color: rgb(45, 52, 57); color: rgb(255, 255, 255); }
+button.grey:hover, button.grey:focus, input[type="submit"].grey:hover, input[type="submit"].grey:focus, input[type="reset"].grey:hover, input[type="reset"].grey:focus, input[type="button"].grey:hover, input[type="button"].grey:focus, .button.grey:hover, .button.grey:focus, .button.grey.filled { border-color: rgb(57, 65, 71); background-color: rgb(57, 65, 71); }
+button.color, input[type="submit"].color, input[type="reset"].color, input[type="button"].color, .button.color { color: rgb(255, 38, 65); }
+button.color:hover, button.color:focus, input[type="submit"].color:hover, input[type="submit"].color:focus, input[type="reset"].color:hover, input[type="reset"].color:focus, input[type="button"].color:hover, input[type="button"].color:focus, .button.color:hover, .button.color:focus, .button.color.filled { border-color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); }
+a { color: rgb(255, 38, 65); }
+

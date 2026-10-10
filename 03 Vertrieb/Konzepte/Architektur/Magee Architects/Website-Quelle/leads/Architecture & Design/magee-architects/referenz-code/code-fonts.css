@@ -1,0 +1,4 @@
+/* @font-face-Regeln und Schriften von https://www.magee-architects.com/ */
+@font-face { font-family: FontAwesome; src: url("../fonts/fontawesome-webfont.woff2?v=4.5.0") format("woff2"), url("../fonts/fontawesome-webfont.woff?v=4.5.0") format("woff"), url("../fonts/fontawesome-webfont.ttf?v=4.5.0") format("truetype");; font-weight: normal; font-style: normal; }
+
+/* computed: body "Droid Serif", sans-serif | h1 "Playfair Display", sans-serif | h2  | nav "Playfair Display", sans-serif */

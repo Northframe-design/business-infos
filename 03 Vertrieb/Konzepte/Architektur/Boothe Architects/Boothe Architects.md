@@ -20,3 +20,8 @@ The concept opens with a sketch-to-building animation, then connects Boothe’s 
 ## Review note
 
 Independent concept proposal; not commissioned by the firm. Original company logos, text and project photographs are shown for private review. The sketch-to-building sequence is an AI concept visual based on project imagery, not construction documentation.
+
+## Website-Quellcode
+
+Vollständiges Mockup samt lokalen Abhängigkeiten: [[Website-Quelle/README|Website-Quellpaket]].
+

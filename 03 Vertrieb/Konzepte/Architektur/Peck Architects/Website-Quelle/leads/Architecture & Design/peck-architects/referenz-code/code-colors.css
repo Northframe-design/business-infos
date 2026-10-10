@@ -1,0 +1,45 @@
+/* Auszug aus dem Stil von https://www.peckarchitects.com/ (computed rules for :root/body/links/headings/buttons, 2026-10-05) */
+:root { --wp-block-synced-color: #7a00df; --wp-block-synced-color--rgb: 122,0,223; --wp-bound-block-color: var(--wp-block-synced-color); --wp-editor-canvas-background: #ddd; --wp-admin-theme-color: #007cba; --wp-admin-theme-color--rgb: 0,124,186; --wp-admin-theme-color-darker-10: #006ba1; --wp-admin-theme-color-darker-10--rgb: 0,107,160.5; --wp-admin-theme-color-darker-20: #005a87; --wp-admin-theme-color-darker-20--rgb: 0,90,135; --wp-admin-border-width-focus: 2px; }
+:root .has-very-light-gray-background-color { background-color: rgb(238, 238, 238); }
+:root .has-very-dark-gray-background-color { background-color: rgb(49, 49, 49); }
+:root .has-very-light-gray-color { color: rgb(238, 238, 238); }
+:root .has-very-dark-gray-color { color: rgb(49, 49, 49); }
+:root { --wp--preset--font-size--normal: 16px; --wp--preset--font-size--huge: 42px; }
+html :where(.has-border-color) { border-style: solid; }
+html :where([style*="border-color"]) { border-style: solid; }
+html :where([style*="border-top-color"]) { border-top-style: solid; }
+html :where([style*="border-right-color"]) { border-right-style: solid; }
+html :where([style*="border-bottom-color"]) { border-bottom-style: solid; }
+html :where([style*="border-left-color"]) { border-left-style: solid; }
+html :where(.is-position-sticky) { --wp-admin--admin-bar--position-offset: var(--wp-admin--admin-bar--height,0px); }
+:root { --wp--preset--aspect-ratio--square: 1; --wp--preset--aspect-ratio--4-3: 4/3; --wp--preset--aspect-ratio--3-4: 3/4; --wp--preset--aspect-ratio--3-2: 3/2; --wp--preset--aspect-ratio--2-3: 2/3; --wp--preset--aspect-ratio--16-9: 16/9; --wp--preset--aspect-ratio--9-16: 9/16; --wp--preset--color--black: #000000; --wp--preset--color--cyan-bluish-gray: #abb8c3; --wp--preset--color--white: #ffffff; --wp--preset--color--pale-pink: #f78da7; --wp--preset--color--vivid-red: #cf2e2e; --wp--preset--color--luminous-vivid-orange: #ff6900; --wp--preset--color--luminous-vivid-amber: #fcb900; --wp--preset--color--light-green-cyan: #7bdcb5; --wp--preset--color--vivid-green-cyan: #00d084; --wp--preset--co
+:root :where(.wp-element-button, .wp-block-button__link) { background-color: rgb(50, 55, 60); border-width: 0px; color: rgb(255, 255, 255); font-family: inherit; font-size: inherit; font-style: inherit; font-weight: inherit; letter-spacing: inherit; line-height: inherit; padding: calc(0.667em + 2px) calc(1.333em + 2px); text-decoration: none; text-transform: inherit; }
+body div.pp_default .pp_loaderIcon { background-color: rgb(255, 255, 255); border-radius: 20px; }
+body div.pp_default a.pp_next, body div.pp_default a.pp_previous { position: absolute; top: 50%; display: block; height: 50px; width: 50px; line-height: 50px; margin: -25px 0px 0px; background-color: transparent; font-size: 27px; color: rgb(255, 255, 255); text-align: center; opacity: 0; transition: opacity 0.15s ease-out, background-color 0.15s ease-out, border-color 0.15s ease-out; transform: translateZ(0px); background-image: none !important; text-indent: -9999px !important; }
+body div.pp_default a.pp_next::after, body div.pp_default a.pp_previous::after { position: absolute; top: 0px; left: 0px; display: block; color: rgb(255, 255, 255); font-family: FontAwesome, serif; width: 100%; text-align: center; text-indent: 0px !important; }
+body div.pp_default .pp_description { display: none; float: left; font-size: 14px; line-height: 1.57143em; font-weight: 400; color: rgb(255, 255, 255); margin: 2px 0px 0px; }
+body div.pp_default .pp_nav .currentTextHolder { left: auto; position: relative; float: left; padding: 0px; font-size: 15px; color: rgb(255, 255, 255); font-weight: 400; }
+body div.pp_default a.pp_arrow_previous::after { color: rgb(255, 255, 255); content: ""; font-family: FontAwesome, serif; font-size: 20px; height: 20px; line-height: 20px; text-align: center; width: 20px; text-indent: 0px; position: absolute; top: 0px; left: 0px; }
+body div.pp_default a.pp_arrow_next::after { color: rgb(255, 255, 255); content: ""; font-family: FontAwesome, serif; font-size: 20px; height: 20px; line-height: 20px; text-align: center; width: 20px; text-indent: 0px; position: absolute; top: 0px; right: 0px; }
+body div.pp_default .pp_close::after { color: rgb(255, 255, 255); content: ""; font-family: FontAwesome, serif; font-size: 15px; height: 15px; line-height: 30px; text-align: center; width: 30px; text-indent: 0px; position: absolute; top: 0px; left: 0px; }
+a img { border-width: medium; border-style: none; border-color: currentcolor; border-image: none; }
+body { font-family: "Open Sans", sans-serif; font-size: 14px; line-height: 26px; color: rgb(117, 117, 117); font-weight: 400; background-color: rgb(255, 255, 255); -webkit-font-smoothing: antialiased; overflow-x: hidden !important; }
+h1, h2, h3, h4, h5, h6 { color: rgb(49, 49, 49); }
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { color: inherit; font-family: inherit; font-size: inherit; font-weight: inherit; font-style: inherit; line-height: inherit; letter-spacing: inherit; text-transform: inherit; }
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover { color: rgb(214, 171, 96); }
+a, p a { color: rgb(214, 171, 96); text-decoration: none; cursor: pointer; transition: color 0.15s ease-out; }
+header.transparent.edgtf-menu-item-first-level-bg-color:not(.sticky) .edgtf-drop-down .edgtf-menu-second, header.transparent.fixed.scrolled .edgtf-drop-down .edgtf-menu-second, header.transparent.fixed_hiding.scrolled .edgtf-drop-down .edgtf-menu-second, header.transparent.with_border:not(.sticky) .edgtf-drop-down .edgtf-menu-second { top: 100%; }
+header.transparent.edgtf-menu-item-first-level-bg-color .edgtf-drop-down .edgtf-menu-second:not(.right) { left: 0px; }
+nav.edgtf-slidedown-menu ul li a { font-size: 16px; line-height: 26px; color: rgb(17, 17, 17); padding: 0px; display: block; position: relative; text-decoration: none; cursor: pointer; text-transform: uppercase; letter-spacing: 1px; transition: color 0.15s ease-out; }
+nav.edgtf-slidedown-menu > ul > li::before { content: ""; position: absolute; top: 11px; left: 0px; height: calc(100% - 18px); width: 1px; background-color: rgb(222, 222, 222); }
+nav.edgtf-slidedown-menu > ul > li > a::after { content: ""; position: absolute; bottom: 0px; left: 0px; width: 50px; height: 1px; background-color: rgb(214, 171, 96); }
+nav.edgtf-slidedown-menu > ul > li:last-child::after { content: ""; position: absolute; top: 11px; right: 0px; height: calc(100% - 18px); width: 1px; background-color: rgb(222, 222, 222); }
+nav.edgtf-fullscreen-menu ul li.edgtf-has-sub.open_sub > a { color: rgb(214, 171, 96); }
+nav.edgtf-fullscreen-menu ul li a { font-size: 17px; line-height: 42px; letter-spacing: 1px; color: rgb(255, 255, 255); padding: 0px; display: block; position: relative; text-decoration: none; cursor: pointer; text-transform: uppercase; transition: color 0.15s ease-out; }
+nav.edgtf-fullscreen-menu ul li a:hover { color: rgb(214, 171, 96); }
+body { font-family: "Open Sans", sans-serif; font-size: 14px; line-height: 26px; color: rgb(0, 0, 0); }
+a.wpb_button_a { border-width: medium; border-style: none; border-color: currentcolor; border-image: none; }
+h1 { color: rgb(124, 50, 57); font-size: 28px; font-weight: 600; padding-bottom: 10px; }
+a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, p a { color: rgb(124, 50, 57); }
+a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; }
+
