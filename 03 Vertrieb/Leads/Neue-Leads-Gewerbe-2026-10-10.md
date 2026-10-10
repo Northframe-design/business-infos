@@ -58,3 +58,12 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 - **Modern oder ohne klaren Mangel:** 4Dogs, Petbar, Well Groomed, Benbrook Stables, Lobos Horse Ranch, Mr. Welding, Printed Threads, Grissom's, Sentinel, Diamond H und Carson Irrigation, DFW Well Service, Texan Glass, Drive Safe, Grace Manor.
 - **Ketten, Verzeichnisse und Lead-Portale:** Camp Bow Wow, Pet Suites, Floyd's, Glass Doctor, Groundsguys, mehrere Kaminkehrer-Domains mit Ortsnamen.
 - **Fort Worth Screen Printing:** Laden geschlossen.
+
+## Konzeptseiten (10.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Kleine Firmenfotos mit Real-ESRGAN hochskaliert.
+- J.A.C. Welding: `leads/Construction & Repair/jac-welding` (nach Q-Industrial: Schweißlichtbogen im Rahmen zwischen "Welding" und "Fabrication")
+- Accurate-Tune: `leads/Custom Services/accurate-tune` (nach Goldfinch Pianos: Schwebung stimmt sich beim Scrollen, spielbare Oktave)
+- GSI Geomatic Solutions: `leads/Construction & Repair/gsi-geomatic-solutions` (nach Kraken Industries: Höhenlinien, Fadenkreuz, Neongelb)
+- Armor Texas Insurance: `leads/Custom Services/armor-texas-insurance` (nach Butter Insurance: schwebende Fotos, Angebots-Schalter)
+- Modi CPA: `leads/Custom Services/modi-cpa` (nach Hoskens Accountancy: Gleichung, Rechnerstreifen)
+Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
