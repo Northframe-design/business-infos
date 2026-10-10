@@ -95,3 +95,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Helga's Custom Alterations/Helga's Custom Alterations\|Helga's Custom Alterations]] | Läden & Dienste, nach Las Manos que Cosen, Balenciaga-Museum | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
 | [[DFW Granite/DFW Granite\|DFW Granite]] | Läden & Dienste, nach Elite Stone | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
 | [[DFW Auto Details/DFW Auto Details\|DFW Auto Details]] | Läden & Dienste, nach Speeders Car Wash | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+
+## Umland & Freizeit (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[The Brooks at Weatherford/The Brooks at Weatherford\|The Brooks at Weatherford]] | Umland & Freizeit, nach Quinta D'Amália | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Mobile Dog Grooming/Mobile Dog Grooming\|Mobile Dog Grooming]] | Umland & Freizeit, nach Dirty Dog Beauty Club | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Doc's Records/Doc's Records\|Doc's Records]] | Umland & Freizeit, nach Light My Fire Records | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[HopFusion Ale Works/HopFusion Ale Works\|HopFusion Ale Works]] | Umland & Freizeit, nach Angle Brewery | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Pitchford Pest Control/Pitchford Pest Control\|Pitchford Pest Control]] | Umland & Freizeit, nach Shiner | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |

@@ -65,4 +65,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - Doc's Records: `leads/Custom Services/docs-records` (nach Light My Fire Records: drehende Platte, Ankauf, Markt)
 - HopFusion Ale Works: `leads/Gastro/hopfusion-ale-works` (nach Angle Brewery: Pint füllt sich, Wochenplan)
 - Pitchford Pest Control: `leads/Home Services/pitchford-pest-control` (nach Shiner: Steckbriefe, Taschenlampe, Lasso)
-Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
+PDFs und Scroll-Videos fertig (10.10.), Projektnotizen unter `Konzepte/Umland & Freizeit/`. Mails vorbereitet in [[16-Versandfertig-Umland]]. Noch nicht verschickt.
