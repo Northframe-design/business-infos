@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mails Service-Nischen (4 Firmen), vorbereitet
 
-Stil wie `11-Versandfertig-Gastro-Architektur.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 09.10.2026. **Noch nicht verschickt. PDFs fertig (09.10.2026), die Mails können raus.**
+Stil wie `11-Versandfertig-Gastro-Architektur.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 09.10.2026. **Verschickt am 09.10.2026 (laut Postfach). Follow-up fällig ab 16.10., nur ohne Antwort.**
 Quelle der Firmenangaben: die jeweilige eigene Website (angesehen am 09.10.2026), Lead-Liste [[Neue-Leads-Service-2026-10-09]].
 Konzeptseiten und Projektnotizen: `03 Vertrieb/Konzepte/Auto/`, `Konzepte/Home Services/`, `Konzepte/Health/`.
 

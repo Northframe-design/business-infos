@@ -1,6 +1,6 @@
 # Fort Worth Pest & Termite
 
-**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (09.10.2026), nicht verschickt.
+**Status:** Erstmail mit PDF verschickt am 09.10.2026. Follow-up ab 16.10., nur ohne Antwort.
 **Lead-Liste:** [[Neue-Leads-Service-2026-10-09]]
 
 ## Kontakt (von der Firmenseite)
@@ -21,7 +21,7 @@ Creme, Blau und Gelb aus dem eigenen Banner, Anton + Inter Tight. "Total elimina
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/scroll-desktop-2026-10-09.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/desktop-2026-10-09.png|Desktop]] · [[03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/mobil-2026-10-09.png|Handy]]
 
-## Mail (vorbereitet, nicht verschickt)
+## Mail (verschickt 09.10.2026)
 Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 4 Mails mit Versandplan und Checkliste: [[12-Versandfertig-Service]]
 
