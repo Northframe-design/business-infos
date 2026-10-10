@@ -58,8 +58,8 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Mix-Nischen (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[Monkey Wrench Cycles/Monkey Wrench Cycles\|Monkey Wrench Cycles]] | Auto, nach Different Motorcycle | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Factory Finish Collision Center/Factory Finish Collision Center\|Factory Finish Collision Center]] | Auto, nach Garage Italia | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Kite's Custom Cleaners/Kite's Custom Cleaners\|Kite's Custom Cleaners]] | Home Services, nach The Wolf's Tailor | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Studio of MoveMINT/Studio of MoveMINT\|Studio of MoveMINT]] | Education, nach Unplush | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Arlington Natural Wellness Center/Arlington Natural Wellness Center\|Arlington Natural Wellness Center]] | Health, nach Trevor Blount Pilates | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[Monkey Wrench Cycles/Monkey Wrench Cycles\|Monkey Wrench Cycles]] | Auto, nach Different Motorcycle | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Factory Finish Collision Center/Factory Finish Collision Center\|Factory Finish Collision Center]] | Auto, nach Garage Italia | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Kite's Custom Cleaners/Kite's Custom Cleaners\|Kite's Custom Cleaners]] | Home Services, nach The Wolf's Tailor | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Studio of MoveMINT/Studio of MoveMINT\|Studio of MoveMINT]] | Education, nach Unplush | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Arlington Natural Wellness Center/Arlington Natural Wellness Center\|Arlington Natural Wellness Center]] | Health, nach Trevor Blount Pilates | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |

@@ -1,6 +1,6 @@
 # Monkey Wrench Cycles
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (10.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Mix-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -20,6 +20,39 @@ Papierweiß, Tinte, Werkstatt-Rot, Knewave-Pinselschrift + Archivo + Courier Pri
 - **PDF (8 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Auto/Monkey Wrench Cycles/Northframe-Website-Concept-Monkey-Wrench-Cycles.pdf]]
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Auto/Monkey Wrench Cycles/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Auto/Monkey Wrench Cycles/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Auto/Monkey Wrench Cycles/mobil-2026-10-10.png|Handy]]
+
+## Mail (vorbereitet, nicht verschickt)
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[13-Versandfertig-Mix]]
+
+**An:** FrankV@MonkeyWrenchMotorcycles.com
+**Betreff:** A website concept for Monkey Wrench Cycles
+**Anhang:** [[03 Vertrieb/Konzepte/Auto/Monkey Wrench Cycles/Northframe-Website-Concept-Monkey-Wrench-Cycles.pdf|Northframe-Website-Concept-Monkey-Wrench-Cycles.pdf]]
+
+```text
+Hi Frank,
+
+I put together a website concept for Monkey Wrench Cycles that puts your phone number and a free quote one tap away and makes it easy for riders to find Harley service, dirt bikes and side-by-sides on mobile.
+
+The design works like a shop sheet: what rolls into your shop appears in red brush lettering over your own shop photos, and your full service list is a repair order that checks itself off as visitors scroll. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own photos and texts.
+
+Would this be a direction you'd consider for Monkey Wrench Cycles?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Frank, one detail from the concept: "¿Español? Pregunten por Nancy." sits right in the shop section, so Spanish-speaking riders know who to ask for. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Code im Repo
 - Seite: `leads/Auto/monkey-wrench-cycles/index.html` (Vorschau: http://localhost:5180/Auto/monkey-wrench-cycles/)

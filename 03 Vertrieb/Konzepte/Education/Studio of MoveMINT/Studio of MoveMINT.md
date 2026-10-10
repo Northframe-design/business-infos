@@ -1,6 +1,6 @@
 # Studio of MoveMINT
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (10.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Mix-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -20,6 +20,39 @@ Dunkle Bühne mit MoveMINT-Mint und Koralle, Syne + Figtree. Neun eigene Bühnen
 - **PDF (7 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/Northframe-Website-Concept-Studio-of-MoveMINT.pdf]]
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/mobil-2026-10-10.png|Handy]]
+
+## Mail (vorbereitet, nicht verschickt)
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[13-Versandfertig-Mix]]
+
+**An:** info@studioofmovemint.com
+**Betreff:** A website concept for Studio of MoveMINT
+**Anhang:** [[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/Northframe-Website-Concept-Studio-of-MoveMINT.pdf|Northframe-Website-Concept-Studio-of-MoveMINT.pdf]]
+
+```text
+Hi Studio of MoveMINT team,
+
+I put together a website concept for Studio of MoveMINT that puts your classes and contact one tap away and makes it easy for parents to see where their dancer should start on mobile.
+
+The design opens like a stage: photos of your dancers drift past at different depths as visitors scroll, followed by a class finder where parents tap their dancer's age and see the right class from your enrollment guide. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own photos and texts. The photos are shown only to you.
+
+Would this be a direction you'd consider for MoveMINT?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Studio of MoveMINT team, one detail from the concept: The Nutcracker on December 12 and 13 gets its own section, with the ticket date and your sensory-friendly performance. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Code im Repo
 - Seite: `leads/Education/studio-of-movemint/index.html` (Vorschau: http://localhost:5180/Education/studio-of-movemint/)
