@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Vertrieb/E-Mails/11-Versandfertig-Gastro-Architektur.md",
+                "file": "03 Vertrieb/E-Mails/12-Versandfertig-Service.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11-Versandfertig-Gastro-Architektur"
+              "title": "12-Versandfertig-Service"
             }
           }
         ],
@@ -189,12 +189,15 @@
       "vault-orrery:Open Vault Orrery": false
     }
   },
-  "active": "3be38ff06073068d",
+  "active": "ea0c8ecfa8fd7420",
   "lastOpenFiles": [
-    "03 Vertrieb/E-Mails/10-Versandfertig-Handwerk.md",
-    "03 Vertrieb/E-Mails/09-Versandfertig-Architektur.md",
+    "03 Vertrieb/Leads/Neue-Leads-Mix-2026-10-10.tsv",
+    "03 Vertrieb/Leads/Neue-Leads-Mix-2026-10-10.md",
+    "03 Vertrieb/Leads/Neue-Leads-Service-2026-10-09.md",
     "03 Vertrieb/E-Mails/12-Versandfertig-Service.md",
     "03 Vertrieb/E-Mails/11-Versandfertig-Gastro-Architektur.md",
+    "03 Vertrieb/E-Mails/10-Versandfertig-Handwerk.md",
+    "03 Vertrieb/E-Mails/09-Versandfertig-Architektur.md",
     "03 Vertrieb/Konzepte/Health/Burleson Dental Care/Northframe-Website-Concept-Burleson-Dental-Care.pdf",
     "03 Vertrieb/Konzepte/Home Services/BBN Pest Control/Northframe-Website-Concept-BBN-Pest-Control.pdf",
     "03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/Northframe-Website-Concept-Mikes-Brake-Alignment.pdf",
@@ -219,7 +222,6 @@
     "03 Vertrieb/Konzepte/Home Services/Fort Worth Pest & Termite/Fort Worth Pest & Termite.md",
     "03 Vertrieb/Konzepte/Home Services/BBN Pest Control/BBN Pest Control.md",
     "03 Vertrieb/Konzepte/Auto/Mike's Brake & Alignment/Mike's Brake & Alignment.md",
-    "03 Vertrieb/Leads/Neue-Leads-Service-2026-10-09.md",
     "03 Vertrieb/Konzepte/Architektur/PDMS Design Group/PDMS Design Group.md",
     "03 Vertrieb/Konzepte/Architektur/RPGA Design Group/RPGA Design Group.md",
     "03 Vertrieb/Konzepte/Architektur/CHS Architects/CHS Architects.md",
@@ -235,7 +237,6 @@
     "03 Vertrieb/E-Mails/07-Versandfertig-Structured-Foundation.md",
     "03 Vertrieb/E-Mails/04-Versandfertig-Bright-Tree-Fence.md",
     "03 Vertrieb/E-Mails/03-Versandfertig.md",
-    "03 Vertrieb/E-Mails/06-Versandfertig-Kellys-Pool-Care.md",
     "Vaulttt/Unbenannt.canvas",
     "Unbenannt 1.canvas",
     "Unbenannt.canvas"
