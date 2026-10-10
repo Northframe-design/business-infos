@@ -66,4 +66,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - Helga's Custom Alterations: `leads/Custom Services/helgas-alterations` (nach Las Manos que Cosen: Archiv, roter Faden)
 - DFW Granite: `leads/Construction & Repair/dfw-granite` (nach Elite Stone: Marmor-Shader, Steinauswahl)
 - DFW Auto Details: `leads/Auto/dfw-auto-details` (nach Speeders: Schmutz wegwischen)
-PDFs und Scroll-Videos fertig (10.10.), Projektnotizen unter `Konzepte/Läden & Dienste/`. Offen: Mails. Noch nicht verschickt.
+PDFs und Scroll-Videos fertig (10.10.), Projektnotizen unter `Konzepte/Läden & Dienste/`. Mails vorbereitet in [[15-Versandfertig-Laden]]. Noch nicht verschickt.
