@@ -1,6 +1,6 @@
 # GSI Geomatic Solutions
 
-**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
+**Status:** Erstmail mit PDF verschickt am 10.10.2026. Follow-up ab 17.10., nur ohne Antwort.
 **Lead-Liste:** [[Neue-Leads-Gewerbe-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -21,7 +21,7 @@ Oliv-Schwarz und Vermessungsgelb, Big Shoulders Display + Martian Mono. Wandernd
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/mobil-2026-10-10.png|Handy]]
 
-## Mail (vorbereitet, nicht verschickt)
+## Mail (verschickt 10.10.2026)
 Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 5 Mails mit Versandplan und Checkliste: [[14-Versandfertig-Gewerbe]]
 

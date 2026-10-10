@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mails Gewerbe & Büro (5 Firmen), vorbereitet
 
-Stil wie `13-Versandfertig-Mix.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 10.10.2026. **Stand 10.10.2026: die 5 Mails liegen im Zoho-Postausgang (geplant), noch nicht gesendet.**
+Stil wie `13-Versandfertig-Mix.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 10.10.2026. **Verschickt am 10.10.2026 (laut Postfach). Follow-up ab 17.10., nur ohne Antwort.**
 Quelle der Firmenangaben: die jeweilige eigene Website (angesehen am 10.10.2026), Lead-Liste [[Neue-Leads-Gewerbe-2026-10-10]].
 Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Gewerbe & Büro/`.
 

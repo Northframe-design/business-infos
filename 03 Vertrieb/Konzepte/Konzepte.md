@@ -67,11 +67,11 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Gewerbe & Büro (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[J.A.C. Welding & Fabrication/J.A.C. Welding & Fabrication\|J.A.C. Welding & Fabrication]] | Gewerbe & Büro, nach Q-Industrial | Mail im Postausgang (geplant) | eigene Seite |
-| [[Accurate-Tune/Accurate-Tune\|Accurate-Tune]] | Gewerbe & Büro, nach Goldfinch Pianos | Mail im Postausgang (geplant) | eigene Seite |
-| [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | Mail im Postausgang (geplant) | eigene Seite |
-| [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | Mail im Postausgang (geplant) | eigene Seite |
-| [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | Mail im Postausgang (geplant) | eigene Seite |
+| [[J.A.C. Welding & Fabrication/J.A.C. Welding & Fabrication\|J.A.C. Welding & Fabrication]] | Gewerbe & Büro, nach Q-Industrial | verschickt 10.10., Follow-up ab 17.10. | eigene Seite |
+| [[Accurate-Tune/Accurate-Tune\|Accurate-Tune]] | Gewerbe & Büro, nach Goldfinch Pianos | verschickt 10.10., Follow-up ab 17.10. | eigene Seite |
+| [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | verschickt 10.10., Follow-up ab 17.10. | eigene Seite |
+| [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | verschickt 10.10., Follow-up ab 17.10. | eigene Seite |
+| [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | verschickt 10.10., Follow-up ab 17.10. | eigene Seite |
 
 ## Architektur — Website-Konzepte (10.10.2026)
 
