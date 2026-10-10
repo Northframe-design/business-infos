@@ -72,3 +72,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
 | [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
 | [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+
+## Architektur — Website-Konzepte (10.10.2026)
+
+| Firma | Konzept | Dateien |
+|---|---|---|
+| [[Architektur/Magee Architects/Magee Architects|Magee Architects]] | The concept leads with Magee’s project imagery, then lets visitors explore work by category with the red studio accent carrying through the page. | PDF, Scroll-Video, Mailentwurf |
+| [[Architektur/Peck Architects/Peck Architects|Peck Architects]] | The concept pairs Peck’s Lewisville work with a warm editorial layout and a moving project showcase. | PDF, Scroll-Video, Mailentwurf |
+| [[Architektur/Bush Architects/Bush Architects|Bush Architects]] | The concept frames Bush’s Trinity Groves rendering with a restrained drawing-board treatment, then gives the portfolio room to breathe. | PDF, Scroll-Video, Mailentwurf |
+| [[Architektur/Boothe Architects/Boothe Architects|Boothe Architects]] | The concept opens with a sketch-to-building animation, then connects Boothe’s project gallery, services and team in one continuous page. | PDF, Scroll-Video, Mailentwurf |
