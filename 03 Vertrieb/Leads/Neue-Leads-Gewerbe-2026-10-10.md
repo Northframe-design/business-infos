@@ -66,4 +66,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - GSI Geomatic Solutions: `leads/Construction & Repair/gsi-geomatic-solutions` (nach Kraken Industries: Höhenlinien, Fadenkreuz, Neongelb)
 - Armor Texas Insurance: `leads/Custom Services/armor-texas-insurance` (nach Butter Insurance: schwebende Fotos, Angebots-Schalter)
 - Modi CPA: `leads/Custom Services/modi-cpa` (nach Hoskens Accountancy: Gleichung, Rechnerstreifen)
-Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
+PDFs und Scroll-Videos fertig (10.10.), Projektnotizen unter `Konzepte/Gewerbe & Büro/`. Offen: Mails. Noch nicht verschickt.
