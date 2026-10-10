@@ -6,3 +6,6 @@ These are tailored drafts for review. **None has been sent.** Each company note 
 - [[Architektur/Peck Architects/Akquise-Mail|Peck Architects]] — bill@peckarchitects.com
 - [[Architektur/Bush Architects/Akquise-Mail|Bush Architects]] — contact@busharchitects.design
 - [[Architektur/Boothe Architects/Akquise-Mail|Boothe Architects]] — ray@boothearchitects.com; george@boothearchitects.com
+- [[Architektur/Conduit Architecture/Akquise-Mail|Conduit Architecture]] — info@conduitad.com
+- [[Architektur/A.GRUPPO Architects/Akquise-Mail|A.GRUPPO Architects]] — thad@agruppo.com
+- [[Architektur/Laurie Murphy Architect/Akquise-Mail|Laurie Murphy Architect]] — lmurphy@lmurphyarchitect.com

@@ -1,0 +1,81 @@
+/* Natura house navigation, with A.GRUPPO identity and real studio content. */
+:root{--paper:#f4f2ee;--ink:#141414;--muted:#64635f;--line:#14141426;--orange:#f1582a;--body:Geist,Arial,sans-serif;--display:Geist,Arial,sans-serif;}
+body{background:var(--paper);color:var(--ink);}
+.header .logo{width:52px;height:52px;min-height:44px;}
+.logo img{display:block;width:100%;height:100%;object-fit:contain;}
+.loading .wordmark{font:600 clamp(36px,8vw,90px)/1 var(--body);letter-spacing:-.06em;}
+.loading-track span,.menu-dot,.room-link[aria-current=true] .dot,.thumbnail[aria-current=true]:after{background:var(--orange);}
+.hotspot-label{background:var(--orange);color:var(--ink);}
+.hotspot-dot:after{border-color:var(--orange);}
+.room-link[aria-current=true],.content-open,.room-number{color:#b53513;}
+.display-title{font:600 clamp(40px,6.3vw,104px)/.95 var(--body);letter-spacing:-.065em;white-space:nowrap;width:max-content;max-width:100%;margin-bottom:24px;}
+body:not([data-room=exterior]) .display-title,body[data-room=living] .display-title{font:600 clamp(40px,6.8vw,104px)/.95 var(--body);letter-spacing:-.065em;white-space:nowrap;width:auto;}
+.editorial{width:32vw;}.tagline{font-size:clamp(13px,1.15vw,19px);letter-spacing:.13em;}.description{max-width:29ch;font-size:14px;line-height:1.6;}
+.explore{margin-top:24px;}.content-open{min-height:44px;margin-top:10px;}
+.top-nav button,.menu-toggle,.room-link,.content-toolbar button,.socials button,.socials a{min-height:44px;}
+.footer .footer-words{max-width:40%;font-size:9px;white-space:normal;text-align:right;}
+.content-toolbar .dialog-close{width:44px;height:44px;}.content-toolbar nav{flex-wrap:wrap;gap:24px;}
+.content-body h2{font:500 clamp(34px,4vw,66px)/1.05 var(--body);letter-spacing:-.05em;text-transform:none;}
+.content-body .num{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:#b53513;}
+.content-body .lead{font-size:clamp(22px,2.4vw,34px);line-height:1.3;letter-spacing:-.025em;max-width:30ch;}
+.cols,.offices{display:grid;grid-template-columns:repeat(2,1fr);gap:32px;}.offices{grid-template-columns:repeat(3,1fr);}
+.offices h3{font-size:17px;}.offices .tel{font-size:22px;}.offices a{display:inline-block;min-height:44px;}
+.index{list-style:none;padding:0;margin:30px 0;}.index li{display:grid;grid-template-columns:40px 1fr 150px;gap:16px;padding:18px 0;border-top:1px solid var(--line);align-items:baseline;}
+.index b{font-size:11px;font-weight:400;color:#b53513;}.index span{font-size:20px;}.index em{font-style:normal;font-size:12px;color:var(--muted);text-align:right;}
+.content-body .note{font-size:11px;color:var(--muted);}.photo-grid{margin:28px 0;}.photo-button{overflow:hidden;}.photo-button img{transition:transform .6s;}.photo-button:hover img{transform:scale(1.035);}
+.photo-viewer{background:var(--paper);}.photo-viewer .photo-close{width:44px;height:44px;}
+button:focus-visible,a:focus-visible{outline:2px solid #b53513;outline-offset:4px;}
+@media(max-width:1100px){.editorial{width:33vw;}.description{font-size:12px;}.footer .footer-words{font-size:8px;}}
+@media(max-width:700px){
+ .header .logo{width:43px;height:43px;}.editorial,body:not([data-room=exterior]) .editorial{top:94px;width:88vw;}
+ .display-title,body:not([data-room=exterior]) .display-title,body[data-room=living] .display-title{font-size:clamp(36px,12vw,66px);margin-bottom:12px;}
+ .tagline,body:not([data-room=exterior]) .tagline{font-size:11px;line-height:1.4;letter-spacing:.12em;margin-bottom:8px;}
+ .description,body:not([data-room=exterior]) .description{font-size:11px;line-height:1.5;max-width:85vw;}
+ .content-open{margin-top:2px;min-height:44px;font-size:11px;}.back{top:0;right:0;min-height:44px;}
+ .sidebar{bottom:calc(var(--footer) + 102px);height:44px;}.room-navigation{padding:0;gap:13px;}.room-link{height:44px;min-height:44px;font-size:10px;}
+ .thumbnails{bottom:calc(var(--footer) + 18px);}.thumbnail{width:23vw;}.footer .footer-words{max-width:50%;font-size:7px;}
+ .cols,.offices{grid-template-columns:1fr;gap:22px;}.index li{grid-template-columns:26px 1fr;gap:8px;}.index em{grid-column:2;text-align:left;}.index span{font-size:18px;}
+ .content-toolbar{padding:0 18px;}.content-toolbar nav{gap:15px;}.content-toolbar nav button{font-size:11px;}.content-body h2{font-size:37px;}
+}
+@media(prefers-reduced-motion:reduce){.photo-button img{transition:none;}}
+
+.header .logo{margin-right:6vw;}
+
+/* Clean layout: one text column, one house, one section navigator. */
+:root{--header:88px;--footer:70px;}
+.page-grid,.hotspots,.thumbnails,.sidebar-note,.explore{display:none;}
+.header{height:88px;min-height:88px;background:var(--paper);}
+.header .logo{width:44px;height:44px;margin-right:7vw;}
+.top-nav{gap:32px;}.top-nav button{font-size:12px;}
+.editorial,body:not([data-room=exterior]) .editorial{left:5vw;top:24vh;width:29vw;}
+.display-title,body:not([data-room=exterior]) .display-title,body[data-room=living] .display-title{font-size:clamp(40px,5.7vw,88px);font-weight:500;letter-spacing:-.065em;line-height:1.05;margin-bottom:30px;}
+.tagline,body:not([data-room=exterior]) .tagline{font-size:13px;line-height:1.7;letter-spacing:.12em;margin-bottom:24px;}
+.description,body:not([data-room=exterior]) .description{font-size:14px;line-height:1.75;max-width:30ch;}
+.content-open{font-size:13px;margin-top:22px;padding-bottom:9px;}
+.back{margin-bottom:28px;font-size:11px;}.room-number{margin-bottom:16px;}
+.sidebar{top:27vh;left:84vw;right:3vw;height:auto;}.room-navigation{gap:18px;}.room-link{font-size:12px;}
+.scroll-cue{margin-top:48px;font-size:10px;}.footer{height:70px;padding-inline:5vw;font-size:11px;}
+.footer .socials{gap:24px;}.footer .footer-words{font-size:10px;line-height:1.5;max-width:35%;}
+.scene-space{display:none;}
+@media(max-width:900px),(max-height:649px){
+ html,body{height:auto;min-height:100%;overflow-x:clip;overflow-y:auto;}
+ .experience{height:auto;min-height:100svh;overflow:hidden;position:relative;}
+ .header{position:relative;height:76px;min-height:76px;padding-inline:24px;}
+ .header .logo{width:42px;height:42px;}.top-nav{display:none;}.menu-toggle{margin-left:auto;}
+ .editorial,body:not([data-room=exterior]) .editorial{position:relative;left:auto;top:auto;width:auto;padding:34px 24px 0;}
+ .display-title,body:not([data-room=exterior]) .display-title,body[data-room=living] .display-title{font-size:clamp(38px,9.8vw,68px);width:auto;margin:0 0 20px;}
+ .tagline,body:not([data-room=exterior]) .tagline{font-size:12px;line-height:1.6;letter-spacing:.1em;margin:0 0 16px;}
+ .description,body:not([data-room=exterior]) .description{font-size:13px;line-height:1.7;max-width:44ch;}
+ .content-open{margin-top:12px;min-height:44px;font-size:12px;}
+ .back{position:static;display:none;}.room-number{margin-bottom:14px;}
+ .scene-space{display:block;position:relative;height:clamp(280px,82vw,450px);margin-top:12px;pointer-events:none;}
+ .architecture{position:absolute;inset:0;pointer-events:none;touch-action:pan-y;}
+ .sidebar{position:relative;left:auto;right:auto;top:auto;bottom:auto;height:auto;padding:8px 24px 24px;}
+ .room-navigation{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:2px;overflow:visible;padding:0;border-top:1px solid var(--line);}
+ .room-link{display:flex;justify-content:center;gap:5px;min-height:52px;height:auto;font-size:10px;}
+ .room-link .number,.room-link .active-line,.room-rail,.scroll-cue{display:none;}.room-link .dot{width:5px;height:5px;}
+ .footer{position:relative;inset:auto;height:auto;min-height:96px;padding:16px 24px;display:flex;flex-wrap:wrap;gap:12px;}
+ .footer .socials{gap:18px;}.footer .socials a,.footer .socials button{font-size:10px;}.footer .socials .footer-phone{display:inline-flex;align-items:center;}
+ .footer .footer-words{max-width:100%;font-size:9px;text-align:left;line-height:1.5;}
+ .menu-panel{top:76px;}
+}

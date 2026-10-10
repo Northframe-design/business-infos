@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#f4f2ee">
+  <meta name="description" content="A.GRUPPO architecture, design and build. Dallas and San Marcos, Texas.">
+  <title>A.GRUPPO — Architecture / Design / Build · Private concept</title>
+
+  <link rel="stylesheet" href="../../../natura-assets/natura.css">
+  <link rel="stylesheet" href="../../../natura-assets/natura-film.css">
+  <link rel="stylesheet" href="../../../natura-assets/funken-content.css">
+<meta name="robots" content="noindex,nofollow"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&display=swap"><link rel="stylesheet" href="design.css?v=12"></head>
+<body data-room="exterior">
+  <a class="skip-link" href="#room-navigation">Skip to sections</a>
+  <div class="loading" id="loading" role="status" aria-live="polite">
+    <span class="wordmark">A.GRUPPO</span><span class="loading-caption">Explore architecture</span>
+    <span class="loading-track"><span id="loading-progress"></span></span>
+    <p id="loading-message">Opening the house</p>
+    <button id="retry" type="button" hidden>Try again</button>
+  </div>
+  <main class="experience" id="experience">
+    <div class="architecture" aria-label="Illustrative house navigation"><canvas id="gl" aria-label="Illustrative house. Scroll to move the camera or use the section navigation."></canvas></div>
+    <p id="film-status" class="film-status" role="status" aria-live="polite"></p>
+    <div class="page-grid" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+    <header class="header">
+      <button class="wordmark logo" data-go="exterior" aria-label="A.GRUPPO, return to the house"><img src="img/logo-square.jpg" alt="A.GRUPPO"></button>
+      <nav class="top-nav" aria-label="Studio navigation"><button data-panel="office"><i></i>Studio</button><button data-panel="projects"><i></i>Projects</button><button data-panel="process"><i></i>Process</button><button data-panel="contact"><i></i>Contact</button></nav>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="menu-panel"><span>Menu</span><i class="hamburger"></i><i class="menu-dot"></i></button>
+    </header>
+    <section class="editorial" aria-live="polite" aria-atomic="true">
+      <button class="back" data-go="exterior"><svg viewBox="0 0 28 24" aria-hidden="true"><path d="M26 12H3m9-9-9 9 9 9"/></svg><span>Back to<br>the house</span></button>
+      <div class="editorial-copy" id="editorial-copy">
+        <span class="room-number" id="room-number"></span>
+        <h1 class="display-title" id="room-title">A.GRUPPO</h1>
+        <p class="tagline" id="room-tagline">Architecture<br>Design / Build</p>
+        <p class="description" id="room-description">Architecture, design and build. Dallas and San Marcos, Texas.</p><button class="content-open" id="content-open" type="button">Meet the studio</button>
+        <button class="explore" id="explore"><span class="arrow-circle"><svg viewBox="0 0 28 24" aria-hidden="true"><path d="M2 12h23M16 4l9 8-9 8"/></svg></span><span id="explore-label">Explore<br>the house</span></button>
+      </div>
+    </section>
+    <div class="scene-space" aria-hidden="true"></div>
+    <div class="hotspots" id="hotspots" aria-label="Explore sections"></div>
+    <aside class="sidebar">
+      <nav class="room-navigation" id="room-navigation" aria-label="Sections"><span class="room-rail" aria-hidden="true"></span></nav>
+      <p class="sidebar-note" id="sidebar-note">Explore the studio, residential projects and our process.</p>
+      <button class="scroll-cue" id="scroll-cue" aria-label="Next section"><span class="mouse" aria-hidden="true"></span><span>Scroll<br><span id="scroll-label">to discover</span></span></button>
+    </aside>
+    <nav class="thumbnails" id="thumbnails" aria-label="Section previews"></nav>
+    <footer class="footer"><nav class="socials" aria-label="Contact"><a class="footer-phone" href="tel:+12143166806">214-316-6806</a><button data-panel="contact">Contact</button><a href="https://agruppo.com/" target="_blank" rel="noopener">Original site ↗</a></nav><p class="footer-words">Private concept · Illustrative house, not an A.GRUPPO project</p></footer>
+  </main>
+  <div class="menu-panel" id="menu-panel" hidden><nav aria-label="Menu"></nav></div>
+  <dialog class="studio-dialog content-sheet" id="studio-dialog" aria-labelledby="dialog-title"><header class="content-toolbar"><nav id="content-tabs" aria-label="Content"></nav><button class="dialog-close" id="dialog-close" aria-label="Close content">×</button></header><div class="content-body" id="content-body"></div></dialog>
+  <dialog class="photo-viewer" id="photo-viewer" aria-label="Image preview"><button class="photo-close" id="photo-close" aria-label="Close image">×</button><button class="photo-step photo-prev" id="photo-prev" aria-label="Previous image">←</button><img id="photo-image" alt=""><button class="photo-step photo-next" id="photo-next" aria-label="Next image">→</button><p id="photo-caption" aria-live="polite"></p></dialog>
+  <template id="content-office"><h2 >Architecture. Design. Build.</h2>
+      <p class="num">( 01 ) <span>studio</span></p>
+      <div class="sec-body">
+        <p class="lead">For over 30 years, A.GRUPPO has designed modern architecture that balances precision, restraint, and craft.</p>
+        <div class="cols">
+          <p>We approach every project as a collaboration between client, site, and idea. Whether a new home in Dallas, a renovation in San Marcos, or a design-build in the Hill Country, our work reflects a commitment to clarity and permanence.</p>
+          <p>A.GRUPPO is a design + build architecture firm. We manage the entire process, from concept to construction, to ensure the original vision is realized without compromise.</p>
+        </div>
+      </div>
+    </template><template id="content-projects"><p class="content-eyebrow">A.GRUPPO / Residential</p><h2 >Places to live.</h2><div class="photo-grid"><figure><button class="photo-button" data-photo><img src="img/photo-2.jpg" alt="A.GRUPPO architectural project" loading="lazy"><span aria-hidden="true">↗</span></button></figure><figure><button class="photo-button" data-photo><img src="img/photo-3.jpg" alt="Open interior with a double-height living space and a pink door" loading="lazy"><span aria-hidden="true">↗</span></button></figure><figure><button class="photo-button" data-photo><img src="img/photo-6.jpg" alt="Corrugated metal volume on slender steel supports among oak trees" loading="lazy"><span aria-hidden="true">↗</span></button></figure><figure><button class="photo-button" data-photo><img src="img/photo-8.jpg" alt="Rust-red house among oak trees at dusk" loading="lazy"><span aria-hidden="true">↗</span></button></figure><figure><button class="photo-button" data-photo><img src="img/photo-7.jpg" alt="Living room with warm timber windows looking out over a wooded valley" loading="lazy"><span aria-hidden="true">↗</span></button></figure><figure><button class="photo-button" data-photo><img src="img/photo-4.jpg" alt="Green volume in a meadow under a soft sky" loading="lazy"><span aria-hidden="true">↗</span></button></figure><figure><button class="photo-button" data-photo><img src="img/photo-9.jpg" alt="Covered entry between timber and glass with sunlight on the floor" loading="lazy"><span aria-hidden="true">↗</span></button></figure></div><p class="illustration-note">Project photographs from A.GRUPPO. Photographs are not assigned to individual project names.</p>
+      <p class="num">( 02 ) <span>residential</span></p>
+      <div class="sec-body">
+        <h2>Residential projects</h2>
+        <ol class="index">
+          <li><b>01</b><span>16 vanguard way</span><em>Dallas · 2015</em></li>
+          <li><b>02</b><span>17 vanguard way</span><em>Dallas · 2017</em></li>
+          <li><b>03</b><span>aldwick residence</span><em>Dallas · 2019</em></li>
+          <li><b>04</b><span>battle bend</span><em>Austin · 2015</em></li>
+          <li><b>05</b><span>bley sleeping house</span><em>San Marcos · 2011</em></li>
+          <li><b>06</b><span>cannonball run</span><em></em></li>
+          <li><b>07</b><span>canyon lake retreat</span><em></em></li>
+          <li><b>08</b><span>emerson remodel</span><em></em></li>
+          <li><b>09</b><span>ferrand residence</span><em>New Braunfels</em></li>
+          <li><b>10</b><span>gillespie unit B</span><em></em></li>
+          <li><b>11</b><span>gillespie unit F</span><em></em></li>
+          <li><b>12</b><span>groveland residence</span><em></em></li>
+          <li><b>13</b><span>laman residence</span><em></em></li>
+          <li><b>14</b><span>oostwouder residence</span><em></em></li>
+          <li><b>15</b><span>rancho encino</span><em></em></li>
+          <li><b>16</b><span>trammel residence</span><em></em></li>
+          <li><b>17</b><span>santa clara</span><em></em></li>
+          <li><b>18</b><span>southlake</span><em></em></li>
+        </ol>
+        <p class="note">Project names and facts as listed on agruppo.com. Awards named on the site: Dallas AIA Homes Tour (17 Vanguard 2018, Aldwick 2019).</p>
+      </div>
+    </template><template id="content-process"><h2 >From idea to building.</h2>
+      <p class="num">( 03 ) <span>process</span></p>
+      <div class="sec-body">
+        <p class="lead">Our design process begins with listening.</p>
+        <div class="cols">
+          <p>We study the site, light, and structure to find solutions that fit their environment. Each project is developed through modeling, visualization, and direct client dialogue.</p>
+          <p>By controlling design and construction under one method, we deliver architecture that performs as precisely as it looks. This integrated approach strengthens communication, shortens timelines, and maintains consistency in quality, proportion, and detail.</p>
+        </div>
+      </div>
+    </template><template id="content-contact"><h2 >Let’s talk architecture.</h2>
+      <p class="num">( 04 ) <span>offices</span></p>
+      <div class="sec-body">
+        <p class="lead">Offices in Dallas and San Marcos, Texas. We serve clients across Texas and throughout the United States.</p>
+        <div class="offices">
+          <div><h3>Dallas</h3><a class="tel" href="tel:+12143166806">214-316-6806</a></div>
+          <div><h3>San Marcos</h3><a class="tel" href="tel:+15125572140">512-557-2140</a></div>
+          <div><h3>Write</h3><a href="mailto:thad@agruppo.com">thad@agruppo.com</a><br><a href="mailto:andrew@agruppo.com">andrew@agruppo.com</a></div>
+        </div>
+      </div>
+    </template><script type="module" src="app.js?v=12"></script>
+</body>
+</html>

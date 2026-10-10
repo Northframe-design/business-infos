@@ -1,0 +1,85 @@
+{
+  "width": 800,
+  "height": 800,
+  "frameCount": 129,
+  "fps": 24,
+  "stops": [
+    {
+      "id": "exterior",
+      "frame": 0,
+      "target": [
+        0,
+        -1.1,
+        2.25
+      ],
+      "direction": [
+        20,
+        -27,
+        23
+      ],
+      "scale": 22.8
+    },
+    {
+      "id": "living",
+      "frame": 32,
+      "target": [
+        -2.25,
+        0.6,
+        1.55
+      ],
+      "direction": [
+        26,
+        -27,
+        21
+      ],
+      "scale": 10.9
+    },
+    {
+      "id": "kitchen",
+      "frame": 64,
+      "target": [
+        2.95,
+        2.1,
+        1.7
+      ],
+      "direction": [
+        26,
+        -27,
+        21
+      ],
+      "scale": 10.7
+    },
+    {
+      "id": "bedroom",
+      "frame": 96,
+      "target": [
+        1.35,
+        3.05,
+        5.0
+      ],
+      "direction": [
+        26,
+        -27,
+        21
+      ],
+      "scale": 10.6
+    },
+    {
+      "id": "terrace",
+      "frame": 128,
+      "target": [
+        1.1,
+        -5.8,
+        0.15
+      ],
+      "direction": [
+        20,
+        -27,
+        27
+      ],
+      "scale": 13.7
+    }
+  ],
+  "pattern": "frame-{index}.webp",
+  "generatedFrom": "NATURA_Film.blend"
+}

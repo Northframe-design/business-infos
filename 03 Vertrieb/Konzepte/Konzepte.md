@@ -82,4 +82,7 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Architektur/Bush Architects/Bush Architects|Bush Architects]] | The concept frames Bush’s Trinity Groves rendering with a restrained drawing-board treatment, then gives the portfolio room to breathe. | PDF, Scroll-Video, Mailentwurf |
 | [[Architektur/Boothe Architects/Boothe Architects|Boothe Architects]] | The concept opens with a sketch-to-building animation, then connects Boothe’s project gallery, services and team in one continuous page. | PDF, Scroll-Video, Mailentwurf |
 
-| [[Architektur/Conduit Architecture/Conduit Architecture|Conduit Architecture]] | Logo-Fenster aus Projektbildern, das sich beim Scrollen zum Header zusammensetzt; horizontale Projektstrecke. | Website-Quelle und Mailentwurf abgelegt; PDF und Scrollvideo fehlen | eigene Seite |
+| [[Architektur/Conduit Architecture/Conduit Architecture|Conduit Architecture]] | Logo-Fenster aus Projektbildern, das sich beim Scrollen zum Header zusammensetzt; horizontale Projektstrecke. | PDF, Scrollvideo, Mailentwurf und Website-Quelle | eigene Seite |
+
+| [[Architektur/A.GRUPPO Architects/A.GRUPPO Architects|A.GRUPPO Architects]] | Orange Markenfarbe, großzügige Wohnprojektbilder und ein Logo-Fenster, das sich beim Scrollen in den Header bewegt. | PDF, Scrollvideo, Mailentwurf und Website-Quelle |
+| [[Architektur/Laurie Murphy Architect/Laurie Murphy Architect|Laurie Murphy Architect]] | Interaktive Arbeitsliste mit großem Bildwechsel, Originalfotos und dauerhaft sichtbarem Logo. | PDF, Scrollvideo, Mailentwurf und Website-Quelle |
