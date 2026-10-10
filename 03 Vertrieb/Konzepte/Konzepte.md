@@ -81,3 +81,5 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Architektur/Peck Architects/Peck Architects|Peck Architects]] | The concept pairs Peck’s Lewisville work with a warm editorial layout and a moving project showcase. | PDF, Scroll-Video, Mailentwurf |
 | [[Architektur/Bush Architects/Bush Architects|Bush Architects]] | The concept frames Bush’s Trinity Groves rendering with a restrained drawing-board treatment, then gives the portfolio room to breathe. | PDF, Scroll-Video, Mailentwurf |
 | [[Architektur/Boothe Architects/Boothe Architects|Boothe Architects]] | The concept opens with a sketch-to-building animation, then connects Boothe’s project gallery, services and team in one continuous page. | PDF, Scroll-Video, Mailentwurf |
+
+| [[Architektur/Conduit Architecture/Conduit Architecture|Conduit Architecture]] | Logo-Fenster aus Projektbildern, das sich beim Scrollen zum Header zusammensetzt; horizontale Projektstrecke. | Website-Quelle und Mailentwurf abgelegt; PDF und Scrollvideo fehlen | eigene Seite |
