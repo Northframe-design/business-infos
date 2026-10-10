@@ -51,3 +51,12 @@ Region: Dallas-Fort Worth. Neue Nischen: Motorradwerkstatt, Karosseriewerkstatt,
 - **Ketten, Franchise oder Lead-Portale:** The Joint, CityVet, VCA, Molly Maid, Oxi Fresh, Two Men and a Truck, Fort Worth Appliance Repair (keine Namen, keine Adresse).
 - **Texas Premier Locksmith:** landesweit, aktiv gepflegt, nur ein Bild zu breit.
 - **Bestattungsinstitute:** bewusst ausgelassen (heikle Nische für Kaltakquise).
+
+## Konzeptseiten (10.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`.
+- Monkey Wrench Cycles: `leads/Auto/monkey-wrench-cycles` (nach Different Motorcycle: rote Pinselschrift, Schwarz-Weiß-Polaroids, Reparaturauftrag hakt sich ab)
+- Factory Finish: `leads/Auto/factory-finish-collision` (nach Garage Italia: Blaupausen-Auto zeichnet sich, Delle, Reparatur, Lack beim Scrollen)
+- Kite's Custom Cleaners: `leads/Home Services/kites-custom-cleaners` (nach The Wolf's Tailor: schwingende Fäden, Handschrift, Anhänger an Kleiderstangen)
+- Studio of MoveMINT: `leads/Education/studio-of-movemint` (nach Unplush: Bühnenfotos ziehen in Tiefen vorbei, Klassen-Finder nach Alter)
+- Arlington Natural Wellness: `leads/Health/arlington-natural-wellness` (nach Trevor Blount Pilates: Rauten-Fotos, Linie quer durch, Wirbelsäulen-Navigation)
+Keine Higgsfield-Bilder (Guthaben ca. 0,13 Credits). Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
