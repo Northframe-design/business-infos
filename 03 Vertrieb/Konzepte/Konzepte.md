@@ -67,8 +67,8 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Gewerbe & Büro (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[J.A.C. Welding & Fabrication/J.A.C. Welding & Fabrication\|J.A.C. Welding & Fabrication]] | Gewerbe & Büro, nach Q-Industrial | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Accurate-Tune/Accurate-Tune\|Accurate-Tune]] | Gewerbe & Büro, nach Goldfinch Pianos | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
-| [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | Seite, PDF, Video fertig 10.10., Mail offen | eigene Seite |
+| [[J.A.C. Welding & Fabrication/J.A.C. Welding & Fabrication\|J.A.C. Welding & Fabrication]] | Gewerbe & Büro, nach Q-Industrial | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Accurate-Tune/Accurate-Tune\|Accurate-Tune]] | Gewerbe & Büro, nach Goldfinch Pianos | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |

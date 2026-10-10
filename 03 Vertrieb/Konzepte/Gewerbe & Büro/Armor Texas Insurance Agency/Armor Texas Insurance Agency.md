@@ -1,6 +1,6 @@
 # Armor Texas Insurance Agency
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (10.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Gewerbe-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -20,6 +20,39 @@ Texas-Blau, Sonnengelb, Koralle, Bricolage Grotesque + Onest. "One agency. Quote
 - **PDF (6 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Gewerbe & Büro/Armor Texas Insurance Agency/Northframe-Website-Concept-Armor-Texas-Insurance.pdf]]
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Gewerbe & Büro/Armor Texas Insurance Agency/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/Armor Texas Insurance Agency/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Gewerbe & Büro/Armor Texas Insurance Agency/mobil-2026-10-10.png|Handy]]
+
+## Mail (vorbereitet, nicht verschickt)
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[14-Versandfertig-Gewerbe]]
+
+**An:** hedy@armortexasins.com
+**Betreff:** A website concept for Armor Texas Insurance Agency
+**Anhang:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/Armor Texas Insurance Agency/Northframe-Website-Concept-Armor-Texas-Insurance.pdf|Northframe-Website-Concept-Armor-Texas-Insurance.pdf]]
+
+```text
+Hi Armor Texas Insurance team,
+
+I put together a website concept for Armor Texas Insurance Agency that puts a big "Get a quote" button and your phone number one tap away and makes it easy for visitors to ask for home, auto, business or tourist quotes on mobile.
+
+Visitors switch on what they want to protect, and their quote request is written for them, with your office, your licences and the companies you represent right below. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own texts, logos and photos.
+
+Would this be a direction you'd consider for Armor Texas Insurance?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Armor Texas Insurance team, one detail from the concept: the logos of the companies you represent scroll in two columns, right next to your licences. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Code im Repo
 - Seite: `leads/Custom Services/armor-texas-insurance/index.html` (Vorschau: http://localhost:5180/Custom%20Services/armor-texas-insurance/)

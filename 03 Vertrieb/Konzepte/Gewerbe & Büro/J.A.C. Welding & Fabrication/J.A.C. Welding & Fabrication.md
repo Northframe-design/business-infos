@@ -1,6 +1,6 @@
 # J.A.C. Welding & Fabrication
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (10.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Gewerbe-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -20,6 +20,39 @@ Schwarz, Stahlgrau, Rot, Sora + IBM Plex Mono. Ein Canvas-Lichtbogen im Rahmen z
 - **PDF (7 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Gewerbe & Büro/J.A.C. Welding & Fabrication/Northframe-Website-Concept-JAC-Welding.pdf]]
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Gewerbe & Büro/J.A.C. Welding & Fabrication/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/J.A.C. Welding & Fabrication/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Gewerbe & Büro/J.A.C. Welding & Fabrication/mobil-2026-10-10.png|Handy]]
+
+## Mail (vorbereitet, nicht verschickt)
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[14-Versandfertig-Gewerbe]]
+
+**An:** jacwelding@sbcglobal.net
+**Betreff:** A website concept for J.A.C. Welding & Fabrication
+**Anhang:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/J.A.C. Welding & Fabrication/Northframe-Website-Concept-JAC-Welding.pdf|Northframe-Website-Concept-JAC-Welding.pdf]]
+
+```text
+Hi J.A.C. Welding team,
+
+I put together a website concept for J.A.C. Welding & Fabrication that puts your phone number and a free estimate one tap away and makes it easy for customers to see what you build, from tables and stairs to skids and tanks, on mobile.
+
+The design opens with a live welding arc between the words "Welding" and "Fabrication": the torch follows the cursor and lays a glowing bead, and as visitors scroll it opens onto your shop, followed by your certifications and your project photos. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own texts and photos.
+
+Would this be a direction you'd consider for J.A.C. Welding?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi J.A.C. Welding team, one detail from the concept: your helicopter dolly and tractor-seat stools sit in the project strip right before your phone numbers. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Code im Repo
 - Seite: `leads/Construction & Repair/jac-welding/index.html` (Vorschau: http://localhost:5180/Construction%20%26%20Repair/jac-welding/)

@@ -1,6 +1,6 @@
 # GSI Geomatic Solutions
 
-**Status:** Konzeptseite, PDF und Scroll-Video fertig (10.10.2026), nicht verschickt. Mail noch offen.
+**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Gewerbe-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -20,6 +20,39 @@ Oliv-Schwarz und Vermessungsgelb, Big Shoulders Display + Martian Mono. Wandernd
 - **PDF (7 Seiten, für die Erstmail):** [[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/Northframe-Website-Concept-GSI-Geomatic-Solutions.pdf]]
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/mobil-2026-10-10.png|Handy]]
+
+## Mail (vorbereitet, nicht verschickt)
+Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
+Alle 5 Mails mit Versandplan und Checkliste: [[14-Versandfertig-Gewerbe]]
+
+**An:** shelby@gsisurvey.com
+**Betreff:** A website concept for GSI Geomatic Solutions
+**Anhang:** [[03 Vertrieb/Konzepte/Gewerbe & Büro/GSI Geomatic Solutions/Northframe-Website-Concept-GSI-Geomatic-Solutions.pdf|Northframe-Website-Concept-GSI-Geomatic-Solutions.pdf]]
+
+```text
+Hi Shelby,
+
+I put together a website concept for GSI Geomatic Solutions that puts "Order a survey" and your phone number one tap away and makes it easy for title companies, builders and homeowners to find the right survey on mobile.
+
+The design is built like a field map: contour lines move behind the page, a survey crosshair follows the cursor, and all nine survey types, your credentials and your service area are laid out clearly. The PDF with screenshots is attached, and I'm happy to send the live preview.
+
+It's an independent proposal from my studio, Northframe, built with your own texts and photos.
+
+Would this be a direction you'd consider for GSI?
+
+Best,
+Nathanael Gutperl
+Northframe | Website design
+hello@northframesites.com · northframesites.com
+Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
+Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
+```
+
+**Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
+
+```text
+Hi Shelby, one detail from the concept: the "Order a survey" button stays in the side column on every screen, and in a bar at the bottom on phones. Would you like to see the live preview? Best, Nathanael
+```
 
 ## Code im Repo
 - Seite: `leads/Construction & Repair/gsi-geomatic-solutions/index.html` (Vorschau: http://localhost:5180/Construction%20%26%20Repair/gsi-geomatic-solutions/)
