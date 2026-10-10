@@ -1,6 +1,6 @@
 # Northframe — Akquise-Mails Mix-Nischen (5 Firmen), vorbereitet
 
-Stil wie `12-Versandfertig-Service.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 10.10.2026. **Noch nicht verschickt. PDFs fertig, die Mails können raus.**
+Stil wie `12-Versandfertig-Service.md`: Nutzen zuerst, keine Mängel, eine Frage am Ende. Stand: 10.10.2026. **Verschickt am 10.10.2026 (laut Postfach). Follow-ups liegen im Zoho-Postausgang.**
 Quelle der Firmenangaben: die jeweilige eigene Website (angesehen am 10.10.2026), Lead-Liste [[Neue-Leads-Mix-2026-10-10]].
 Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Auto/`, `Konzepte/Home Services/`, `Konzepte/Education/`, `Konzepte/Health/`.
 

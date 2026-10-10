@@ -1,6 +1,6 @@
 # Studio of MoveMINT
 
-**Status:** Konzeptseite, PDF, Scroll-Video und Mail fertig (10.10.2026), nicht verschickt.
+**Status:** Erstmail mit PDF verschickt am 10.10.2026. Follow-up liegt im Zoho-Postausgang.
 **Lead-Liste:** [[Neue-Leads-Mix-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
@@ -21,7 +21,7 @@ Dunkle Bühne mit MoveMINT-Mint und Koralle, Syne + Figtree. Neun eigene Bühnen
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/scroll-desktop-2026-10-10.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/desktop-2026-10-10.png|Desktop]] · [[03 Vertrieb/Konzepte/Education/Studio of MoveMINT/mobil-2026-10-10.png|Handy]]
 
-## Mail (vorbereitet, nicht verschickt)
+## Mail (verschickt 10.10.2026)
 Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
 Alle 5 Mails mit Versandplan und Checkliste: [[13-Versandfertig-Mix]]
 

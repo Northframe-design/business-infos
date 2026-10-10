@@ -58,20 +58,20 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 ## Mix-Nischen (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[Monkey Wrench Cycles/Monkey Wrench Cycles\|Monkey Wrench Cycles]] | Auto, nach Different Motorcycle | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Factory Finish Collision Center/Factory Finish Collision Center\|Factory Finish Collision Center]] | Auto, nach Garage Italia | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Kite's Custom Cleaners/Kite's Custom Cleaners\|Kite's Custom Cleaners]] | Home Services, nach The Wolf's Tailor | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Studio of MoveMINT/Studio of MoveMINT\|Studio of MoveMINT]] | Education, nach Unplush | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Arlington Natural Wellness Center/Arlington Natural Wellness Center\|Arlington Natural Wellness Center]] | Health, nach Trevor Blount Pilates | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[Monkey Wrench Cycles/Monkey Wrench Cycles\|Monkey Wrench Cycles]] | Auto, nach Different Motorcycle | verschickt 10.10., Follow-up im Postausgang | eigene Seite |
+| [[Factory Finish Collision Center/Factory Finish Collision Center\|Factory Finish Collision Center]] | Auto, nach Garage Italia | verschickt 10.10., Follow-up im Postausgang | eigene Seite |
+| [[Kite's Custom Cleaners/Kite's Custom Cleaners\|Kite's Custom Cleaners]] | Home Services, nach The Wolf's Tailor | verschickt 10.10., Follow-up im Postausgang | eigene Seite |
+| [[Studio of MoveMINT/Studio of MoveMINT\|Studio of MoveMINT]] | Education, nach Unplush | verschickt 10.10., Follow-up im Postausgang | eigene Seite |
+| [[Arlington Natural Wellness Center/Arlington Natural Wellness Center\|Arlington Natural Wellness Center]] | Health, nach Trevor Blount Pilates | verschickt 10.10., Follow-up im Postausgang | eigene Seite |
 
 ## Gewerbe & Büro (10.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
 | Firma | Konzept | Stand | Basis |
 |---|---|---|---|
-| [[J.A.C. Welding & Fabrication/J.A.C. Welding & Fabrication\|J.A.C. Welding & Fabrication]] | Gewerbe & Büro, nach Q-Industrial | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Accurate-Tune/Accurate-Tune\|Accurate-Tune]] | Gewerbe & Büro, nach Goldfinch Pianos | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
-| [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+| [[J.A.C. Welding & Fabrication/J.A.C. Welding & Fabrication\|J.A.C. Welding & Fabrication]] | Gewerbe & Büro, nach Q-Industrial | Mail im Postausgang (geplant) | eigene Seite |
+| [[Accurate-Tune/Accurate-Tune\|Accurate-Tune]] | Gewerbe & Büro, nach Goldfinch Pianos | Mail im Postausgang (geplant) | eigene Seite |
+| [[GSI Geomatic Solutions/GSI Geomatic Solutions\|GSI Geomatic Solutions]] | Gewerbe & Büro, nach Kraken Industries | Mail im Postausgang (geplant) | eigene Seite |
+| [[Armor Texas Insurance Agency/Armor Texas Insurance Agency\|Armor Texas Insurance Agency]] | Gewerbe & Büro, nach Butter Insurance | Mail im Postausgang (geplant) | eigene Seite |
+| [[Manjula P. Modi CPA/Manjula P. Modi CPA\|Manjula P. Modi CPA]] | Gewerbe & Büro, nach Hoskens Accountancy | Mail im Postausgang (geplant) | eigene Seite |
 
 ## Architektur — Website-Konzepte (10.10.2026)
 
