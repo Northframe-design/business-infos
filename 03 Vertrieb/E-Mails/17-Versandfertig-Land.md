@@ -6,11 +6,11 @@ Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Land & Han
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang (im Vault-Ordner der Firma) | Erstmail | Follow-up |
-|---|---|---|---|---|
-| Triple J Ranch Feed Store | triplejranchfeeds@gmail.com | `Northframe-Website-Concept-Triple-J-Ranch-Feed.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| RTM Ranch Stables | rtmranch@ymail.com | `Northframe-Website-Concept-RTM-Ranch-Stables.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Linda's Jewelry | lindasjewelrygold@gmail.com | `Northframe-Website-Concept-Lindas-Jewelry.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Firma                                       | Empfänger                     | Anhang (im Vault-Ordner der Firma)                                    | Erstmail                               | Follow-up                             |
+| ------------------------------------------- | ----------------------------- | --------------------------------------------------------------------- | -------------------------------------- | ------------------------------------- |
+| Triple J Ranch Feed Store                   | triplejranchfeeds@gmail.com   | `Northframe-Website-Concept-Triple-J-Ranch-Feed.pdf` (fertig)         | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| RTM Ranch Stables                           | rtmranch@ymail.com            | `Northframe-Website-Concept-RTM-Ranch-Stables.pdf` (fertig)           | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Linda's Jewelry                             | lindasjewelrygold@gmail.com   | `Northframe-Website-Concept-Lindas-Jewelry.pdf` (fertig)              | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
 | Furniture & Upholstery Repair & Restoration | furniturerepair101@icloud.com | `Northframe-Website-Concept-Furniture-Upholstery-Repair.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
 
 **Video:** das Scroll-Video nicht an die Erstmail hängen, erst in der Antwort auf ein "Ja".
