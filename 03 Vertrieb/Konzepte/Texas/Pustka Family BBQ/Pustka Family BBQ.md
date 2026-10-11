@@ -22,23 +22,22 @@ Creme, Kohle, Navy, Gold, Rot, Alfa Slab One + Lato. Rauch über dem Tablett-Fot
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas/Pustka Family BBQ/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas/Pustka Family BBQ/mobil-2026-10-11.png|Handy]]
 
 ## Mail (vorbereitet, nicht verschickt)
-Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
-Alle 5 Mails mit Versandplan und Checkliste: [[19-Versandfertig-Texas]]
+Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[19-Versandfertig-Texas]]). PDF und Video erst nach einer Antwort nutzen.
 
 **An:** pustkafamilybbq@gmail.com
 **Betreff:** A website concept for Pustka Family Barbeque
-**Anhang:** [[03 Vertrieb/Konzepte/Texas/Pustka Family BBQ/Northframe-Website-Concept-Pustka-Family-BBQ.pdf|Northframe-Website-Concept-Pustka-Family-BBQ.pdf]]
+**Anhang:** keiner
 
 ```text
 Hi Pustka family,
 
-I put together a website concept for Pustka Family Barbeque that puts directions, your hours and your phone number one tap away and lets guests see what they will order before they drive out to Temple.
+Your plates are easy to love and easy to explain: one to three meats smoked over Post Oak, plus two sides like Granny's mustard potato salad.
 
-The design opens with your tray of brisket, sausage and ribs under a soft drift of smoke, and includes a plate builder where guests pick meats and sides and see the price from your menu on an order ticket. The PDF with screenshots is attached, and I'm happy to send the live preview.
+I built a private website concept where guests put that plate together on their phone and see the price from your menu before they drive out to Temple. Directions and your hours are one tap away.
 
-It's an independent proposal from my studio, Northframe, built with your own menu, story and photos.
+It's an independent proposal from my studio, Northframe, made with your own menu, story and photos. Nothing is published.
 
-Would this be a direction you'd consider for Pustka Family Barbeque?
+Would a private preview link be useful?
 
 Best,
 Nathanael Gutperl
@@ -51,7 +50,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Pustka family, one detail from the concept: your story, from the trailer smoker to culinary school to Temple, becomes a short timeline next to your family photo. Would you like to see the live preview? Best, Nathanael
+Hi Pustka family, one more detail: your story, from the trailer smoker to culinary school to Temple, becomes a short timeline next to your family photo. Happy to send the preview link. Best, Nathanael
 ```
 
 ## Code im Repo

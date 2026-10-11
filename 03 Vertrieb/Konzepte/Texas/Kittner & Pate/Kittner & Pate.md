@@ -22,23 +22,23 @@ Elektrisches Blau, Papiergrau, Schibsted Grotesk + JetBrains Mono. Hero mit beid
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas/Kittner & Pate/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas/Kittner & Pate/mobil-2026-10-11.png|Handy]]
 
 ## Mail (vorbereitet, nicht verschickt)
-Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
-Alle 5 Mails mit Versandplan und Checkliste: [[19-Versandfertig-Texas]]
+Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[19-Versandfertig-Texas]]). PDF und Video erst nach einer Antwort nutzen.
 
 **An:** jkittner@grandecom.net
+**CC:** jpate@grandecom.net
 **Betreff:** A website concept for Kittner & Pate Design Associates
-**Anhang:** [[03 Vertrieb/Konzepte/Texas/Kittner & Pate/Northframe-Website-Concept-Kittner-Pate.pdf|Northframe-Website-Concept-Kittner-Pate.pdf]]
+**Anhang:** keiner
 
 ```text
 Hi Jane and Janet,
 
-I put together a website concept for Kittner & Pate Design Associates that puts your free consultation, phone number and both your emails one tap away and shows architecture and interiors side by side on a phone.
+Since 1996 Kittner & Pate has offered architecture and interior design from one firm, led by a registered architect and a registered interior designer.
 
-As visitors scroll, one of your own floor plans turns into the finished building, and your projects sit in an index that opens row by row. The PDF with screenshots is attached, and I'm happy to send the live preview.
+I built a private website concept around that. As visitors scroll, one of your own floor plans turns into the finished building, and your two sets of services sit side by side, easy to read on a phone.
 
-It's an independent proposal from my studio, Northframe, built with your own texts, drawings and project photos.
+It's an independent proposal from my studio, Northframe, made with your own texts and photos. Nothing is published.
 
-Would this be a direction you'd consider for Kittner & Pate?
+Would a private preview link be useful?
 
 Best,
 Nathanael Gutperl
@@ -51,7 +51,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Jane and Janet, one detail from the concept: each of you gets your own column for services, architecture next to interiors, so clients see right away that you design both together. Would you like to see the live preview? Best, Nathanael
+Hi Jane and Janet, one more detail: the free consultation sits right on the first screen with your phone number, so a new client can book it in one tap. Happy to send the preview link if you'd like to see it. Best, Nathanael
 ```
 
 ## Code im Repo

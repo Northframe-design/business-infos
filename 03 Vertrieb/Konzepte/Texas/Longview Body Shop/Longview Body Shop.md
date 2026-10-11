@@ -22,23 +22,22 @@ Schwarz, Weiß, Rot, Space Grotesk + DM Sans. EKG-Linie aus dem CPR-Logo, Leiste
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas/Longview Body Shop/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas/Longview Body Shop/mobil-2026-10-11.png|Handy]]
 
 ## Mail (vorbereitet, nicht verschickt)
-Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
-Alle 5 Mails mit Versandplan und Checkliste: [[19-Versandfertig-Texas]]
+Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[19-Versandfertig-Texas]]). PDF und Video erst nach einer Antwort nutzen.
 
 **An:** kscoggins@longviewbodyshop.com
 **Betreff:** A website concept for Longview Body Shop
-**Anhang:** [[03 Vertrieb/Konzepte/Texas/Longview Body Shop/Northframe-Website-Concept-Longview-Body-Shop.pdf|Northframe-Website-Concept-Longview-Body-Shop.pdf]]
+**Anhang:** keiner
 
 ```text
 Hi Longview Body Shop team,
 
-I put together a website concept for Longview Body Shop that puts a free estimate, your phone number and directions one tap away and walks drivers through what happens after an accident on their phones.
+Your shop takes a lot off a driver's plate after an accident: free estimates, help with the insurance claim and a lifetime warranty on your work.
 
-The design opens with the heartbeat line from your CPR logo drawn across the screen, then shows four clear steps, from the free estimate to your lifetime warranty, and your frame-measuring work. The PDF with screenshots is attached, and I'm happy to send the live preview.
+I built a private website concept that shows exactly those four steps on a phone, from the estimate to the warranty, with your phone number one tap away.
 
-It's an independent proposal from my studio, Northframe, built with your own services, rates and shop photos.
+It's an independent proposal from my studio, Northframe, made with your own services and shop photos. Nothing is published.
 
-Would this be a direction you'd consider for Longview Body Shop?
+Would a private preview link be useful?
 
 Best,
 Nathanael Gutperl
@@ -51,7 +50,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Longview Body Shop team, one detail from the concept: your rate card, from body labor to storage, is laid out as a clean list, so customers know what to expect before they call. Would you like to see the live preview? Best, Nathanael
+Hi Longview Body Shop team, one more detail: your rate card, from body labor to storage, is laid out as a short clear list, so customers know what to expect before they call. Happy to send the preview link. Best, Nathanael
 ```
 
 ## Code im Repo

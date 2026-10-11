@@ -22,23 +22,22 @@ Creme, Blau, Sonnenorange, Bricolage Grotesque + Figtree. Sonne und Wellen aus d
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas/RGF Insurance/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas/RGF Insurance/mobil-2026-10-11.png|Handy]]
 
 ## Mail (vorbereitet, nicht verschickt)
-Das PDF ist fertig, die Mail kann raus. Nur das PDF anhängen. Das Video erst schicken, wenn die Firma "Ja" sagt.
-Alle 5 Mails mit Versandplan und Checkliste: [[19-Versandfertig-Texas]]
+Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[19-Versandfertig-Texas]]). PDF und Video erst nach einer Antwort nutzen.
 
 **An:** rgfinsag@yahoo.com
 **Betreff:** A website concept for RGF Insurance Agency
-**Anhang:** [[03 Vertrieb/Konzepte/Texas/RGF Insurance/Northframe-Website-Concept-RGF-Insurance.pdf|Northframe-Website-Concept-RGF-Insurance.pdf]]
+**Anhang:** keiner
 
 ```text
 Hi RGF Insurance team,
 
-I put together a website concept for RGF Insurance Agency that works in English and Spanish with one tap and lets visitors pick what they want to protect, from car to RV to business, and ask for a quote right there on their phones.
+You say clearly that you accept identification of all kinds, including foreign, expired and suspended licenses, passports and the Matrícula Consular. That deserves a front-row spot.
 
-The design opens with the rising sun and water from your logo, and puts "we accept identification of all kinds" up front, with every type of ID you take. The PDF with screenshots is attached, and I'm happy to send the live preview.
+I built a private website concept that puts that promise on the first screen, in English and Spanish with one tap, and lets visitors pick what they want to insure and ask for a quote from their phone.
 
-It's an independent proposal from my studio, Northframe, built with your own coverage lines, team and community events.
+It's an independent proposal from my studio, Northframe, made with your own coverage lines and photos. Nothing is published.
 
-Would this be a direction you'd consider for RGF Insurance?
+Would a private preview link be useful?
 
 Best,
 Nathanael Gutperl
@@ -51,7 +50,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi RGF Insurance team, one detail from the concept: your community lunches get their own calendar, with date, place and time for October, November and December. Would you like to see the live preview? Best, Nathanael
+Hi RGF Insurance team, one more detail: your community lunches get their own small calendar with date, place and time. Happy to send the preview link. Best, Nathanael
 ```
 
 ## Code im Repo
