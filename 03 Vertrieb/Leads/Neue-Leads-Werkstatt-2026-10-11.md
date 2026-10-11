@@ -68,4 +68,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - Malone Water Well: `leads/Home Services/malone-water-well` (nach Champion Well Drilling: Bohrer-Querschnitt)
 - Mac's Marine: `leads/Custom Services/macs-marine` (nach Aquamare Marine: Wartezeit-Balken, Mitgliedskarte, Preisliste)
 - Harvest Moon Taxidermy: `leads/Custom Services/harvest-moon-taxidermy` (nach Wildlife Coexistence: zunehmender Mond, Museumsschilder)
-Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
+PDFs und Scroll-Videos fertig (11.10.), Projektnotizen unter `Konzepte/Werkstatt & Gedenken/`. Mails vorbereitet in [[18-Versandfertig-Werkstatt]]. Noch nicht verschickt.

@@ -112,3 +112,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[RTM Ranch Stables/RTM Ranch Stables\|RTM Ranch Stables]] | Land & Handwerk, nach Equestrian Canada | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Linda's Jewelry/Linda's Jewelry\|Linda's Jewelry]] | Land & Handwerk, nach ORE Bespoke Diamond Jewelry | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Furniture & Upholstery Repair/Furniture & Upholstery Repair\|Furniture & Upholstery Repair]] | Land & Handwerk, nach Project Sunday | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+
+## Werkstatt & Gedenken (11.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Burleson Monuments/Burleson Monuments\|Burleson Monuments]] | Werkstatt & Gedenken, nach Funeral 128 | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Fred Cheek Monuments/Fred Cheek Monuments\|Fred Cheek Monuments]] | Werkstatt & Gedenken, nach BAS Stone by DD.NYC | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Malone Water Well/Malone Water Well\|Malone Water Well]] | Werkstatt & Gedenken, nach Champion Well Drilling | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Mac's Marine/Mac's Marine\|Mac's Marine]] | Werkstatt & Gedenken, nach Aquamare Marine | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Harvest Moon Taxidermy/Harvest Moon Taxidermy\|Harvest Moon Taxidermy]] | Werkstatt & Gedenken, nach Wildlife Coexistence | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
