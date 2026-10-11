@@ -52,3 +52,6 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 - **Modern oder ohne klaren Mangel:** Flowers by Eva, North Bentwood Vet, Peace of Mind Plumbing, Strickland Plumbing, Texas Tree & Landscape.
 
 **Stand:** Nur Liste. Konzeptseiten, PDFs, Videos und Mails erst nach deiner Freigabe.
+
+![[Neue-Leads-Texas-2-2026-10-11-Handy.jpg]]
+*Erster Bildschirm auf dem Handy (390 px), von links: Bannister, The Flower Box, 4 Ever Green, Farmhouse 1905, Ted Coverage.*
