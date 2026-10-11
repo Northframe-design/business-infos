@@ -55,3 +55,14 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 
 ![[Neue-Leads-Texas-2-2026-10-11-Handy.jpg]]
 *Erster Bildschirm auf dem Handy (390 px), von links: Bannister, The Flower Box, 4 Ever Green, Farmhouse 1905, Ted Coverage.*
+
+## Tausch (11.10.2026)
+**The Flower Box** hat jeden weiteren Abruf mit "403 Request blocked" (CloudFront) abgelehnt; ohne Texte und Fotos kein ordentliches Konzept. Die Sperre wurde nicht umgangen. Stattdessen gebaut: **Weatherl & Associates Architects** (Abilene, rickwaia@weatherl.net, 325-672-1050) aus der Reserve. Mangel: Apostroph-Fehler "Architect's" im ersten Bildschirm, Telefonnummer ohne Formatierung, Cookie-Banner. Aufhänger: seit 1979 (Rick Weatherl, AIA), The Grace Museum, McMurry Old Main, Abilene Heritage Square, Auszeichnungen 2002–2020. The Flower Box bleibt Reserve (später erneut versuchen).
+
+## Konzeptseiten (11.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Nur eigene Fotos der Firmen, kleine mit Real-ESRGAN hochskaliert.
+- Bannister Plumbing & Air: `leads/Home Services/bannister-plumbing` (nach Fixed Today Plumbing: Problem-Auswahl mit echtem Auftragsprotokoll)
+- Farmhouse 1905: `leads/Custom Services/farmhouse-1905` (nach FARMform: Hochzeitswochenende, Himmel von Morgen bis Nacht)
+- 4 Ever Green Tree Care: `leads/Pool & Outdoor/4-ever-green-tree-care` (nach Vertdure: Baum-Check)
+- Ted Coverage: `leads/Custom Services/ted-coverage` (nach Pomegranate Health: Versicherungs-Karte)
+- Weatherl & Associates: `leads/Architecture & Design/weatherl-associates` (nach PRB Architects: Abilene nach Baujahr)
