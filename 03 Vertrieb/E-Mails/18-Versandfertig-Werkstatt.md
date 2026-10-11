@@ -6,13 +6,13 @@ Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Werkstatt 
 
 ## Versandplan
 
-| Firma | Empfänger | Anhang (im Vault-Ordner der Firma) | Erstmail | Follow-up |
-|---|---|---|---|---|
-| Burleson Monuments | info@burlesonmonuments.com | `Northframe-Website-Concept-Burleson-Monuments.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Fred Cheek Monuments | fcheek@fredcheekmonuments.com | `Northframe-Website-Concept-Fred-Cheek-Monuments.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Malone Water Well Service & Drilling | malonewell@sbcglobal.net | `Northframe-Website-Concept-Malone-Water-Well.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Mac's Marine | macsmarinegranbury@gmail.com | `Northframe-Website-Concept-Macs-Marine.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
-| Harvest Moon Taxidermy | hmtaxidermy@yahoo.com | `Northframe-Website-Concept-Harvest-Moon-Taxidermy.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Firma                                | Empfänger                     | Anhang (im Vault-Ordner der Firma)                               | Erstmail                               | Follow-up                             |
+| ------------------------------------ | ----------------------------- | ---------------------------------------------------------------- | -------------------------------------- | ------------------------------------- |
+| Burleson Monuments                   | info@burlesonmonuments.com    | `Northframe-Website-Concept-Burleson-Monuments.pdf` (fertig)     | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Fred Cheek Monuments                 | fcheek@fredcheekmonuments.com | `Northframe-Website-Concept-Fred-Cheek-Monuments.pdf` (fertig)   | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Malone Water Well Service & Drilling | malonewell@sbcglobal.net      | `Northframe-Website-Concept-Malone-Water-Well.pdf` (fertig)      | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Mac's Marine                         | macsmarinegranbury@gmail.com  | `Northframe-Website-Concept-Macs-Marine.pdf` (fertig)            | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
+| Harvest Moon Taxidermy               | hmtaxidermy@yahoo.com         | `Northframe-Website-Concept-Harvest-Moon-Taxidermy.pdf` (fertig) | ab sofort, zu Geschäftszeiten in Texas | 5–7 Werktage später, nur ohne Antwort |
 
 **Video:** das Scroll-Video nicht an die Erstmail hängen, erst in der Antwort auf ein "Ja".
 **Reihenfolge nach Stärke des Mangels:** Burleson Monuments, Fred Cheek Monuments, Malone Water Well, Mac's Marine, Harvest Moon.
