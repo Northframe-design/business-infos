@@ -1,7 +1,7 @@
 # Neue Leads Land & Handwerk (11.10.2026, vierte Runde)
 
 Region: Dallas-Fort Worth und Umland (Aledo, Weatherford, Tolar, Arlington, Fort Worth).
-Neue Nischen: Futtermittelladen, Pferdestall, Juwelier, Bilderrahmen, Möbelrestaurierung.
+Neue Nischen: Futtermittelladen, Pferdestall, Juwelier, Möbelrestaurierung.
 
 **So gesucht:**
 - DuckDuckGo blockte diesmal mit einer Bot-Prüfung (nicht umgangen), deshalb die eingebaute Websuche: 22 Suchanfragen in 22 Branchen und Orten.
@@ -15,8 +15,7 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 | 1 | Futtermittelladen | Triple J Ranch Feed Store | Tolar (bei Granbury) | triplejranchfeeds.weebly.com | (254) 835-5205 / Handy (682) 500-5404 | triplejranchfeeds@gmail.com | Weebly-Seite von 2016: oben steht roher Code ("gtag('config', …)"), der Text über dem Hero-Bild ist unlesbar verrutscht, 427 px breit, Fuß mit Weebly-Werbung "Create your own unique website". |
 | 2 | Pferdestall & Reitschule | RTM Ranch Stables (Royal M Stables) | Aledo | rtmranchstables.com | 817-247-2225 / Unterricht 940-867-4121 | rtmranch@ymail.com | Startseite ist nur ein greller Flyer (Text im Bild), Überschrift "Royal M Stables at" bricht ab, zwei Namen und zwei Telefonnummern, Menüpunkt "Stables" liefert 404. |
 | 3 | Juwelier | Linda's Jewelry | Weatherford | lindasjewelry.com | 817-596-3400 | lindasjewelrygold@gmail.com | Erster Bildschirm ist ein großer leerer grauer Block, 420 px breit, Kontaktseite liefert 404, WordPress 6.2 von 2023. |
-| 4 | Bilderrahmen | Kar-Lynn Arts | Arlington | karlynnarts.com | (817) 265-7392 | karlynnarts@gmail.com | Auf dem Handy 577 px breit (Kontaktblock), man kann seitlich wegwischen; die Hero-Überschrift ist abgeschnitten ("Frame Yo…"). |
-| 5 | Möbelrestaurierung & Polsterei | Furniture & Upholstery Repair & Restoration | Dallas–Fort Worth (Tehama Ridge, Fort Worth) | furnitureandupholsteryrepair101.com | 682-999-9824 | furniturerepair101@icloud.com | Wix-Vorlage mit Rest "© 2035 by INDOOR", Leistungstext in 8 px, Portfolio-Seite ohne Bilder, keine Adresse. |
+| 4 | Möbelrestaurierung & Polsterei | Furniture & Upholstery Repair & Restoration | Dallas–Fort Worth (Tehama Ridge, Fort Worth) | furnitureandupholsteryrepair101.com | 682-999-9824 | furniturerepair101@icloud.com | Wix-Vorlage mit Rest "© 2035 by INDOOR", Leistungstext in 8 px, Portfolio-Seite ohne Bilder, keine Adresse. |
 
 **Reihenfolge nach Stärke des Mangels:** 1 = stärkster.
 
@@ -37,12 +36,6 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
   - 615 Palo Pinto St, Weatherford.
   - Guss und Reparaturen im Haus, Diamanten und Edelsteine, Gold-Schmuck, Sonderanfertigungen.
   - Dazu Western-Glaswaren, Spieluhren, Taschen, Geldbörsen und Donna Salyers Fabulous Furs.
-- **Kar-Lynn Arts:**
-  - Familienbetrieb seit 1978, 1051 W Abram St, Arlington; Di–Fr 10–17:30, Termine möglich.
-  - Ansprechpartnerin Crystal.
-  - Trikots und Sport-Memorabilia, Schattenboxen, Familienfotos, Kunst; Fotos ab $30, große Trikots ab $400.
-  - Postet fast täglich gerahmte Stücke auf Facebook (z. B. Dallas Stars, Batman).
-  - Die Seite wurde offenbar kürzlich neu gebaut: Chance etwas geringer, der Mangel auf dem Handy ist trotzdem deutlich.
 - **Furniture & Upholstery Repair & Restoration:**
   - Über 30 Jahre Erfahrung, Mo–Fr 9–17:30, Dallas–Fort Worth.
   - Holzreparatur und Neulackierung, Antik-Restaurierung, Restaurierung nach Feuer- und Wasserschäden (für Versicherungen), Polsterei, Abbeizen, Lackierung.
@@ -50,6 +43,7 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
   - Kein Inhabername, keine Adresse auf der Seite.
 
 **Reserve:**
+- Kar-Lynn Arts (Arlington, karlynnarts@gmail.com): Seite 577 px breit, Überschrift abgeschnitten. Am 11.10. auf Wunsch herausgenommen (Seite kürzlich neu gebaut).
 - i-Tech Locksmith (Arlington, itechlocksmiths@gmail.com): 421 px breit, leerer erster Bildschirm, allgemeiner SEO-Text.
 - Halo Tattoo Fort Worth (halotattoofortworth@gmail.com): 12-px-Text, Hostinger-KI-Baukasten.
 - Savor Ceramics (studio@savorceramics.com): 10-px-Text, sonst gepflegt.
