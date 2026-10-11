@@ -130,3 +130,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Pustka Family BBQ/Pustka Family BBQ\|Pustka Family BBQ]] | Texas, nach 4 Rivers Smokehouse | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[RGF Insurance/RGF Insurance\|RGF Insurance]] | Texas, nach Pronto Insurance | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Carmela Davis CPA/Carmela Davis CPA\|Carmela Davis CPA]] | Texas, nach Controva | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+
+## Texas 2 (11.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Bannister Plumbing/Bannister Plumbing\|Bannister Plumbing]] | Texas 2, nach Fixed Today Plumbing | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Farmhouse 1905/Farmhouse 1905\|Farmhouse 1905]] | Texas 2, nach FARMform | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[4 Ever Green Tree Care/4 Ever Green Tree Care\|4 Ever Green Tree Care]] | Texas 2, nach Vertdure | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Ted Coverage/Ted Coverage\|Ted Coverage]] | Texas 2, nach Pomegranate Health | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Weatherl Associates/Weatherl Associates\|Weatherl Associates]] | Texas 2, nach PRB Architects | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |

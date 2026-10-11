@@ -66,3 +66,5 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - 4 Ever Green Tree Care: `leads/Pool & Outdoor/4-ever-green-tree-care` (nach Vertdure: Baum-Check)
 - Ted Coverage: `leads/Custom Services/ted-coverage` (nach Pomegranate Health: Versicherungs-Karte)
 - Weatherl & Associates: `leads/Architecture & Design/weatherl-associates` (nach PRB Architects: Abilene nach Baujahr)
+
+PDFs und Scroll-Videos fertig (11.10.), Projektnotizen unter `Konzepte/Texas 2/`. Mails vorbereitet in [[20-Versandfertig-Texas-2]]. Noch nicht verschickt.
