@@ -15,7 +15,7 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 |---|---|---|---|---|---|---|---|
 | 1 | Architektur & Innenarchitektur | Kittner & Pate Design Associates | Waco | kittnerandpatedesignassociates.com | (254) 776-7720 | jkittner@grandecom.net (auch jpate@grandecom.net) | Baukasten-Seite: auf der englischen Seite erscheint ein deutscher Cookie-Banner, der den ersten Bildschirm verdeckt; Vorlagen-Platzhalter "New Paragraph" steht sichtbar auf der Startseite. |
 | 2 | Unfall- & Karosseriewerkstatt | Longview Body Shop (CPR) | Longview | longviewbodyshop.com | (903) 234-9966 | kscoggins@longviewbodyshop.com | Grelles Neongrün mit abgeschnittenem Satz im ersten Bildschirm ("…for almost 30 years"), bunte Knopf-Leiste in Blau/Gelb/Rot, Tippfehler in den Leistungen ("damange", "insuraer", "technicans"). |
-| 3 | BBQ-Restaurant | Pustka Family Barbeque | Temple | pustkafamilybbq.com | [auf der Seite nicht gefunden, to confirm] | pustkafamilybbq@gmail.com | Ein Popup "Coming soon!" verdeckt den ganzen ersten Bildschirm, obwohl die Seite darunter "Now open in Temple" sagt. |
+| 3 | BBQ-Restaurant | Pustka Family Barbeque | Temple | pustkafamilybbq.com | (512) 466-5949 | pustkafamilybbq@gmail.com | Ein Popup "Coming soon!" verdeckt den ganzen ersten Bildschirm, obwohl die Seite darunter "Now open in Temple" sagt. |
 | 4 | Versicherungsagentur | RGF Insurance Agency | Abilene | rgfinsurance.com | (325) 518-2353 | rgfinsag@yahoo.com | Kopfzeile bricht die E-Mail-Adresse mitten im Wort um ("Rgfinsag@Yahoo.Co m"), Stockfoto im Hero, Text 13–14 px, Yahoo-Adresse als Kontakt. |
 | 5 | Steuerberatung (CPA) | Carmela Davis, CPA, PLLC | Longview | carmeladaviscpatx.com | (903) 753-3329 | cpa@cldcpa.com | Altmodische Startseite mit Schreibschrift-Titel, kleines Teamfoto, Leistungen als graue Icon-Liste, Text 14 px; die Seite wirkt kleiner als die Firma (20 Leute, über 40 Jahre). |
 
@@ -35,7 +35,7 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
   - Familienbetrieb, 23330 SE HK Dodgen Loop, Temple 76504; Di–Fr 11–18, Sa 11–16.
   - Fleisch langsam über Post Oak geräuchert, klimatisierter Innenraum, Catering und Events buchbar.
   - Kundenstimmen auf der Seite (Brisket, Kartoffel- und Mais-Salat, Brisket Beans).
-  - Telefonnummer nicht auf der Seite gefunden → [to confirm].
+  - Telefon (512) 466-5949 (Standort-Seite).
 - **RGF Insurance Agency:**
   - Unabhängige Agentur, 1215 E South 11th St B104, Abilene 79602; Fax (325) 399-9946.
   - Auto-, Haus- und Gewerbeversicherung; Fahrzeuge vom Auto bis zum Wohnmobil und Boot.
