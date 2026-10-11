@@ -1,6 +1,20 @@
 # Northframe — Akquise-Mails
 
-Englische Entwürfe für die drei bestehenden Lead-Demos. Noch nicht versendet. Stand: 30.09.2026.
+Englische Entwürfe für drei Lead-Demos. Beispiele vom 30.09.2026; vor Verwendung nach den aktuellen Vorgaben unten überarbeiten.
+
+## Aktuelle Vorgaben für Claude (11.10.2026)
+
+Ausgangslage: Nathanael hat ungefähr 60 Akquise-Mails verschickt und keine Antwort erhalten. Vor weiteren großen Versandrunden zuerst Zustellung und Zielgruppe prüfen; nicht einfach dieselben Texte weiterverwenden. Diese Vorgaben gelten beim Überarbeiten und Erstellen aller Akquise-Mails und haben Vorrang vor älteren Beispielen weiter unten.
+
+- **Zustellung zuerst prüfen:** In Zoho den Zustellstatus und Bounces ansehen; SPF, DKIM und DMARC für die Absenderdomain prüfen und Testmails an eigene Gmail- und Outlook-Postfächer schicken. Öffnungsraten nicht als verlässlichen Zustell- oder Interesseindikator behandeln.
+- **Individuell und konkret schreiben:** Jede Mail enthält genau eine überprüfte, spezifische Beobachtung zur Firma und verbindet sie mit einem klaren Nutzen des jeweiligen Konzepts. Keine austauschbaren Komplimente, unbelegten Behauptungen oder pauschalen Kritik an der bestehenden Website. Firmennamen, Ansprechpartner und Aussagen vor Verwendung verifizieren.
+- **Kurz halten:** Richtwert etwa 70–110 englische Wörter ohne Signatur. Ein Gedanke pro Absatz, einfache Sprache, keine lange Featureliste und keine aufwendige Erklärung des Animationseffekts.
+- **Eine leichte Frage stellen:** Mit einer einzigen, leicht beantwortbaren Frage enden, z. B. ob ein privater Preview-Link interessant wäre. Im Erstkontakt keinen Termin erzwingen.
+- **Erstkontakt niedrigschwellig halten:** Normale Textmail; standardmäßig keinen PDF-Anhang, Tracking-Pixel oder unnötige Links mitschicken. Den privaten Preview-Link zunächst anbieten. Falls ein Anhang ausdrücklich Teil einer Kampagne ist, nur nach Prüfung von Dateigröße, Empfängerzugang und Zustellbarkeit verwenden. Eine lokale `localhost`- oder `127.0.0.1`-Adresse kann der Empfänger nicht öffnen.
+- **Wahrheitsgemäß bleiben:** Konzept als unabhängigen, privaten Vorschlag kennzeichnen, nicht als beauftragte Arbeit. Keine erfundenen Resultate oder falschen Re:/Fwd:-Betreffzeilen; KI-/Konzeptbilder klar einordnen, wenn Verwechslungsgefahr besteht.
+- **Follow-up begrenzen:** Höchstens ein kurzes Follow-up im selben Thread nach 5–7 Werktagen ohne Antwort; darin einen konkreten zusätzlichen Aspekt nennen. Bei Absage oder Abmeldung sofort stoppen. Ohne Antwort danach ebenfalls stoppen.
+- **Klein testen und erfassen:** Vor dem nächsten größeren Versand eine kleine Gruppe individuell recherchierter, passender Firmen anschreiben. Zustellung/Bounce, positive Antworten und Absagen je Firma dokumentieren; erst nach gleicher Beobachtungszeit vergleichen. Keine weitere Massenrunde, wenn Zustellung ungeklärt ist.
+- **Nur Entwürfe bearbeiten:** Claude darf die vorhandenen Mailentwürfe anhand dieser Regeln überarbeiten, aber keine Mails versenden.
 
 ## A — JCI Roofing / Direkt und konkret
 
