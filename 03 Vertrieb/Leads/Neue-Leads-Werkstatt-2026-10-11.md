@@ -60,3 +60,12 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 - **Modern oder ohne klaren Mangel:** Graphic Sports, Standpoint Promotions, Big Red Fern, Glacier, D&D Tint, Elite Window Tint, DFW Bath and Glass, Keller Glass, Legacy Water Well, Kelvin's Water Wells, Brannon Septic, Burleson Septic Cleaning, Glen Rose RV Park, Granbury RV Park.
 - **Keine E-Mail auf der Seite:** David's Chimney (980 px, aber keine Mail), First & Last Stop Cabinets (980 px, keine Mail), Wade's Custom Cabinets (10-px-Text, keine Mail), Moore Monuments, Edgewood, Worthington, Bonds Swimming.
 - **Kette oder Plattform:** Southern Charm Cakery (Square-Shop), Memorial Monuments (Kette).
+
+## Konzeptseiten (11.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Kleine Firmenfotos mit Real-ESRGAN hochskaliert, nur eigene Fotos.
+- Burleson Monuments: `leads/Custom Services/burleson-monuments` (nach Funeral 128: Grabstein-Vorschau mit Live-Inschrift)
+- Fred Cheek Monuments: `leads/Custom Services/fred-cheek-monuments` (nach BAS Stone: gemeißelte Inschrift, drei Generationen)
+- Malone Water Well: `leads/Home Services/malone-water-well` (nach Champion Well Drilling: Bohrer-Querschnitt)
+- Mac's Marine: `leads/Custom Services/macs-marine` (nach Aquamare Marine: Wartezeit-Balken, Mitgliedskarte, Preisliste)
+- Harvest Moon Taxidermy: `leads/Custom Services/harvest-moon-taxidermy` (nach Wildlife Coexistence: zunehmender Mond, Museumsschilder)
+Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
