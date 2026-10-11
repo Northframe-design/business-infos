@@ -36,6 +36,7 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
   - 615 Palo Pinto St, Weatherford.
   - Guss und Reparaturen im Haus, Diamanten und Edelsteine, Gold-Schmuck, Sonderanfertigungen.
   - Dazu Western-Glaswaren, Spieluhren, Taschen, Geldbörsen und Donna Salyers Fabulous Furs.
+  - Achtung: Auf ihrer Seite tauchen eingeschleuste Glücksspiel-Bilder auf ("Prajurittoto"), die WordPress-Seite ist offenbar gehackt. Nicht in der Mail erwähnen, aber im Gespräch ein starkes Argument.
 - **Furniture & Upholstery Repair & Restoration:**
   - Über 30 Jahre Erfahrung, Mo–Fr 9–17:30, Dallas–Fort Worth.
   - Holzreparatur und Neulackierung, Antik-Restaurierung, Restaurierung nach Feuer- und Wasserschäden (für Versicherungen), Polsterei, Abbeizen, Lackierung.
@@ -53,3 +54,11 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 - **Modern oder ohne klaren Mangel:** Bushokai, Golf Center of Arlington, Guardian Vet, Possum Pottery, Garret Pendergrass Pottery, Western Legacy, Chief's Trading Post, Art & Frame Warehouse, Stage Notes Music, Two Brothers Appliance.
 - **Keine E-Mail auf der Seite:** Lily's Florist, Country Florist, Villains Ink, Panther City Tattoo, Marty & Pat's, Ken's Custom Frames, Teskey's, Thompson's Appliance.
 - **Plattform oder Onlineshop:** Shaffer Vet (Tierarzt-Plattform), Sew Much Love (großer Onlineshop), Coles General Store (Hico, zu weit).
+
+## Konzeptseiten (11.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Kleine Firmenfotos mit Real-ESRGAN hochskaliert, nur eigene Fotos (keine Stock- oder CC-Bilder der Originalseiten).
+- Triple J Ranch Feed Store: `leads/Custom Services/triple-j-ranch-feed` (nach Gypsum Hills Ranch: Tier-Wähler, rollender Heuballen, Live-Ladenschild)
+- RTM Ranch Stables: `leads/Custom Services/rtm-ranch-stables` (nach Equestrian Canada: Logo-Pferd als Fotofenster, Stall-Wähler, Pensionsrechner)
+- Linda's Jewelry: `leads/Custom Services/lindas-jewelry` (nach ORE: Juwelierlupe, Diamant-Funkeln)
+- Furniture & Upholstery Repair: `leads/Home Services/furniture-upholstery-repair` (nach Project Sunday: Vorher/Nachher-Schieber)
+Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
