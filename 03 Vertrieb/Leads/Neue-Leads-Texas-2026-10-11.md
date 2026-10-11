@@ -19,6 +19,8 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 | 4 | Versicherungsagentur | RGF Insurance Agency | Abilene | rgfinsurance.com | (325) 518-2353 | rgfinsag@yahoo.com | Kopfzeile bricht die E-Mail-Adresse mitten im Wort um ("Rgfinsag@Yahoo.Co m"), Stockfoto im Hero, Text 13–14 px, Yahoo-Adresse als Kontakt. |
 | 5 | Steuerberatung (CPA) | Carmela Davis, CPA, PLLC | Longview | carmeladaviscpatx.com | (903) 753-3329 | cpa@cldcpa.com | Altmodische Startseite mit Schreibschrift-Titel, kleines Teamfoto, Leistungen als graue Icon-Liste, Text 14 px; die Seite wirkt kleiner als die Firma (20 Leute, über 40 Jahre). |
 
+**Korrektur (11.10.):** Der deutsche Cookie-Banner bei Kittner & Pate erscheint vermutlich nur, weil die Prüfung aus Deutschland lief. Gültiger Mangel bleibt der sichtbare Vorlagen-Platzhalter "New Paragraph".
+
 **Reihenfolge nach Stärke des Mangels:** 1 = stärkster.
 
 **Aufhänger für das Konzept (alles von den eigenen Seiten):**
