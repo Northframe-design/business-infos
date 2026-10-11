@@ -12,13 +12,13 @@ Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Texas 2/`.
 
 ## Versandplan
 
-| Firma | Empfänger | Überprüfte Beobachtung (Quelle) | Wörter | Follow-up |
-|---|---|---|---|---|
-| Bannister Plumbing & Air | info@bannisterplumbing.com | Datiertes Auftragsprotokoll auf der Startseite, Eintrag vom 08.10.2026: defekter Trafo, neues Honeywell-T4-Pro-Thermostat (eigene Seite) | 107 | 5–7 Werktage später, nur ohne Antwort |
-| Farmhouse 1905 | hello@farmhouse1905.com | Eine Hochzeit zur Zeit; das Farmhaus von 1905 bietet Übernachtung für 14 Gäste direkt neben der Scheune (eigene Seite) | 104 | 5–7 Werktage später, nur ohne Antwort |
-| 4 Ever Green Tree Care | 4.evergreen.wftx@gmail.com | FAQ nennt die Zeichen für eine nötige Fällung: Fäulnis/Schäden, Schieflage, tote Äste, Wurzelschäden, Krankheit/Befall (eigene Seite) | 97 | 5–7 Werktage später, nur ohne Antwort |
-| Ted Coverage | info@tedcoverage.com | Kundenstimme Laura C.: Ted blieb während eines 7-monatigen Versicherungs-Hin-und-Hers dran (eigene Seite) | 94 | 5–7 Werktage später, nur ohne Antwort |
-| Weatherl & Associates | rickwaia@weatherl.net | Projekte: Hotel Grace von 1909 (heute The Grace Museum), Schulgebäude von 1923 (heute Abilene Heritage Square) (eigene Seite) | 98 | 5–7 Werktage später, nur ohne Antwort |
+| Firma                    | Empfänger                  | Überprüfte Beobachtung (Quelle)                                                                                                          | Wörter | Follow-up                             |
+| ------------------------ | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------- |
+| Bannister Plumbing & Air | info@bannisterplumbing.com | Datiertes Auftragsprotokoll auf der Startseite, Eintrag vom 08.10.2026: defekter Trafo, neues Honeywell-T4-Pro-Thermostat (eigene Seite) | 107    | 5–7 Werktage später, nur ohne Antwort |
+| Farmhouse 1905           | hello@farmhouse1905.com    | Eine Hochzeit zur Zeit; das Farmhaus von 1905 bietet Übernachtung für 14 Gäste direkt neben der Scheune (eigene Seite)                   | 104    | 5–7 Werktage später, nur ohne Antwort |
+| 4 Ever Green Tree Care   | 4.evergreen.wftx@gmail.com | FAQ nennt die Zeichen für eine nötige Fällung: Fäulnis/Schäden, Schieflage, tote Äste, Wurzelschäden, Krankheit/Befall (eigene Seite)    | 97     | 5–7 Werktage später, nur ohne Antwort |
+| Ted Coverage             | info@tedcoverage.com       | Kundenstimme Laura C.: Ted blieb während eines 7-monatigen Versicherungs-Hin-und-Hers dran (eigene Seite)                                | 94     | 5–7 Werktage später, nur ohne Antwort |
+| Weatherl & Associates    | rickwaia@weatherl.net      | Projekte: Hotel Grace von 1909 (heute The Grace Museum), Schulgebäude von 1923 (heute Abilene Heritage Square) (eigene Seite)            | 98     | 5–7 Werktage später, nur ohne Antwort |
 
 **Nicht erwähnen (kein Mangel in der Mail):** Bannister: abgeschnittene Überschrift. Farmhouse: blasse Schrift. 4 Ever Green: Werbebanner. Ted: "info@mysite.com". Weatherl: Apostroph-Fehler.
 **Anrede:** Brandon & Brandy, Mike (Inhaber), Ted, Rick (Gründer, E-Mail rickwaia@) laut eigener Seite. Farmhouse 1905 nennt keinen Namen, deshalb "team".
