@@ -12,13 +12,13 @@ Konzeptseiten, PDFs, Videos und Projektnotizen: `03 Vertrieb/Konzepte/Texas/`.
 
 ## Versandplan
 
-| Firma | Empfänger | Überprüfte Beobachtung (Quelle) | Wörter | Follow-up |
-|---|---|---|---|---|
-| Kittner & Pate Design Associates | jkittner@grandecom.net (CC jpate@grandecom.net) | Seit 1996, Jane Kittner Registered Architect, Janet Pate Registered Interior Designer (eigene Seite) | 91 | 5–7 Werktage später, nur ohne Antwort |
-| Longview Body Shop | kscoggins@longviewbodyshop.com | Fast 30 Jahre, Hilfe mit der Versicherung, lebenslange Garantie auf die Arbeit (eigene Seite) | 85 | 5–7 Werktage später, nur ohne Antwort |
-| Pustka Family Barbeque | pustkafamilybbq@gmail.com | Post Oak, Teller mit 1–3 Fleischsorten und zwei Beilagen, Preise der Speisekarte (eigene Seite) | 91 | 5–7 Werktage später, nur ohne Antwort |
-| RGF Insurance Agency | rgfinsag@yahoo.com | Akzeptiert ausländische, abgelaufene und entzogene Führerscheine, Pässe und Matrícula Consular (eigene Seite) | 94 | 5–7 Werktage später, nur ohne Antwort |
-| Carmela Davis, CPA, PLLC | cpa@cldcpa.com | CPA seit 1982, eigene Kanzlei seit 1985, Team aus 20 Fachleuten, Se habla español (eigene Seite) | 95 | 5–7 Werktage später, nur ohne Antwort |
+| Firma                            | Empfänger                                       | Überprüfte Beobachtung (Quelle)                                                                               | Wörter | Follow-up                             |
+| -------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------- |
+| Kittner & Pate Design Associates | jkittner@grandecom.net (CC jpate@grandecom.net) | Seit 1996, Jane Kittner Registered Architect, Janet Pate Registered Interior Designer (eigene Seite)          | 91     | 5–7 Werktage später, nur ohne Antwort |
+| Longview Body Shop               | kscoggins@longviewbodyshop.com                  | Fast 30 Jahre, Hilfe mit der Versicherung, lebenslange Garantie auf die Arbeit (eigene Seite)                 | 85     | 5–7 Werktage später, nur ohne Antwort |
+| Pustka Family Barbeque           | pustkafamilybbq@gmail.com                       | Post Oak, Teller mit 1–3 Fleischsorten und zwei Beilagen, Preise der Speisekarte (eigene Seite)               | 91     | 5–7 Werktage später, nur ohne Antwort |
+| RGF Insurance Agency             | rgfinsag@yahoo.com                              | Akzeptiert ausländische, abgelaufene und entzogene Führerscheine, Pässe und Matrícula Consular (eigene Seite) | 94     | 5–7 Werktage später, nur ohne Antwort |
+| Carmela Davis, CPA, PLLC         | cpa@cldcpa.com                                  | CPA seit 1982, eigene Kanzlei seit 1985, Team aus 20 Fachleuten, Se habla español (eigene Seite)              | 95     | 5–7 Werktage später, nur ohne Antwort |
 
 **Nicht erwähnen (kein Mangel in der Mail):** Kittner & Pate: deutscher Cookie-Banner, "New Paragraph". Longview: Tippfehler, SSL. Pustka: "Coming soon"-Popup. RGF: umgebrochene E-Mail-Adresse. Carmela: tote Unterseiten.
 **Pustka:** Auf ihrer Seite steht "Coming soon! 1220 W. Ave M, Temple" (neuer Standort?). Vor dem Versand prüfen, welche Adresse gilt; die Konzeptseite nutzt noch 23330 SE HK Dodgen Loop.
