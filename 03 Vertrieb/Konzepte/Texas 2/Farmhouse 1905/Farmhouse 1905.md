@@ -21,11 +21,15 @@ Leinen-Creme, Scheunen-Schwarz, Butter-Gelb, Abendrot, Cormorant Garamond + Jost
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Texas 2/Farmhouse 1905/scroll-desktop-2026-10-11.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas 2/Farmhouse 1905/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas 2/Farmhouse 1905/mobil-2026-10-11.png|Handy]]
 
+## Vorschau-Link (privat, nicht bei Google)
+https://preview.northframesites.com/farmhouse-1905-kt4haj/
+Funktioniert, sobald `preview.northframesites.com` eingerichtet ist. Nur an diese Firma schicken.
+
 ## Mail (vorbereitet, nicht verschickt)
-Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[20-Versandfertig-Texas-2]]). PDF und Video erst nach einer Antwort nutzen.
+Version 2 vom 11.10.: neuer Betreff, Vorschau-Link direkt in der Mail. Alte Fassung im Zoho-Postausgang löschen. Alle 5 mit Hinweisen: [[20-Versandfertig-Texas-2]]
 
 **An:** hello@farmhouse1905.com
-**Betreff:** A website concept for Farmhouse 1905
+**Betreff:** Farmhouse 1905: a wedding-weekend website
 **Anhang:** keiner
 
 ```text
@@ -35,9 +39,10 @@ You host one wedding at a time, and the 1905 farmhouse sleeps 14 guests right ne
 
 I built a private website concept around that weekend: as couples scroll from the rehearsal dinner on Friday to coffee on the porch on Sunday, the sky behind your photos moves from morning to night. "Check your date" and a text button stay one tap away.
 
-It's an independent proposal from my studio, Northframe, made with your own texts and photos. Nothing is published.
+It's an independent proposal from my studio, Northframe, made with your own texts and photos, private and not listed on Google. You can open it on a phone, too:
+https://preview.northframesites.com/farmhouse-1905-kt4haj/
 
-Would a private preview link be useful?
+Does it feel like a fit for Farmhouse 1905?
 
 Best,
 Nathanael Gutperl
@@ -50,7 +55,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Farmhouse 1905 team, one more detail: your FAQ answers, from the 50% deposit to the rain plan in the barn, sit in one calm list so couples find them without emailing first. Happy to send the preview link. Best, Nathanael
+Hi Farmhouse 1905 team, one more detail: your FAQ answers, from the 50% deposit to the rain plan in the barn, sit in one calm list so couples find them without emailing first. The preview link above shows it. Best, Nathanael
 ```
 
 ## Code im Repo

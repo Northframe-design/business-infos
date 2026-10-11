@@ -21,11 +21,15 @@ Waldgrün, Blattgrün, Instrument Serif + Instrument Sans. Hero über ihrem Foto
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Texas 2/4 Ever Green Tree Care/scroll-desktop-2026-10-11.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas 2/4 Ever Green Tree Care/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas 2/4 Ever Green Tree Care/mobil-2026-10-11.png|Handy]]
 
+## Vorschau-Link (privat, nicht bei Google)
+https://preview.northframesites.com/4-ever-green-tree-care-dj57uj/
+Funktioniert, sobald `preview.northframesites.com` eingerichtet ist. Nur an diese Firma schicken.
+
 ## Mail (vorbereitet, nicht verschickt)
-Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[20-Versandfertig-Texas-2]]). PDF und Video erst nach einer Antwort nutzen.
+Version 2 vom 11.10.: neuer Betreff, Vorschau-Link direkt in der Mail. Alte Fassung im Zoho-Postausgang löschen. Alle 5 mit Hinweisen: [[20-Versandfertig-Texas-2]]
 
 **An:** 4.evergreen.wftx@gmail.com
-**Betreff:** A website concept for 4 Ever Green Tree Care
+**Betreff:** A tree check for 4evergreentx.com
 **Anhang:** keiner
 
 ```text
@@ -35,9 +39,10 @@ Your FAQ lists the signs that a tree may need to come down: visible decay, leani
 
 I built a private website concept that turns your list into a tree check: people tick what they see, the signs light up on a drawn tree, and the call button to you and Leith is right there. Your 24/7 storm service sits on the first screen.
 
-It's an independent proposal from my studio, Northframe, made with your own texts and photos. Nothing is published.
+It's an independent proposal from my studio, Northframe, made with your own texts and photos, private and not listed on Google. You can open it on a phone, too:
+https://preview.northframesites.com/4-ever-green-tree-care-dj57uj/
 
-Would a private preview link be useful?
+Does it feel like a fit for 4 Ever Green?
 
 Best,
 Nathanael Gutperl
@@ -50,7 +55,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Mike, one more detail: your services become six large rows, from trimming to firewood, and each one opens with your own short description. Happy to send the preview link. Best, Nathanael
+Hi Mike, one more detail: your services become six large rows, from trimming to firewood, and each one opens with your own short description. The preview link above shows it. Best, Nathanael
 ```
 
 ## Code im Repo

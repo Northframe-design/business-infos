@@ -16,6 +16,13 @@ Ausgangslage: Nathanael hat ungefähr 60 Akquise-Mails verschickt und keine Antw
 - **Klein testen und erfassen:** Vor dem nächsten größeren Versand eine kleine Gruppe individuell recherchierter, passender Firmen anschreiben. Zustellung/Bounce, positive Antworten und Absagen je Firma dokumentieren; erst nach gleicher Beobachtungszeit vergleichen. Keine weitere Massenrunde, wenn Zustellung ungeklärt ist.
 - **Nur Entwürfe bearbeiten:** Claude darf die vorhandenen Mailentwürfe anhand dieser Regeln überarbeiten, aber keine Mails versenden.
 
+### Änderung 11.10.2026 (Entscheidung Nathanael) — gilt nur für künftige Firmen
+Bereits angeschriebene Firmen bleiben unverändert (ihre geplanten Nachfass-Mails ohne Link bleiben).
+- **Vorschau-Link direkt in die Erstmail** statt ihn nur anzubieten: `https://preview.northframesites.com/<firma>-<code>/` (privat, nicht bei Google, Einrichtung siehe `previews/README.md` im Repo). Ein einziger Link, auf die eigene Domain. Erst senden, wenn der Link selbst geprüft ist.
+- **Persönliche Betreffzeile** statt "A website concept for …": kurz, mit Firmenname oder Domain und dem Kern des Konzepts, z. B. "An idea for bannisterplumbing.com", "Farmhouse 1905: a wedding-weekend website", "A tree check for 4evergreentx.com". Kein Clickbait, kein falsches "Re:".
+- **Schlussfrage** passend zum Link, z. B. "Does it feel like a fit for …?".
+- **Versandzeit:** Dienstag bis Donnerstag, 8–10 Uhr Texas-Zeit, höchstens 5–10 pro Tag.
+
 ## A — JCI Roofing / Direkt und konkret
 
 **Subject:** A website concept for JCI

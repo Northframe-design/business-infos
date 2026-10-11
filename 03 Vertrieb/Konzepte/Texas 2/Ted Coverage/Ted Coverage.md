@@ -21,11 +21,15 @@ Creme, Petrol, Türkis, Koralle, Fraunces + Nunito Sans. Gestapelter Header, Her
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Texas 2/Ted Coverage/scroll-desktop-2026-10-11.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas 2/Ted Coverage/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas 2/Ted Coverage/mobil-2026-10-11.png|Handy]]
 
+## Vorschau-Link (privat, nicht bei Google)
+https://preview.northframesites.com/ted-coverage-2xzgch/
+Funktioniert, sobald `preview.northframesites.com` eingerichtet ist. Nur an diese Firma schicken.
+
 ## Mail (vorbereitet, nicht verschickt)
-Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[20-Versandfertig-Texas-2]]). PDF und Video erst nach einer Antwort nutzen.
+Version 2 vom 11.10.: neuer Betreff, Vorschau-Link direkt in der Mail. Alte Fassung im Zoho-Postausgang löschen. Alle 5 mit Hinweisen: [[20-Versandfertig-Texas-2]]
 
 **An:** info@tedcoverage.com
-**Betreff:** A website concept for Ted Coverage
+**Betreff:** Ted Coverage: a website built around you
 **Anhang:** keiner
 
 ```text
@@ -35,9 +39,10 @@ Your clients mention you by name, like Laura C., who wrote that you stayed with 
 
 I built a private website concept around you as the person people talk to, with a simple coverage map: visitors pick health, life, Medicare or supplemental and see what you offer there, with "Call Ted" one tap away.
 
-It's an independent proposal from my studio, Northframe, made with your own texts and your photo. Nothing is published.
+It's an independent proposal from my studio, Northframe, made with your own texts and your photo, private and not listed on Google. You can open it on a phone, too:
+https://preview.northframesites.com/ted-coverage-2xzgch/
 
-Would a private preview link be useful?
+Does it feel like a fit for Ted Coverage?
 
 Best,
 Nathanael Gutperl
@@ -50,7 +55,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Ted, one more detail: the reasons to use a local agent instead of buying direct, straight from your FAQ, get their own short section. Happy to send the preview link. Best, Nathanael
+Hi Ted, one more detail: the reasons to use a local agent instead of buying direct, straight from your FAQ, get their own short section. The preview link above shows it. Best, Nathanael
 ```
 
 ## Code im Repo

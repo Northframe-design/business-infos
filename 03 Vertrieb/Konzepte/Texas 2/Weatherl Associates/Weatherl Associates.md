@@ -21,11 +21,15 @@ Papier, Tinte, Ziegelrot, Archivo. Hero "Preserving the past. Building the futur
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Texas 2/Weatherl Associates/scroll-desktop-2026-10-11.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas 2/Weatherl Associates/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas 2/Weatherl Associates/mobil-2026-10-11.png|Handy]]
 
+## Vorschau-Link (privat, nicht bei Google)
+https://preview.northframesites.com/weatherl-associates-k180lc/
+Funktioniert, sobald `preview.northframesites.com` eingerichtet ist. Nur an diese Firma schicken.
+
 ## Mail (vorbereitet, nicht verschickt)
-Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[20-Versandfertig-Texas-2]]). PDF und Video erst nach einer Antwort nutzen.
+Version 2 vom 11.10.: neuer Betreff, Vorschau-Link direkt in der Mail. Alte Fassung im Zoho-Postausgang löschen. Alle 5 mit Hinweisen: [[20-Versandfertig-Texas-2]]
 
 **An:** rickwaia@weatherl.net
-**Betreff:** A website concept for Weatherl & Associates
+**Betreff:** Abilene, by year: an idea for weatherl.net
 **Anhang:** keiner
 
 ```text
@@ -35,9 +39,10 @@ Your firm has given a second life to Abilene buildings from the 1909 Hotel Grace
 
 I built a private website concept that tells exactly that story: a timeline of those buildings in the order they were built, next to your projects and your awards from 2002 to 2020. Your email and phone stay one tap away.
 
-It's an independent proposal from my studio, Northframe, made with your own project texts and photos. Nothing is published.
+It's an independent proposal from my studio, Northframe, made with your own project texts and photos, private and not listed on Google. You can open it on a phone, too:
+https://preview.northframesites.com/weatherl-associates-k180lc/
 
-Would a private preview link be useful?
+Does it feel like a fit for your firm?
 
 Best,
 Nathanael Gutperl
@@ -50,7 +55,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Rick, one more detail: your projects can be seen as a gallery or switched to a clean index, in the spirit of your own sketchwork. Happy to send the preview link. Best, Nathanael
+Hi Rick, one more detail: your projects can be seen as a gallery or switched to a clean index, in the spirit of your own sketchwork. The preview link above shows it. Best, Nathanael
 ```
 
 ## Code im Repo

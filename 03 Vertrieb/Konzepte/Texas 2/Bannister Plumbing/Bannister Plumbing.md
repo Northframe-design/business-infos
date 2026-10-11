@@ -21,11 +21,15 @@ Navy, Rot, Stern, Barlow Condensed + Barlow. Hero "Plumbing & air with true Texa
 - **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Texas 2/Bannister Plumbing/scroll-desktop-2026-10-11.mp4]]
 - **Ganze Seite:** [[03 Vertrieb/Konzepte/Texas 2/Bannister Plumbing/desktop-2026-10-11.png|Desktop]] · [[03 Vertrieb/Konzepte/Texas 2/Bannister Plumbing/mobil-2026-10-11.png|Handy]]
 
+## Vorschau-Link (privat, nicht bei Google)
+https://preview.northframesites.com/bannister-plumbing-yeeb7s/
+Funktioniert, sobald `preview.northframesites.com` eingerichtet ist. Nur an diese Firma schicken.
+
 ## Mail (vorbereitet, nicht verschickt)
-Nach den aktuellen Vorgaben in [[01-Mailentwuerfe]]: kein Anhang, Vorschau-Link anbieten. Erst Zustellung prüfen (siehe [[20-Versandfertig-Texas-2]]). PDF und Video erst nach einer Antwort nutzen.
+Version 2 vom 11.10.: neuer Betreff, Vorschau-Link direkt in der Mail. Alte Fassung im Zoho-Postausgang löschen. Alle 5 mit Hinweisen: [[20-Versandfertig-Texas-2]]
 
 **An:** info@bannisterplumbing.com
-**Betreff:** A website concept for Bannister Plumbing & Air
+**Betreff:** An idea for bannisterplumbing.com
 **Anhang:** keiner
 
 ```text
@@ -35,9 +39,10 @@ Your website publishes a dated job log, like the October 8 call where your team 
 
 I built a private website concept that puts it to use: visitors pick their problem, from a leak to an AC that won't cool, and see what you do there next to a matching entry from that log. Your 24/7 number stays one tap away.
 
-It's an independent proposal from my studio, Northframe, made with your own texts and photos. Nothing is published.
+It's an independent proposal from my studio, Northframe, made with your own texts and photos, private and not listed on Google. You can open it on a phone, too:
+https://preview.northframesites.com/bannister-plumbing-yeeb7s/
 
-Would a private preview link be useful?
+Does it feel like a fit for Bannister?
 
 Best,
 Nathanael Gutperl
@@ -50,7 +55,7 @@ Business solicitation. Prefer no further emails? Reply “no thanks” and I won
 **Nachfass-Mail** (einmal, im selben Verlauf, 5–7 Werktage später, nur wenn keine Antwort kam):
 
 ```text
-Hi Brandon and Brandy, one more detail: the Star Club becomes a card with its three benefits, $15 a month, right where people decide. Happy to send the preview link. Best, Nathanael
+Hi Brandon and Brandy, one more detail: the Star Club becomes a card with its three benefits, $15 a month, right where people decide. The preview link above shows it. Best, Nathanael
 ```
 
 ## Code im Repo
