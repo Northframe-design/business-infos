@@ -61,4 +61,4 @@ Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je 
 - RTM Ranch Stables: `leads/Custom Services/rtm-ranch-stables` (nach Equestrian Canada: Logo-Pferd als Fotofenster, Stall-Wähler, Pensionsrechner)
 - Linda's Jewelry: `leads/Custom Services/lindas-jewelry` (nach ORE: Juwelierlupe, Diamant-Funkeln)
 - Furniture & Upholstery Repair: `leads/Home Services/furniture-upholstery-repair` (nach Project Sunday: Vorher/Nachher-Schieber)
-Offen: Mails, PDFs, Scroll-Videos. Noch nicht verschickt.
+PDFs und Scroll-Videos fertig (10.10.), Projektnotizen unter `Konzepte/Land & Handwerk/`. Mails vorbereitet in [[17-Versandfertig-Land]]. Noch nicht verschickt.

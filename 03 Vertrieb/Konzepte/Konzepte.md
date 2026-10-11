@@ -104,3 +104,11 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Doc's Records/Doc's Records\|Doc's Records]] | Umland & Freizeit, nach Light My Fire Records | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
 | [[HopFusion Ale Works/HopFusion Ale Works\|HopFusion Ale Works]] | Umland & Freizeit, nach Angle Brewery | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
 | [[Pitchford Pest Control/Pitchford Pest Control\|Pitchford Pest Control]] | Umland & Freizeit, nach Shiner | Seite, PDF, Video und Mail fertig 10.10., nicht verschickt | eigene Seite |
+
+## Land & Handwerk (11.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Triple J Ranch Feed Store/Triple J Ranch Feed Store\|Triple J Ranch Feed Store]] | Land & Handwerk, nach Gypsum Hills Ranch | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[RTM Ranch Stables/RTM Ranch Stables\|RTM Ranch Stables]] | Land & Handwerk, nach Equestrian Canada | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Linda's Jewelry/Linda's Jewelry\|Linda's Jewelry]] | Land & Handwerk, nach ORE Bespoke Diamond Jewelry | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Furniture & Upholstery Repair/Furniture & Upholstery Repair\|Furniture & Upholstery Repair]] | Land & Handwerk, nach Project Sunday | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
