@@ -57,3 +57,12 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 - **Modern oder ohne klaren Mangel:** R&J Roofing, Pahmiyer Roofing, Bug Blasters, Nextech Pest, Baird Family Dentistry, Magnolia Dentistry, Smart Mouth, Denison Car Pros, Motor Masters, Pro Pool Solutions, Backyard Boyz, Watercolor Pools, Koda Insurance, Rhodes Insurance, Martinez CPA, Mays CPA, Patrick's Dry Cleaners, Sunset Oaks, Di'Amore, Butler Architectural, Cornerstone Plumbing.
 - **Keine E-Mail auf der Seite:** The Cleaning Co (Tyler, keine Handy-Version), SPAW Pet Grooming (keine Handy-Version), 903 HVAC (12-px-Text), Clem Mikeska's BBQ, Infinity Roofing, Ace Heating & Air, Kemper Pest, Integrity Car Care, Jim's Jewelers.
 - **Geschlossen oder unklar:** Murphey the Jeweler (Schließung angekündigt).
+
+## Konzeptseiten (11.10.2026)
+Je eine Awwwards-Vorlage, Vorschau über `leads-static` (Port 5180), Details je Ordner in `konzept.md`. Nur eigene Fotos der Firmen, kleine mit Real-ESRGAN hochskaliert.
+- Kittner & Pate: `leads/Architecture & Design/kittner-pate` (nach 8848 architectural studio: Grundriss wird zum Gebäude, Projektindex)
+- Longview Body Shop: `leads/Auto/longview-body-shop` (nach HB Body: EKG-Linie, Rahmen-Messpunkte, Preisliste)
+- Pustka Family BBQ: `leads/Gastro/pustka-family-bbq` (nach 4 Rivers Smokehouse: Teller-Baukasten mit echten Preisen)
+- RGF Insurance: `leads/Custom Services/rgf-insurance` (nach Pronto Insurance: EN/ES, Sparten-Auswahl, alle Ausweise)
+- Carmela Davis CPA: `leads/Custom Services/carmela-davis-cpa` (nach Controva: Fristen-Countdown, Steuersaison-Zeiten)
+PDFs und Scroll-Videos fertig (11.10.), Projektnotizen unter `Konzepte/Texas/`. Mails vorbereitet in [[19-Versandfertig-Texas]]. Noch nicht verschickt.

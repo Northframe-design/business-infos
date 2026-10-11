@@ -121,3 +121,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Malone Water Well/Malone Water Well\|Malone Water Well]] | Werkstatt & Gedenken, nach Champion Well Drilling | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Mac's Marine/Mac's Marine\|Mac's Marine]] | Werkstatt & Gedenken, nach Aquamare Marine | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Harvest Moon Taxidermy/Harvest Moon Taxidermy\|Harvest Moon Taxidermy]] | Werkstatt & Gedenken, nach Wildlife Coexistence | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+
+## Texas (11.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Kittner & Pate/Kittner & Pate\|Kittner & Pate]] | Texas, nach 8848 architectural studio | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Longview Body Shop/Longview Body Shop\|Longview Body Shop]] | Texas, nach HB Body Automotive Refinish | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Pustka Family BBQ/Pustka Family BBQ\|Pustka Family BBQ]] | Texas, nach 4 Rivers Smokehouse | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[RGF Insurance/RGF Insurance\|RGF Insurance]] | Texas, nach Pronto Insurance | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+| [[Carmela Davis CPA/Carmela Davis CPA\|Carmela Davis CPA]] | Texas, nach Controva | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
