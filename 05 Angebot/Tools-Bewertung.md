@@ -1,6 +1,6 @@
 # Northframe Tools — Test und Bewertung (11.10.2026)
 
-Sechs Tools als Test gebaut (ohne Konkurrenz-Vergleich, Punkt 5). Code: `northframe-site/tools/` im Repo, lokal über den Vorschau-Server `nf-tools` (Port 5196). **Nichts ist online**; der Ordner gehört nicht zum Build der Hauptseite. Daneben baut Codex den Website-Check (`northframe-site/scanner/`).
+Sechs Tools als Test gebaut (ohne Konkurrenz-Vergleich, Punkt 5). **Stand 12.10.: in die Website eingebaut** unter `northframe-site/public/tools/` (wird mit der Seite gebaut, Link "Free tools" in Navigation und Footer). Live, sobald du committest und pushst. Das Monitor-Skript liegt privat in `northframe-site/monitor/`. Daneben baut Codex den Website-Check (`northframe-site/scanner/`).
 
 ## Ergebnis auf einen Blick
 
