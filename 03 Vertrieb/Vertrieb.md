@@ -21,3 +21,7 @@ Wie wir Kunden gewinnen: Leads finden, Konzept bauen, Mail mit PDF schicken, nac
 
 ## Konzepte (ein Ordner pro Firma)
 Übersicht: [[03 Vertrieb/Konzepte/Konzepte\|Konzepte]]. In jedem Firmenordner: Projektnotiz, PDF, Screenshots, Scroll-Video.
+
+## Werbung
+
+- [[03 Vertrieb/Werbung/Ideen|Werbung – Ideensammlung]]: ausgearbeitete Ansätze, Prioritäten, Beispieltexte und erste Tests.

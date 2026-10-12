@@ -30,3 +30,7 @@ Website-Design für lokale Service-Firmen in Texas. Diese Seite ist der Einstieg
 3. **Alte Fassungen als alt kennzeichnen** (oder in den `Archiv`-Ordner des Bereichs), nie stillschweigend überschreiben. Entwurf, versandfertig und versendet sind drei verschiedene Dinge.
 
 Für Agenten (Claude, Codex) gelten zusätzlich die Regeln in [[AGENTS]].
+
+## Werbung
+
+- [[03 Vertrieb/Werbung/Ideen|Werbung – Ideensammlung]]: ausgearbeitete Ansätze, Prioritäten, Beispieltexte und erste Tests.
