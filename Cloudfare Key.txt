@@ -1,0 +1,13 @@
+Tunnel name
+northframe-social
+Tunnel type
+cloudflared
+Tunnel ID
+02b5d337-4397-4480-a067-ed1f261d6e1b
+Status
+
+Inactive
+Uptime
+--
+
+cloudflared.exe service install eyJhIjoiODI0YTA5NmE3YmNmYjNiNGFhOTcxN2ZjZTRiZDBlZTAiLCJ0IjoiMDJiNWQzMzctNDM5Ny00NDgwLWEwNjctZWQxZjI2MWQ2ZTFiIiwicyI6IllXSmhNR0V3T0RrdFl6RXdPUzAwWlRjM0xXSTVPR1l0TXpJNE5tSXdaRGMxWVRrMSJ9
