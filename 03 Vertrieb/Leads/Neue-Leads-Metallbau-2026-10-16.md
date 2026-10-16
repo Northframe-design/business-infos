@@ -20,6 +20,8 @@ Aufgenommen sind nur Firmen mit E-Mail auf der eigenen Website und sichtbarem Ma
 
 **Reihenfolge nach Stärke des Mangels:** 1 = stärkster.
 
+**Stand 16.10.:** Konzeptseiten fertig (Projektnotizen unter `Konzepte/Metallbau/`), private Vorschau-Links angelegt, Mails in [[21-Versandfertig-Metallbau]]. Noch nicht verschickt.
+
 **Aufhänger für das Konzept (alles von den eigenen Seiten):**
 - **Fabcon Industrial:**
   - 3142 Guthrie Road, Beaumont, TX 77705; "the Golden Triangle's trusted partner in custom fabrication and construction".

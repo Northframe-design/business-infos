@@ -139,3 +139,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[4 Ever Green Tree Care/4 Ever Green Tree Care\|4 Ever Green Tree Care]] | Texas 2, nach Vertdure | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Ted Coverage/Ted Coverage\|Ted Coverage]] | Texas 2, nach Pomegranate Health | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
 | [[Weatherl Associates/Weatherl Associates\|Weatherl Associates]] | Texas 2, nach PRB Architects | Seite, PDF, Video und Mail fertig 11.10., nicht verschickt | eigene Seite |
+
+## Metallbau (16.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Fabcon Industrial/Fabcon Industrial\|Fabcon Industrial]] | Metallbau, nach Terminal Industries | Seite und Vorschau-Link fertig 16.10., Mail versandbereit | eigene Seite |
+| [[Midwest Fab & Construction/Midwest Fab & Construction\|Midwest Fab & Construction]] | Metallbau, nach The New Industrials | Seite und Vorschau-Link fertig 16.10., Mail versandbereit | eigene Seite |
+| [[Amarillo Steel/Amarillo Steel\|Amarillo Steel]] | Metallbau, nach "Craft, engineered." | Seite und Vorschau-Link fertig 16.10., Mail versandbereit | eigene Seite |
+| [[Brandon Welding & Fabrication/Brandon Welding & Fabrication\|Brandon Welding & Fabrication]] | Metallbau, nach AKT Oil Services | Seite und Vorschau-Link fertig 16.10., Mail versandbereit | eigene Seite |
+| [[Vaquero Welding & Fabrication/Vaquero Welding & Fabrication\|Vaquero Welding & Fabrication]] | Metallbau, nach Bownds Ranches | Seite und Vorschau-Link fertig 16.10., Mail versandbereit | eigene Seite |
