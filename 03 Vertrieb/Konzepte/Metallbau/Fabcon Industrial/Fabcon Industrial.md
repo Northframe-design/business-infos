@@ -1,6 +1,6 @@
 # Fabcon Industrial
 
-**Status:** Konzeptseite fertig (16.10.2026), privater Vorschau-Link angelegt, Mail versandbereit, nicht verschickt.
+**Status:** Konzeptseite, PDF und Scroll-Video fertig (16.10.2026), privater Vorschau-Link angelegt, Mail versandbereit, nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Metallbau-2026-10-16]] · **Mail:** [[21-Versandfertig-Metallbau]]
 **Vorschau-Link:** https://preview.northframesites.com/fabcon-industrial-rnnink/ (nach dem Push auf `main` live)
 
@@ -16,6 +16,11 @@ Papier, Tinte, Fabcon-Rot, Signalgelb, Satoshi + Geist Mono. Schwebende Navigati
 
 ![[03 Vertrieb/Konzepte/Metallbau/Fabcon Industrial/desktop-hero-2026-10-16.jpg|600]]
 ![[03 Vertrieb/Konzepte/Metallbau/Fabcon Industrial/mobil-hero-2026-10-16.jpg|220]]
+
+## Unterlagen
+- **PDF (7 Seiten):** [[03 Vertrieb/Konzepte/Metallbau/Fabcon Industrial/Northframe-Website-Concept-Fabcon-Industrial.pdf]] (die Erstmail schickt den Vorschau-Link, kein Anhang)
+- **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Metallbau/Fabcon Industrial/scroll-desktop-2026-10-16.mp4]]
+- **Ganze Seite:** [[03 Vertrieb/Konzepte/Metallbau/Fabcon Industrial/desktop-2026-10-16.png|Desktop]] · [[03 Vertrieb/Konzepte/Metallbau/Fabcon Industrial/mobil-2026-10-16.png|Handy]]
 
 ## Code im Repo
 - Seite: `leads/Construction & Repair/fabcon-industrial/index.html` (lokal: http://localhost:5180/Construction%20%26%20Repair/fabcon-industrial/)

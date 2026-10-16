@@ -1,6 +1,6 @@
 # Amarillo Steel
 
-**Status:** Konzeptseite fertig (16.10.2026), privater Vorschau-Link angelegt, Mail versandbereit, nicht verschickt.
+**Status:** Konzeptseite, PDF und Scroll-Video fertig (16.10.2026), privater Vorschau-Link angelegt, Mail versandbereit, nicht verschickt.
 **Lead-Liste:** [[Neue-Leads-Metallbau-2026-10-16]] · **Mail:** [[21-Versandfertig-Metallbau]]
 **Vorschau-Link:** https://preview.northframesites.com/amarillo-steel-riw0cc/ (nach dem Push auf `main` live)
 
@@ -16,6 +16,11 @@ Weiß mit feinem Raster, Navy, Rot, Funken-Orange, Switzer + JetBrains Mono. Pix
 
 ![[03 Vertrieb/Konzepte/Metallbau/Amarillo Steel/desktop-hero-2026-10-16.jpg|600]]
 ![[03 Vertrieb/Konzepte/Metallbau/Amarillo Steel/mobil-hero-2026-10-16.jpg|220]]
+
+## Unterlagen
+- **PDF (4 Seiten):** [[03 Vertrieb/Konzepte/Metallbau/Amarillo Steel/Northframe-Website-Concept-Amarillo-Steel.pdf]] (die Erstmail schickt den Vorschau-Link, kein Anhang)
+- **Scroll-Video (erst nach einem "Ja" schicken):** ![[03 Vertrieb/Konzepte/Metallbau/Amarillo Steel/scroll-desktop-2026-10-16.mp4]]
+- **Ganze Seite:** [[03 Vertrieb/Konzepte/Metallbau/Amarillo Steel/desktop-2026-10-16.png|Desktop]] · [[03 Vertrieb/Konzepte/Metallbau/Amarillo Steel/mobil-2026-10-16.png|Handy]]
 
 ## Code im Repo
 - Seite: `leads/Construction & Repair/amarillo-steel/index.html` (lokal: http://localhost:5180/Construction%20%26%20Repair/amarillo-steel/)
