@@ -1,6 +1,6 @@
 # J.A.C. Welding & Fabrication
 
-**Status:** Erstmail mit PDF verschickt am 10.10.2026. Follow-up ab 17.10., nur ohne Antwort.
+**Status:** Erstmail mit PDF verschickt am 10.10.2026. **Positive Antwort am 16.10.** (wollen den Demo-Link). Angebot als Entwurf: [[Angebot J.A.C. Welding]] (17.10.).
 **Lead-Liste:** [[Neue-Leads-Gewerbe-2026-10-10]]
 
 ## Kontakt (von der Firmenseite)
