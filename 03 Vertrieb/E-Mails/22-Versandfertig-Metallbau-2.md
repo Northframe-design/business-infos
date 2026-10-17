@@ -9,13 +9,13 @@ Zweite Metallbau-Runde (Waco, Andrews, San Antonio, Midland, Odessa). Sie testet
 - Dienstag bis Donnerstag, 8–10 Uhr Texas-Zeit (Central Time), nicht alle 5 in derselben Minute; die Metallbau-Mails vom 16.10. zuerst.
 - Nach dem Versand in `northframe-outreach/messages.jsonl` als `sent` eintragen lassen.
 
-| Firma | Empfänger | Betreff | Quelle der Beobachtung |
-|---|---|---|---|
-| Texas Welding Company | sales@texasweldingcompany.com | An idea for texasweldingcompany.com | Startseite und About-Seite |
-| Ranchand Welding & Fabrication | info@rhwfinc.com | Ranchand: from Andrews to Williston | Startseite (Standorte Andrews TX, Williston ND) und Unterseite Pipeline Construction |
-| Texas Sheet Metal | nkey@texassheetmetal.com | Since 1946: an idea for texassheetmetal.com | Seite "Our Story" (/metal-fabricators) |
-| PFW Services (Permian Fab Works) | Main@permianfabworks.com | An idea for permianfabworks.com | Startseite |
-| Shadow Welding | info@shadowwelding.com | Shadow Welding: an idea for your website | Startseite |
+| Firma                            | Empfänger                     | Betreff                                     | Quelle der Beobachtung                                                               |
+| -------------------------------- | ----------------------------- | ------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Texas Welding Company            | sales@texasweldingcompany.com | An idea for texasweldingcompany.com         | Startseite und About-Seite                                                           |
+| Ranchand Welding & Fabrication   | info@rhwfinc.com              | Ranchand: from Andrews to Williston         | Startseite (Standorte Andrews TX, Williston ND) und Unterseite Pipeline Construction |
+| Texas Sheet Metal                | nkey@texassheetmetal.com      | Since 1946: an idea for texassheetmetal.com | Seite "Our Story" (/metal-fabricators)                                               |
+| PFW Services (Permian Fab Works) | Main@permianfabworks.com      | An idea for permianfabworks.com             | Startseite                                                                           |
+| Shadow Welding                   | info@shadowwelding.com        | Shadow Welding: an idea for your website    | Startseite                                                                           |
 
 ---
 
