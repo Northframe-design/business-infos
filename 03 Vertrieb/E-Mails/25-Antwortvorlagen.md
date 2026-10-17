@@ -35,7 +35,7 @@ Hi [FIRST_NAME],
 
 Good question. It's $999 once plus $99 a month. That covers five pages (Home, Services, About, Projects or Reviews, Contact) built from the concept, click-to-call and a quote form, a basic local SEO setup, one round of changes, hosting, SSL, and small content edits every month.
 
-Online shops, customer logins and ongoing SEO campaigns are not included.
+Delivery takes one to four weeks, and the monthly plan runs for 12 months. Online shops, customer logins and ongoing SEO campaigns are not included.
 
 Would you like me to send a one-page proposal for [COMPANY]?
 ```
@@ -102,4 +102,4 @@ Great, thank you! I've attached a short onboarding form for your address, servic
 
 Once it's back, I'll finish the site and send it to you for your round of changes.
 ```
-→ Anhang: `05 Angebot/Formulare/Northframe-Website-Onboarding.pdf`. Vorher offen: Lieferzeit, Laufzeit des Monatsvertrags, Rechnung (siehe [[Angebot J.A.C. Welding]]).
+→ Anhang: `05 Angebot/Formulare/Northframe-Website-Onboarding.pdf`. Lieferzeit 1–4 Wochen, Monatsvertrag 12 Monate (entschieden 17.10.). Noch offen: Rechnung bzw. Auftragsbestätigung (siehe [[Angebot J.A.C. Welding]]).

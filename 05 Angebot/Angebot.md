@@ -7,6 +7,9 @@ Was wir verkaufen und wie ein Projekt abläuft.
 - Pilotpreis: 999 $ Einrichtung + 99 $ im Monat
 - Später geplant: 1.500–2.500 $ + 149–249 $ im Monat
 - Zahlung: Stripe (Karte) oder Überweisung
+- Lieferzeit: 1 bis 4 Wochen (entschieden 17.10.2026)
+- Monatsvertrag: Laufzeit 12 Monate (entschieden 17.10.2026); Verlängerung und Kündigungsfrist noch offen
+- Angebote je Kunde: `05 Angebot/Angebote/<Firma>/` (z. B. [[Angebot J.A.C. Welding]])
 
 ## Ablauf und Unterlagen
 - [[05 Angebot/Formulare/README\|Formulare]]: Projektanfrage und Kunden-Onboarding (auch als PDF)

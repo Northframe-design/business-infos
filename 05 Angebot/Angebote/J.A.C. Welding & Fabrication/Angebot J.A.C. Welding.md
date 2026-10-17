@@ -1,6 +1,6 @@
 # Angebot: J.A.C. Welding & Fabrication
 
-Stand 17.10.2026. **Entwurf, nicht verschickt.**
+Stand 17.10.2026. **Entwurf, nicht verschickt.** Der Demo-Link ist schon verschickt (laut Nathanael, 17.10.): **Variante B** nehmen, sobald sie antworten, sonst nach 5–7 Werktagen **Variante C**. Variante A entfällt.
 Projekt: [[J.A.C. Welding & Fabrication]] · Positive Antwort am 16.10. ("wollen den Demo-Link")
 Grundlage: das veröffentlichte Angebot auf northframesites.com (#pricing) und [[05 Angebot/Angebot|Angebot]]. Keine anderen Preise oder Zusagen.
 
@@ -10,13 +10,13 @@ Grundlage: das veröffentlichte Angebot auf northframesites.com (#pricing) und [
 - Danach: [[05 Angebot/Onboarding|Onboarding-Mail]] mit `Northframe-Website-Onboarding.pdf`
 
 ## Vor dem Versand klären (du entscheidest)
-1. **Lieferzeit**: im PDF steht `[to confirm]`. Vorschlag: realistische Zahl in Werktagen nach Eingang des Onboarding-Formulars.
-2. **Monatsvertrag**: Mindestlaufzeit und Kündigung der 99 $/Monat sind nirgends festgelegt → `[to confirm]`.
+1. ~~Lieferzeit~~ → **1 bis 4 Wochen** (entschieden 17.10., steht im PDF).
+2. ~~Monatsvertrag~~ → **Laufzeit 12 Monate** (entschieden 17.10., steht im PDF). Was danach passiert (Verlängerung, Kündigungsfrist), ist noch offen.
 3. **Umfang**: Das Konzept ist eine einzelne lange Seite mit Lichtbogen-Effekt; das Paket nennt 5 Seiten. Im PDF steht, dass das Konzeptdesign mit 5 Seiten fertiggestellt wird. Passt das für dich zum Pilotpreis?
 4. **Rechnung/Vertrag**: Für Kunden in den USA gibt es noch keine Vorlage für Auftragsbestätigung oder Rechnung (Stripe-Link oder Überweisung).
 5. Erst pushen, dann den Vorschau-Link selbst am Handy öffnen.
 
-Die beiden `[to confirm]`-Stellen im PDF ändere ich, sobald du die Werte nennst (PDF wird neu erzeugt).
+Das PDF ist mit Lieferzeit und Laufzeit neu erzeugt (17.10.).
 
 ---
 
@@ -50,7 +50,7 @@ Hi [FIRST_NAME],
 
 Glad you like the concept. I've attached a one-page proposal with the price and the next steps.
 
-In short: $999 once plus $99 a month. That covers five pages built from the concept, click-to-call and a quote form, hosting, and small edits every month. Before anything goes live, you check every detail and approve it.
+In short: $999 once plus $99 a month for 12 months. That covers five pages built from the concept, click-to-call and a quote form, hosting, and small edits every month. Delivery takes one to four weeks, and before anything goes live, you check every detail and approve it.
 
 If it works for you, just reply "yes" and I'll send a short form for your address, photos and domain.
 
@@ -64,5 +64,5 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 ## Variante C: Der Link ist raus, aber keine Antwort seit 5–7 Werktagen
 
 ```text
-Hi [FIRST_NAME], a quick follow-up on the concept for J.A.C. Welding. If it helps, the price is $999 once plus $99 a month for five pages, hosting and small edits. Any questions, just reply here. Best, Nathanael
+Hi [FIRST_NAME], a quick follow-up on the concept for J.A.C. Welding. If it helps, the price is $999 once plus $99 a month for 12 months, covering five pages, hosting and small edits, delivered in one to four weeks. Any questions, just reply here. Best, Nathanael
 ```
