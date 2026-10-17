@@ -10,13 +10,13 @@ Zweite Runde mit Anhängen (nach [[23-Versandfertig-Pulverbeschichtung]]); neue 
 - Dienstag bis Donnerstag, 8–10 Uhr Texas-Zeit (Central Time), höchstens 5–10 pro Tag; ältere versandbereite Runden zuerst.
 - Nach dem Versand in `northframe-outreach/messages.jsonl` als `sent` eintragen lassen.
 
-| Firma | Empfänger | Betreff | Anhänge |
-|---|---|---|---|
-| Oscar's Custom Iron Works | office@oscarsiron.com | Oscar's: three generations of iron | 4.1 MB |
-| HCS MetalWorks / Ranchman Gates | hcstex@gmail.com | HCS MetalWorks: type a name, watch it cut | 4.1 MB |
-| ATD Metalworks | atdmetalworks@yahoo.com | ATD Metalworks: build a gate online | 3.7 MB |
-| Exclusive Ironworks | rick@exclusiveironworks.com | Exclusive Ironworks: a staircase that builds itself | 3.6 MB |
-| Smith Forge TX | eugenesmith2233@gmail.com | Smith Forge: "Good forged work should last forever." | 5.6 MB |
+| Firma                           | Empfänger                   | Betreff                                              | Anhänge |
+| ------------------------------- | --------------------------- | ---------------------------------------------------- | ------- |
+| Oscar's Custom Iron Works       | office@oscarsiron.com       | Oscar's: three generations of iron                   | 4.1 MB  |
+| HCS MetalWorks / Ranchman Gates | hcstex@gmail.com            | HCS MetalWorks: type a name, watch it cut            | 4.1 MB  |
+| ATD Metalworks                  | atdmetalworks@yahoo.com     | ATD Metalworks: build a gate online                  | 3.7 MB  |
+| Exclusive Ironworks             | rick@exclusiveironworks.com | Exclusive Ironworks: a staircase that builds itself  | 3.6 MB  |
+| Smith Forge TX                  | eugenesmith2233@gmail.com   | Smith Forge: "Good forged work should last forever." | 5.6 MB  |
 
 ---
 
