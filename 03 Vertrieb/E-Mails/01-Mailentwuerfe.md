@@ -23,6 +23,14 @@ Bereits angeschriebene Firmen bleiben unverändert (ihre geplanten Nachfass-Mail
 - **Schlussfrage** passend zum Link, z. B. "Does it feel like a fit for …?".
 - **Versandzeit:** Dienstag bis Donnerstag, 8–10 Uhr Texas-Zeit, höchstens 5–10 pro Tag.
 
+### Änderung 17.10.2026 (Entscheidung Nathanael) — gilt nur für künftige Firmen
+Bereits geschriebene Entwürfe bleiben unverändert (21-Versandfertig-Metallbau und 22-Versandfertig-Metallbau-2 behalten ihren Vorschau-Link). Für alle neuen Firmen ersetzt diese Regel den Vorschau-Link aus der Änderung vom 11.10.: **Kein Link in der Erstmail**, weil Empfänger Links für Viren halten könnten.
+- **Anhänge statt Link:** das Konzept-PDF und eine kleine Mail-Version des Scroll-Videos (`…-mail.mp4`, 1280 px, ca. 1–3 MB) anhängen; zusammen möglichst unter 6 MB.
+- **Satz in der Mail:** sinngemäß "I've attached it as a short PDF and a 15-second scroll video. It's an independent proposal from my studio, Northframe, and nothing of it is live."
+- **Vorschau-Link:** bleibt bestehen und wird nur auf ausdrückliche Nachfrage geschickt.
+- **Zustellung prüfen:** Anhänge erhöhen das Spam-Risiko. Vor der Runde eine Testmail mit beiden Anhängen an eigene Gmail- und Outlook-Postfächer schicken; Bounces und Spam-Rückmeldungen dieser Kohorte getrennt beobachten.
+- Follow-up wie bisher, mit "The attached PDF shows it." statt Link.
+
 ## A — JCI Roofing / Direkt und konkret
 
 **Subject:** A website concept for JCI
