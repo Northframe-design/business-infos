@@ -148,3 +148,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Amarillo Steel/Amarillo Steel\|Amarillo Steel]] | Metallbau, nach "Craft, engineered." | Seite, Vorschau-Link, PDF, Video fertig 16.10., Mail versandbereit | eigene Seite |
 | [[Brandon Welding & Fabrication/Brandon Welding & Fabrication\|Brandon Welding & Fabrication]] | Metallbau, nach AKT Oil Services | Seite, Vorschau-Link, PDF, Video fertig 16.10., Mail versandbereit | eigene Seite |
 | [[Vaquero Welding & Fabrication/Vaquero Welding & Fabrication\|Vaquero Welding & Fabrication]] | Metallbau, nach Bownds Ranches | Seite, Vorschau-Link, PDF, Video fertig 16.10., Mail versandbereit | eigene Seite |
+
+## Metallbau 2 (17.10.2026, eigene statische Seiten nach Awwwards-Referenzen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Texas Welding Company/Texas Welding Company\|Texas Welding Company]] | Metallbau, nach Summit Steel Works | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Ranchand Welding & Fabrication/Ranchand Welding & Fabrication\|Ranchand Welding & Fabrication]] | Metallbau, nach Kraken Industries | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Texas Sheet Metal/Texas Sheet Metal\|Texas Sheet Metal]] | Metallbau, nach MHB – Dutch Masters of Steel | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[PFW Services/PFW Services\|PFW Services]] | Metallbau, nach Structure Consulting Engineers | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Shadow Welding/Shadow Welding\|Shadow Welding]] | Metallbau, nach Q Industrial | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
