@@ -166,3 +166,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Pulverbeschichtung/Precision PowderCoat/Precision PowderCoat\|Precision PowderCoat]] | Pulverbeschichtung, nach Savic Motorcycles | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
 | [[Pulverbeschichtung/Fluid Industries/Fluid Industries\|Fluid Industries]] | Pulverbeschichtung, Cerakote, Hydro Dipping, nach Studio Ping Pong | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
 | [[Metallbau/CNC Mark/CNC Mark\|CNC Mark]] | CNC-Werkstatt, nach Precision Calibration Systems | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+
+## Kunstschmiede (17.10.2026, eigene statische Seiten nach Awwwards-Referenzen, Mail mit Anhängen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Kunstschmiede/Oscar's Custom Iron Works/Oscar's Custom Iron Works\|Oscar's Custom Iron Works]] | Kunstschmiede, nach Great Dane Furniture | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Kunstschmiede/HCS MetalWorks/HCS MetalWorks\|HCS MetalWorks]] | Kunstschmiede, nach James Bigley Ranches | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Kunstschmiede/ATD Metalworks/ATD Metalworks\|ATD Metalworks]] | Kunstschmiede, nach Bownds Ranches | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Kunstschmiede/Exclusive Ironworks/Exclusive Ironworks\|Exclusive Ironworks]] | Kunstschmiede, nach Gypsum Hills Ranch | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Kunstschmiede/Smith Forge TX/Smith Forge TX\|Smith Forge TX]] | Kunstschmiede, nach La Forge du Malt | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
