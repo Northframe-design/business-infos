@@ -10,13 +10,13 @@ Neue Branche (Pulverbeschichtung, dazu eine CNC-Werkstatt) und erste Runde mit A
 - Dienstag bis Donnerstag, 8–10 Uhr Texas-Zeit (Central Time), nicht alle 5 in derselben Minute; ältere versandbereite Runden zuerst.
 - Nach dem Versand in `northframe-outreach/messages.jsonl` als `sent` eintragen lassen.
 
-| Firma | Empfänger | Betreff | Anhänge |
-|---|---|---|---|
-| Longhorn Powder Coating | longhornpowdercoat@sbcglobal.net | Longhorn Powder Coating: pick a color | 3.4 MB |
-| GTZ Powder Coating & Auto Styling | gtzpowdercoating@gmail.com | GTZ: one shop, since a garage in 2016 | 2.5 MB |
-| Precision PowderCoat | info@ppcspring.com | Show quality: an idea for ppcspring.com | 3.3 MB |
-| Fluid Industries | Wade@fluid-industries.com | Fluid Industries: up to 20 feet, in color | 3.0 MB |
-| CNC Mark, LLC | Mark@cnc-mark.com | CNC Mark: an idea for cnc-mark.com | 2.9 MB |
+| Firma                             | Empfänger                        | Betreff                                   | Anhänge |
+| --------------------------------- | -------------------------------- | ----------------------------------------- | ------- |
+| Longhorn Powder Coating           | longhornpowdercoat@sbcglobal.net | Longhorn Powder Coating: pick a color     | 3.4 MB  |
+| GTZ Powder Coating & Auto Styling | gtzpowdercoating@gmail.com       | GTZ: one shop, since a garage in 2016     | 2.5 MB  |
+| Precision PowderCoat              | info@ppcspring.com               | Show quality: an idea for ppcspring.com   | 3.3 MB  |
+| Fluid Industries                  | Wade@fluid-industries.com        | Fluid Industries: up to 20 feet, in color | 3.0 MB  |
+| CNC Mark, LLC                     | Mark@cnc-mark.com                | CNC Mark: an idea for cnc-mark.com        | 2.9 MB  |
 
 ---
 
@@ -131,7 +131,7 @@ Would something like this fit Fluid Industries?
 Best,
 Nathanael Gutperl
 Northframe | Website design
-hello@northframesites.com · northframesites.com
+hello@northframesites.com · northframesites.comTeam
 Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
