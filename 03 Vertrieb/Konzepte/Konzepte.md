@@ -157,3 +157,12 @@ Im Ordner der Firma die Datei `mockup.html` per Doppelklick öffnen (Obsidian: R
 | [[Texas Sheet Metal/Texas Sheet Metal\|Texas Sheet Metal]] | Metallbau, nach MHB – Dutch Masters of Steel | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
 | [[PFW Services/PFW Services\|PFW Services]] | Metallbau, nach Structure Consulting Engineers | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
 | [[Shadow Welding/Shadow Welding\|Shadow Welding]] | Metallbau, nach Q Industrial | Seite, Vorschau-Link, PDF, Video fertig 17.10., Mail versandbereit | eigene Seite |
+
+## Pulverbeschichtung & CNC (17.10.2026, eigene statische Seiten nach Awwwards-Referenzen, Mail mit Anhängen)
+| Firma | Konzept | Stand | Basis |
+|---|---|---|---|
+| [[Pulverbeschichtung/Longhorn Powder Coating/Longhorn Powder Coating\|Longhorn Powder Coating]] | Pulverbeschichtung, nach Paint It Easy | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Pulverbeschichtung/GTZ Powder Coating/GTZ Powder Coating\|GTZ Powder Coating]] | Pulverbeschichtung & Auto-Styling, nach Zero Motorcycles | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Pulverbeschichtung/Precision PowderCoat/Precision PowderCoat\|Precision PowderCoat]] | Pulverbeschichtung, nach Savic Motorcycles | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Pulverbeschichtung/Fluid Industries/Fluid Industries\|Fluid Industries]] | Pulverbeschichtung, Cerakote, Hydro Dipping, nach Studio Ping Pong | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
+| [[Metallbau/CNC Mark/CNC Mark\|CNC Mark]] | CNC-Werkstatt, nach Precision Calibration Systems | Seite, PDF, Video, Mail-Video fertig 17.10., Mail versandbereit | eigene Seite |
