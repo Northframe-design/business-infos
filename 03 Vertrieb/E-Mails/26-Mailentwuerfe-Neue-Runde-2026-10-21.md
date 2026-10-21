@@ -134,8 +134,8 @@ Nathanael Gutperl
 Northframe | Website design
 hello@northframesites.com
 Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
-Business solicitation. Prefer no further emails? Reply "no thanks" and I won't follow up.
-
+Business solicitation. Pefer no further emails? Reply "no thanks" and I won't follow up.
+r
 **Anhänge:** san-miguel-ironworks-website-concept.pdf, san-miguel-ironworks-scroll-mail.mp4
 
 ---
@@ -170,3 +170,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply "no thanks" and I won't follow up.
 
 **Anhänge:** twisted-metals-website-concept.pdf, twisted-metals-scroll-mail.mp4
+
+## Versandplanung laut Nutzer
+Alle fünf Mails sind laut Nutzer für **Donnerstag, 22.10.2026, 17:00 Uhr** eingeplant. Zeitzone mangels anderer Angabe als Europe/Paris (deutsche Zeit, UTC+02:00) angenommen. Dies ist eine Versandplanung, keine bestätigte Zustellung oder tatsächlicher Versand. Das Antwort-Messfenster beginnt erst mit bestätigtem Versand; keine automatische Nachfass-Mail eingerichtet.
+

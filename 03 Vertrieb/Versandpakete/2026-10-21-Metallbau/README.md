@@ -19,3 +19,7 @@ Den passenden .eml-Entwurf öffnen oder den Markdown-Text kopieren und beide Dat
 S01 v2 ist auf ausdrücklichen Nutzerwunsch manuell zugeteilt; die frühere S02/S03-Kohorte ohne Anhänge ist vor Versand geschlossen. Alte Entwürfe sind superseded, nicht versendet. Eine einzelne Firma zählt nicht zweimal. Maximal ein Follow-up nach 5-7 Werktagen im selben Thread, nur ohne Antwort/Sperre.
 
 Firmenbilder sind ausschließlich Teil der privaten Konzeptpräsentation, nicht für öffentliche Portfolio-Nutzung freigegeben. Videos zeigen tatsächliche Browseransichten mit rekonstruiertem gleichmäßigem Scrolltempo; sie enthalten keinen Ton. PDF- und Videodateien funktionieren offline.
+
+## Versandplanung laut Nutzer
+Alle fünf Mails sind laut Nutzer für **Donnerstag, 22.10.2026, 17:00 Uhr** eingeplant. Zeitzone mangels anderer Angabe als Europe/Paris (deutsche Zeit, UTC+02:00) angenommen. Dies ist eine Versandplanung, keine bestätigte Zustellung oder tatsächlicher Versand. Das Antwort-Messfenster beginnt erst mit bestätigtem Versand; keine automatische Nachfass-Mail eingerichtet.
+
