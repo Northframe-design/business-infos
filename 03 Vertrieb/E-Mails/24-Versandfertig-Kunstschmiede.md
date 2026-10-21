@@ -106,7 +106,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi ATD team, one more detail: two of your client reviews, from Pete Neally and John Trout, sit right before the phone number. The attached PDF shows it. Best, Nathanael
+Hi ATD team, one more detail: two of your client reviews, from Pete Neally and John Trout, sit right before the phone number. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -136,7 +136,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Rick, one more detail: your line "Every job is a self portrait of the person who did it" gets its own place next to the story of the shop. The attached PDF shows it. Best, Nathanael
+Hi Rick, one more detail: your line "Every job is a self portrait of the person who did it" gets its own place next to the story of the shop. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -166,4 +166,4 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Eugene, one more detail: the private classes get their own section with group size, times and a booking button, right before your hours. The attached PDF shows it. Best, Nathanael
+Hi Eugene, one more detail: the private classes get their own section with group size, times and a booking button, right before your hours. Would you like to recieve a preview link? Best, Nathanael
