@@ -46,7 +46,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Longhorn team, one more detail: your color sample wall gets its own section, so people can see the choice before they call. The attached PDF shows it. Best, Nathanael
+Hi Longhorn team, one more detail: your color sample wall gets its own section, so people can see the choice before they call. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 

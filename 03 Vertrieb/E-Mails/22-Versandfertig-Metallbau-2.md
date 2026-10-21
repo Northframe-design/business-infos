@@ -111,7 +111,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Texas Sheet Metal team, one more detail: your product categories sit in one swipeable row, from sinks to hoods, so a restaurant owner finds the right piece on a phone. The preview link above shows it. Best, Nathanael
+Hi Texas Sheet Metal team, one more detail: your product categories sit in one swipeable row, from sinks to hoods, so a restaurant owner finds the right piece on a phone. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -143,7 +143,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi PFW team, one more detail: the shop on West County Road 123, the phone number and a directions link sit together at the end, one tap each on a phone. The preview link above shows it. Best, Nathanael
+Hi PFW team, one more detail: the shop on West County Road 123, the phone number and a directions link sit together at the end, one tap each on a phone. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -175,4 +175,4 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Shadow Welding team, one more detail: the shop on JP Teal Drive and the phone number close the page in large type, one tap away on a phone. The preview link above shows it. Best, Nathanael
+Hi Shadow Welding team, one more detail: the shop on JP Teal Drive and the phone number close the page in large type, one tap away on a phone. Would you like to recieve a preview link? Best, Nathanael
