@@ -1,0 +1,10 @@
+GitHub ssh Schlüssen (Oracle):
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJi5ByfEnPw6YftRLFRDyIHX7HN1YTxX3OfizGGDBbFH northframe-oracle-deploy
+
+
+Promts Design:
+
+Minimalist conceptual photo Collage against a completely flat, saturated vermillion-red Background. Place one rectangular documentary Photograph in the lower-left half of the composition. The Photograph Shows a quiet, neglected urban Corner with a concrete wall, vertical wooden pannels, sparse trees, cracked pavement and muted gray-beige Colors. Inside the Photograph , remove a Woman and a man from the original Scene and replace their bodies with perfectly flat Vermillion-red silhouettes matching teh surrounding Background. Preserve their recognizable full-body outlines Standing close together , but erase all internal Detail so they appear as empty humn-shaped
+
+
