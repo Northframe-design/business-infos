@@ -33,3 +33,7 @@ Die Vorschau funktioniert auf diesem PC, solange der lokale Vorschau-Dienst läu
 Die bestehenden Entwürfe in [[03 Vertrieb/E-Mails/26-Mailentwuerfe-Neue-Runde-2026-10-21]] bleiben unverändert. Das dort angelegte S02/S03-Experiment wurde nicht nachträglich umgeschrieben. Die neue Freigabe des Nutzers betrifft die Website-Konzepte. PDF-/Video-Produktion und neue Versandtexte sind separate nächste Schritte; keine Testdaten oder Versandnachweise wurden erzeugt.
 
 Eine unabhängige Astra-Nachprüfung konnte wegen des Modelllimits nicht abgeschlossen werden. Die abschließende Browserprüfung und Korrekturen hat der Hauptagent durchgeführt. Safari/iOS-Hardware wurde nicht geprüft.
+
+## Schrift-Nachprüfung
+Alle fünf Seiten erneut geprüft: 320, 390, 768 und 1440 Pixel. Zu enge Laufweiten, Zeilenkollisionen und überlaufende Titel korrigiert; Schriftfamilien beibehalten. Twisted nutzt bis 900 Pixel das gestapelte Layout und blendet Texte nicht mehr unsichtbar ein. Desktop-/Handy-Vorschauen aktualisiert. Prüfbericht: leads/_codex/2026-10-21-concepts/TYPE-REVIEW.md.
+
