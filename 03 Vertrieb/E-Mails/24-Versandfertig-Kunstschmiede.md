@@ -46,7 +46,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Oscar and Michael, one more detail: gates, doors, stairs and balconies each sit in an arch-shaped card, so a homeowner sees your range in one screen. The attached PDF shows it. Best, Nathanael
+Hi Oscar and Michael, one more detail: gates, doors, stairs and balconies each sit in an arch-shaped card, so a homeowner sees your range in one screen. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -76,7 +76,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi HCS team, one more detail: the 10 x 10 x 20 ft oven, CNC plasma, mills and lathe sit in one strip right below the first screen. The attached PDF shows it. Best, Nathanael
+Hi HCS team, one more detail: the 10 x 10 x 20 ft oven, CNC plasma, mills and lathe sit in one strip right below the first screen. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 

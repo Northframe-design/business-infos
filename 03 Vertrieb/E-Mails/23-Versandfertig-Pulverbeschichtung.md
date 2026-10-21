@@ -76,7 +76,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi GTZ team, one more detail: veteran owned, operated and employed sits right in the first screen, next to 2016 and your services. The attached PDF shows it. Best, Nathanael
+Hi GTZ team, one more detail: veteran owned, operated and employed sits right in the first screen, next to 2016 and your services. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -106,7 +106,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Precision PowderCoat team, one more detail: automotive, household and industrial work each get their own column with your photos, so a customer finds their kind of part fast. The attached PDF shows it. Best, Nathanael
+Hi Precision PowderCoat team, one more detail: automotive, household and industrial work each get their own column with your photos, so a customer finds their kind of part fast. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -136,7 +136,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Wade, one more detail: the 20 ft promise gets a full-width section over your teal sink photo, so nobody with a big part has to ask first. The attached PDF shows it. Best, Nathanael
+Hi Wade, one more detail: the 20 ft promise gets a full-width section over your teal sink photo, so nobody with a big part has to ask first. Would you like to recieve a preview link?  Best, Nathanael
 
 ---
 
@@ -166,4 +166,4 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Mark, one more detail: Doosan, Kitamura and Hwacheon and your hours day by day sit right below the first screen, so a buyer can check both at a glance. The attached PDF shows it. Best, Nathanael
+Hi Mark, one more detail: Doosan, Kitamura and Hwacheon and your hours day by day sit right below the first screen, so a buyer can check both at a glance. like to recieve a preview link?  Best, Nathanael
