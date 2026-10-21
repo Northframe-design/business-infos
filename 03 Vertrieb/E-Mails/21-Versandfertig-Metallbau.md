@@ -129,7 +129,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Stewart, one more detail: the filter housings you build as a licensed fabricator for Pall Filtration get their own place among the capabilities. The preview link above shows it. Best, Nathanael
+Hi Stewart, one more detail: the filter housings you build as a licensed fabricator for Pall Filtration get their own place among the capabilities. Would you like to recieve a preview link? Best, Nathanael
 
 ## 5. Vaquero Welding & Fabrication
 
@@ -157,4 +157,4 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Vaquero team, one more detail: the family photo in front of the windmill gets its own section, "A west Texas dream", with the shop address and phone. The preview link above shows it. Best, Nathanael
+Hi Vaquero team, one more detail: the family photo in front of the windmill gets its own section, "A west Texas dream", with the shop address and phone. Would you like to recieve a preview link? Best, Nathanael

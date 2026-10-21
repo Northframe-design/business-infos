@@ -47,7 +47,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Texas Welding team, one more detail: AWS D1.1 and D1.8 and your shop hours on Lacy Drive sit right next to the phone number, so a contractor can check both at a glance. The preview link above shows it. Best, Nathanael
+Hi Texas Welding team, one more detail: AWS D1.1 and D1.8 and your shop hours on Lacy Drive sit right next to the phone number, so a contractor can check both at a glance. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
@@ -79,7 +79,7 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 Business solicitation. Prefer no further emails? Reply “no thanks” and I won't follow up.
 
 **Follow-up (einmalig, im selben Thread, 5–7 Werktage später, nur ohne Antwort):**
-Hi Ranchand team, one more detail: your OSHA training and DOT Operator Qualifications get their own section, ahead of the photo grid from the field. The preview link above shows it. Best, Nathanael
+Hi Ranchand team, one more detail: your OSHA training and DOT Operator Qualifications get their own section, ahead of the photo grid from the field. Would you like to recieve a preview link? Best, Nathanael
 
 ---
 
