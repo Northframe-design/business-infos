@@ -37,3 +37,7 @@ Eine unabhängige Astra-Nachprüfung konnte wegen des Modelllimits nicht abgesch
 ## Schrift-Nachprüfung
 Alle fünf Seiten erneut geprüft: 320, 390, 768 und 1440 Pixel. Zu enge Laufweiten, Zeilenkollisionen und überlaufende Titel korrigiert; Schriftfamilien beibehalten. Twisted nutzt bis 900 Pixel das gestapelte Layout und blendet Texte nicht mehr unsichtbar ein. Desktop-/Handy-Vorschauen aktualisiert. Prüfbericht: leads/_codex/2026-10-21-concepts/TYPE-REVIEW.md.
 
+
+## PDF, Scrollvideo und Mailpakete fertig
+Alle fünf Konzepte haben jetzt eine geprüfte vierseitige PDF, ein 15-Sekunden-Scrollvideo und aktualisierte Mailentwürfe mit Anhang-Hinweis. Ablage: [[03 Vertrieb/Versandpakete/2026-10-21-Metallbau/README]]. Die .eml-Dateien enthalten jeweils beide Anhänge. Frühere Hinweise auf noch fehlende PDFs/Videos sind damit überholt. Nichts versendet; eigene Testmail steht noch aus.
+
