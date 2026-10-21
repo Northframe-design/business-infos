@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "bise-welding",
+    "pdf_bytes": 548301,
+    "video_bytes": 1196479,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "burgess-fabrication",
+    "pdf_bytes": 467616,
+    "video_bytes": 1057578,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "fine-line-production",
+    "pdf_bytes": 631264,
+    "video_bytes": 1616460,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "san-miguel-ironworks",
+    "pdf_bytes": 480600,
+    "video_bytes": 960552,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "twisted-metals",
+    "pdf_bytes": 560571,
+    "video_bytes": 1186119,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  }
+]
