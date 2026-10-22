@@ -1,0 +1,66 @@
+[
+  {
+    "slug": "castle-ironwork",
+    "pdf_bytes": 475299,
+    "video_bytes": 1138576,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "lone-star-ironworks",
+    "pdf_bytes": 700155,
+    "video_bytes": 1439135,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "quality-ornamental-iron",
+    "pdf_bytes": 391733,
+    "video_bytes": 822623,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "2911-fabrication",
+    "pdf_bytes": 505841,
+    "video_bytes": 1228738,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "texas-metal-design",
+    "pdf_bytes": 480121,
+    "video_bytes": 1321945,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "neill-mechanical",
+    "pdf_bytes": 605896,
+    "video_bytes": 1392028,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "studio-ironworks",
+    "pdf_bytes": 438792,
+    "video_bytes": 1053536,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "wild-west-welding",
+    "pdf_bytes": 467729,
+    "video_bytes": 1148118,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  }
+]
