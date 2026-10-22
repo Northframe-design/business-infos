@@ -25,3 +25,10 @@ Wie wir Kunden gewinnen: Leads finden, Konzept bauen, Mail mit PDF schicken, nac
 ## Werbung
 
 - [[03 Vertrieb/Werbung/Ideen|Werbung – Ideensammlung]]: ausgearbeitete Ansätze, Prioritäten, Beispieltexte und erste Tests.
+
+## Neue Pakete / 22.10.2026
+
+- [[03 Vertrieb/Versandpakete/2026-10-22-Metallbau-Runde-2/README|Acht Metallbau-Konzepte mit PDFs, Scrollvideos und bestückten Mailentwürfen]]
+- [[03 Vertrieb/E-Mails/27-Mailentwuerfe-Metallbau-Runde-2-2026-10-22|Alle acht englischen Mailentwürfe]]
+
+Entwürfe, nichts versendet oder terminiert. Enthält das Angebot, verpixelte Fotos auf Wunsch hochzuskalieren.
