@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "counterscapes",
+    "pdf_bytes": 876833,
+    "video_bytes": 1380358,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "hazmak-countertops",
+    "pdf_bytes": 694719,
+    "video_bytes": 991145,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "hidalgo-granite",
+    "pdf_bytes": 701912,
+    "video_bytes": 907538,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "mtts-granite-marble",
+    "pdf_bytes": 791592,
+    "video_bytes": 1100391,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "texas-t-granite",
+    "pdf_bytes": 787712,
+    "video_bytes": 1202125,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  }
+]
