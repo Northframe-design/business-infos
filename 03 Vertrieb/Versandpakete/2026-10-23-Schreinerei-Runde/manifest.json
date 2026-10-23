@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "precision-woodworks",
+    "pdf_bytes": 570131,
+    "video_bytes": 807260,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "douglas-custom-cabinets",
+    "pdf_bytes": 766230,
+    "video_bytes": 968397,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "amish-cabinets-of-texas",
+    "pdf_bytes": 689862,
+    "video_bytes": 1129120,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "abilene-millwork",
+    "pdf_bytes": 848767,
+    "video_bytes": 1195596,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "armadillo-custom-cabinets",
+    "pdf_bytes": 674507,
+    "video_bytes": 1095437,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  }
+]
