@@ -7,6 +7,10 @@ status: Ideensammlung – keine Kampagne gestartet
 
 Zentrale Sammlung unserer bisherigen Werbeansätze und ergänzender Vorschläge. Ziel: erste passende Kunden für Website-Design gewinnen, vor allem kleine Service-Unternehmen in den USA. Die Reihenfolge ist eine Arbeitshypothese, kein Nachweis der Nachfrage oder Rentabilität. Neue Ideen hier ergänzen; einzelne Kontakte und Versandstatus bleiben ausschließlich in [[03 Vertrieb/Leads|Leads]].
 
+## Neu: AI-Assistenten bewerben
+
+Eigener Werbeplan für Telefonassistent, Text-Back und DM-Service: [[05 Angebot/AI-Assistenten/Plan AI-Assistenten#6. Bewerbung|Plan, Abschnitt 6]]. Kern: eine eigene Demo-Nummer, die Interessenten selbst anrufen können.
+
 ## Womit wir beginnen
 
 Zuerst das vorhandene Material nutzen: individuelle Konzeptpräsentationen, kurze Videos und konkrete Website-Beobachtungen. Das separate Portfolio ist lokal vorbereitet, noch nicht öffentlich. Keine fremden Firmenbilder oder Logos ohne entsprechende Freigabe öffentlich verwenden. Nicht beauftragte Entwürfe ausdrücklich als „Design concept“ kennzeichnen. Keine erfundenen Ergebnisse, Bewertungen oder Kundenreferenzen.

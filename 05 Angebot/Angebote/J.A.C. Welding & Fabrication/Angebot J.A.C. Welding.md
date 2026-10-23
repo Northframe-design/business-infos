@@ -66,3 +66,26 @@ Adalbert-Stifter-Straße 31b, 65232 Taunusstein, Germany
 ```text
 Hi [FIRST_NAME], a quick follow-up on the concept for J.A.C. Welding. If it helps, the price is $999 once plus $99 a month for 12 months, covering five pages, hosting and small edits, delivered in one to four weeks. Any questions, just reply here. Best, Nathanael
 ```
+
+## Follow-up-Entwurf 23.10.2026 (Variante C, ausformuliert)
+
+**Versendet (laut Nathanael, 23.10.2026).** Das war das eine erlaubte Follow-up. Bei Antwort: Variante B mit Angebots-PDF. Ohne Antwort: keine weitere Mail.
+
+Nur senden, wenn seit dem Demo-Link (ca. 17.10.) keine Antwort kam. Im bestehenden Verlauf antworten, kein neuer Betreff, kein Anhang. Neuer Aspekt: die hochskalierten Galeriefotos im Konzept (laut konzept.md mit Real-ESRGAN x4plus). 73 Wörter ohne Signatur.
+
+Versand: Dienstag 27.10., 8–10 Uhr Texas-Zeit = 14–16 Uhr deutsche Zeit (Deutschland stellt am 25.10. auf Winterzeit um, die USA erst am 1.11.).
+
+```text
+Hi [FIRST_NAME],
+
+A quick follow-up on the J.A.C. Welding concept. One detail you may have missed: the small photos from your gallery are upscaled in it, so the helicopter and aircraft dollies stay sharp even on a large screen.
+
+If you'd like to go ahead, it's $999 once plus $99 a month for 12 months, covering five pages, hosting and small edits, delivered in one to four weeks.
+
+Any questions, just reply here.
+
+Best,
+Nathanael
+```
+
+Vorher offen: Was nach den 12 Monaten passiert (Verlängerung, Kündigungsfrist), und Rechnung/Auftragsbestätigung für US-Kunden. Beides wird gebraucht, sobald sie "yes" sagen.

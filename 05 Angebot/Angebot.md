@@ -11,6 +11,9 @@ Was wir verkaufen und wie ein Projekt abläuft.
 - Monatsvertrag: Laufzeit 12 Monate (entschieden 17.10.2026); Verlängerung und Kündigungsfrist noch offen
 - Angebote je Kunde: `05 Angebot/Angebote/<Firma>/` (z. B. [[Angebot J.A.C. Welding]])
 
+## In Planung
+- [[05 Angebot/AI-Assistenten/Plan AI-Assistenten|AI-Assistenten]]: Text-Back, Telefonassistent und DM-Service als Zusatz zur Website (Plan 23.10.2026, Preise noch nicht entschieden)
+
 ## Ablauf und Unterlagen
 - [[05 Angebot/Formulare/README\|Formulare]]: Projektanfrage und Kunden-Onboarding (auch als PDF)
 - [[05 Angebot/Onboarding\|Onboarding-Mail]] (mit HTML-Version)
