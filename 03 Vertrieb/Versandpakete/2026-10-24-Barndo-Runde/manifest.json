@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "brownwood-barndominiums",
+    "pdf_bytes": 885723,
+    "video_bytes": 1512039,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "building-as-partners",
+    "pdf_bytes": 926004,
+    "video_bytes": 1293828,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "diamond-m-builders",
+    "pdf_bytes": 890203,
+    "video_bytes": 1337778,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  },
+  {
+    "slug": "marble-falls-metal-buildings",
+    "pdf_bytes": 789355,
+    "video_bytes": 1229973,
+    "duration_seconds": 15,
+    "resolution": "1280x854",
+    "video_fps": 30
+  }
+]
