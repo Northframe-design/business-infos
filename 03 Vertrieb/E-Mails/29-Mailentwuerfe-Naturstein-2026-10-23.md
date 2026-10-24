@@ -2,7 +2,7 @@
 
 **Nur Entwürfe. Nichts versendet oder terminiert.** Je Firma: vierseitige PDF, 15-Sekunden-Scrollvideo und .eml mit beiden Anhängen, kein Link (Vorgabe vom 17.10.).
 
-S01 v2 / manual_assignment. Eigene Fünfer-Kohorte exp_stone_tx_attachments_20261023, neues Segment stone_countertops_tx; nicht mit Metallbau-Runden vermischen. Kein A/B-Ergebnis oder Wirkungsnachweis. Der Satz zum Hochskalieren verpixelter Fotos steht nur bei Firmen mit kleinen Originalfotos (Hidalgo Granite, Hazmak). Vor Versand bleibt eine Testmail mit Anhängen an eigene Gmail-/Outlook-Postfächer offen.
+S01 v2 / manual_assignment. Eigene Fünfer-Kohorte exp_stone_tx_assistant_20261024, neues Segment stone_countertops_tx; nicht mit Metallbau-Runden vermischen. Kein A/B-Ergebnis oder Wirkungsnachweis. Der Satz zum Hochskalieren verpixelter Fotos steht nur bei Firmen mit kleinen Originalfotos (Hidalgo Granite, Hazmak). Vor Versand bleibt eine Testmail mit Anhängen an eigene Gmail-/Outlook-Postfächer offen.
 
 ---
 
@@ -12,7 +12,7 @@ S01 v2 / manual_assignment. Eigene Fünfer-Kohorte exp_stone_tx_attachments_2026
 
 **Betreff:** Counterscapes: countertops on a phone's first screen
 
-**Ansatz:** S01 v2 / manuell / 89 Wörter ohne Signatur
+**Ansatz:** S01 v3 (mit Assistenten-Satz) / manuell / 102 Wörter ohne Signatur
 
 **Beobachtung belegt:** https://counterscapes.com/
 
@@ -22,7 +22,9 @@ On a phone, counterscapes.com opens with your logo, your number and four large m
 
 I'm Nathanael from Northframe, a website design studio. I built a private concept for Counterscapes, with your work on the first screen of a phone and a side-by-side guide to the six materials you offer.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Counterscapes?
 
@@ -43,19 +45,21 @@ Business solicitation. Prefer no further emails? Reply "no thanks" and I won't f
 
 **Betreff:** Hazmak: your stone, shown in English and Spanish
 
-**Ansatz:** S01 v2 / manuell / 100 Wörter ohne Signatur
+**Ansatz:** S01 v3 (mit Assistenten-Satz) / manuell / 104 Wörter ohne Signatur
 
 **Beobachtung belegt:** https://hazmakcountertops.com/
 
 Hi Hazmak team,
 
-On the hazmakcountertops.com homepage, a YouTube address is shown as plain text, in the spot where a video was probably meant to play.
+On the hazmakcountertops.com homepage, a YouTube address shows as plain text where a video was probably meant to play.
 
-I'm Nathanael from Northframe, a website design studio. I built a private concept for Hazmak, built around your stone itself, with the five materials, your three-step process and an English and Spanish version.
+I'm Nathanael from Northframe, a website design studio. I built a private concept for Hazmak, built around your stone, with your materials, your process and a Spanish version.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
 
 If any of your images look pixelated, I can upscale them on request.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Hazmak?
 
@@ -76,19 +80,21 @@ Business solicitation. Prefer no further emails? Reply "no thanks" and I won't f
 
 **Betreff:** Hidalgo Granite: laser-measured, and shown that way
 
-**Ansatz:** S01 v2 / manuell / 104 Wörter ohne Signatur
+**Ansatz:** S01 v3 (mit Assistenten-Satz) / manuell / 107 Wörter ohne Signatur
 
 **Beobachtung belegt:** https://hidalgogranite.com/
 
 Hi Hidalgo Granite team,
 
-The footer of hidalgogranite.com lists (572) 888-8888 and abc@gmail.com, which look like leftovers from a template; your real number and email appear elsewhere on the page.
+The footer of hidalgogranite.com lists (572) 888-8888 and abc@gmail.com, which look like template leftovers next to your real contact details.
 
-I'm Nathanael from Northframe, a website design studio. I built a private concept for Hidalgo Granite, that shows your laser measuring and CNC cutting step by step, with one phone number everywhere.
+I'm Nathanael from Northframe, a website design studio. I built a private concept for Hidalgo Granite, showing your laser measuring and CNC cutting, with one phone number everywhere.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
 
 If any of your images look pixelated, I can upscale them on request.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Hidalgo Granite?
 
@@ -109,17 +115,19 @@ Business solicitation. Prefer no further emails? Reply "no thanks" and I won't f
 
 **Betreff:** MTTS: the all-in price, front and center
 
-**Ansatz:** S01 v2 / manuell / 104 Wörter ohne Signatur
+**Ansatz:** S01 v3 (mit Assistenten-Satz) / manuell / 105 Wörter ohne Signatur
 
 **Beobachtung belegt:** https://mttstexas.com/
 
 Hi MTTS team,
 
-Your homepage spells out everything your price includes, from templates and travel fees to sealing and sales tax. Few shops say that so plainly, but on the page it sits in a small paragraph below the photo.
+Your homepage spells out everything your price includes, from templates to sales tax. That's rare, but it sits in a small paragraph below the photo.
 
 I'm Nathanael from Northframe, a website design studio. I built a private concept for MTTS Granite and Marble, that puts your all-in price list at the center, next to your marble work and the showroom details.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit MTTS?
 
@@ -140,7 +148,7 @@ Business solicitation. Prefer no further emails? Reply "no thanks" and I won't f
 
 **Betreff:** Texas T Granite: one number for the Big Country
 
-**Ansatz:** S01 v2 / manuell / 92 Wörter ohne Signatur
+**Ansatz:** S01 v3 (mit Assistenten-Satz) / manuell / 105 Wörter ohne Signatur
 
 **Beobachtung belegt:** https://texastgranite.com/
 
@@ -150,7 +158,9 @@ The header of texastgranite.com lists 325-352-4884, while the line right below i
 
 I'm Nathanael from Northframe, a website design studio. I built a private concept for Texas T Granite, with one clear number for a free estimate and your towns across the Big Country on the first screen.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Texas T Granite?
 

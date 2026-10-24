@@ -4,8 +4,8 @@ Fünf geprüfte Anhang-Paare und lokale Mailentwürfe. **Nichts versendet.** Pro
 
 | Firma | Empfänger | Text | Anhänge gesamt | Entwurf |
 |---|---|---|---|---|
-| Counterscapes | info@counterscapes.com | [counterscapes](counterscapes/Mailentwurf.md) | [2.26 MB](counterscapes/counterscapes-website-concept.pdf) | [.eml](counterscapes/Mailentwurf.eml) |
-| Hazmak | sales@hazmakcountertops.com | [hazmak-countertops](hazmak-countertops/Mailentwurf.md) | [1.69 MB](hazmak-countertops/hazmak-countertops-website-concept.pdf) | [.eml](hazmak-countertops/Mailentwurf.eml) |
+| Counterscapes | info@counterscapes.com | [counterscapes](counterscapes/Mailentwurf.md) | [2.13 MB](counterscapes/counterscapes-website-concept.pdf) | [.eml](counterscapes/Mailentwurf.eml) |
+| Hazmak | sales@hazmakcountertops.com | [hazmak-countertops](hazmak-countertops/Mailentwurf.md) | [1.68 MB](hazmak-countertops/hazmak-countertops-website-concept.pdf) | [.eml](hazmak-countertops/Mailentwurf.eml) |
 | Hidalgo Granite | Hidalgogranite@gmail.com | [hidalgo-granite](hidalgo-granite/Mailentwurf.md) | [1.61 MB](hidalgo-granite/hidalgo-granite-website-concept.pdf) | [.eml](hidalgo-granite/Mailentwurf.eml) |
 | MTTS Granite and Marble | mttswaco@gmail.com | [mtts-granite-marble](mtts-granite-marble/Mailentwurf.md) | [1.89 MB](mtts-granite-marble/mtts-granite-marble-website-concept.pdf) | [.eml](mtts-granite-marble/Mailentwurf.eml) |
 | Texas T Granite | texastgranite@gmail.com | [texas-t-granite](texas-t-granite/Mailentwurf.md) | [1.99 MB](texas-t-granite/texas-t-granite-website-concept.pdf) | [.eml](texas-t-granite/Mailentwurf.eml) |

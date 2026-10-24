@@ -12,7 +12,7 @@ Was wir verkaufen und wie ein Projekt abläuft.
 - Angebote je Kunde: `05 Angebot/Angebote/<Firma>/` (z. B. [[Angebot J.A.C. Welding]])
 
 ## In Planung
-- [[05 Angebot/AI-Assistenten/Plan AI-Assistenten|AI-Assistenten]]: Text-Back, Telefonassistent und DM-Service als Zusatz zur Website (Plan 23.10.2026, Preise noch nicht entschieden)
+- [[05 Angebot/AI-Assistenten/Plan AI-Assistenten|AI-Assistenten]]: Text-Back, Telefonassistent und DM-Service als Zusatz zur Website (Plan 23.10.2026; Pilotpreise seit 24.10.2026: Text-Back 149 $ + 49 $/Monat, Telefonassistent 299 $ + 149 $/Monat, Website-Kunden halbe Einrichtung)
 
 ## Ablauf und Unterlagen
 - [[05 Angebot/Formulare/README\|Formulare]]: Projektanfrage und Kunden-Onboarding (auch als PDF)

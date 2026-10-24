@@ -6,13 +6,15 @@
 
 Hi Hazmak team,
 
-On the hazmakcountertops.com homepage, a YouTube address is shown as plain text, in the spot where a video was probably meant to play.
+On the hazmakcountertops.com homepage, a YouTube address shows as plain text where a video was probably meant to play.
 
-I'm Nathanael from Northframe, a website design studio. I built a private concept for Hazmak, built around your stone itself, with the five materials, your three-step process and an English and Spanish version.
+I'm Nathanael from Northframe, a website design studio. I built a private concept for Hazmak, built around your stone, with your materials, your process and a Spanish version.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
 
 If any of your images look pixelated, I can upscale them on request.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Hazmak?
 

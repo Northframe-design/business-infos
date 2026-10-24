@@ -10,7 +10,9 @@ On a phone, counterscapes.com opens with your logo, your number and four large m
 
 I'm Nathanael from Northframe, a website design studio. I built a private concept for Counterscapes, with your work on the first screen of a phone and a side-by-side guide to the six materials you offer.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Counterscapes?
 

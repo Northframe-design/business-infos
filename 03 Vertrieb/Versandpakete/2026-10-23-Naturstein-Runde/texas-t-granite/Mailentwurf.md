@@ -10,7 +10,9 @@ The header of texastgranite.com lists 325-352-4884, while the line right below i
 
 I'm Nathanael from Northframe, a website design studio. I built a private concept for Texas T Granite, with one clear number for a free estimate and your towns across the Big Country on the first screen.
 
-I've attached a short PDF and a 15-second scroll video. This is an independent proposal; nothing on your current website has been changed.
+Attached are a short PDF and a 15-second scroll video. It's an independent proposal; nothing on your site has changed.
+
+We're also piloting an assistant that texts back missed callers, so no job request gets lost.
 
 Would this direction suit Texas T Granite?
 

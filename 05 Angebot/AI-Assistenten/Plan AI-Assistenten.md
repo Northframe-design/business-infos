@@ -1,13 +1,13 @@
 ---
 tags: [northframe, angebot, ai, telefon, sms, dm, plan]
-stand: 2026-10-23
-status: Plan – nichts gebaut, nichts beworben, Preise sind Vorschläge
+stand: 2026-10-24
+status: Plan – nichts gebaut; Pilotpreise entschieden am 24.10.2026; in Akquise-Mails als Pilot erwähnt (ohne Preis)
 ---
 # Plan: AI-Telefonassistent, Text-Bot und DM-Service
 
 Neues Zusatzangebot zur Website für kleine Service-Firmen in Texas. Kernidee: **Kein Anruf, keine SMS und keine DM bleibt mehr unbeantwortet.** Die Website bringt Anfragen, der Assistent fängt sie auf. Das passt zu unserer Zielgruppe: Handwerker sind tagsüber auf der Baustelle und können nicht ans Telefon.
 
-Alle Preise unten sind **Vorschläge, du entscheidest.** Bis dahin nichts davon in Mails oder auf der Website nennen (siehe AGENT.md: keine erfundenen Preise oder Zusagen).
+**Pilotpreise entschieden am 24.10.2026** (Abschnitt 3, „Entschieden“). Die Erstmail nennt den Assistenten nur als Pilot, ohne Preis; Preise erst, wenn jemand antwortet.
 
 ## 1. Die drei Bausteine
 
@@ -42,7 +42,21 @@ Fertige Selbstbedienungs-Tools kosten laut Vergleichsseiten (Juni–Sept. 2026, 
 - SMS: Registrierung pro Kunde einmalig ca. 4–50 $ plus ca. 2–10 $/Monat pro Kampagne, dazu Bruchteile von Cent pro SMS
 - Meta-DMs: keine Nachrichtengebühren innerhalb des 24-Stunden-Fensters, aber Aufwand für App-Prüfung
 
-**Preisvorschlag (du entscheidest):**
+**Entschieden 24.10.2026: Pilotpreise für die ersten Kunden**
+
+| Paket | Einrichtung | Monatlich | Enthalten |
+|---|---|---|---|
+| **Text-Back** | 149 $ | 49 $ | Eigene Nummer, SMS-Registrierung (A2P 10DLC), Text-Bot fragt Auftrag, Ort und Dringlichkeit ab, Zusammenfassung an den Inhaber |
+| **Telefonassistent** (Text-Back inklusive) | 299 $ | 149 $ | 200 Gesprächsminuten, danach 0,35 $/Min., Englisch und Spanisch, nur eingehende Anrufe |
+
+- **Website-Kunden:** halbe Einrichtung (75 $ bzw. 149 $).
+- **Erste 2–3 Pilotkunden:** erster Monat gratis gegen ehrliches Feedback und Erlaubnis, sie als Referenz zu nennen.
+- **Laufzeit im Pilot:** monatlich kündbar.
+- **DM-Assistent:** vorerst nicht im Angebot, erst nach der Meta-App-Prüfung.
+- **Nach dem Pilot** (wenn die ersten Kunden zufrieden sind): anheben auf 199 $ / 79 $ (Text-Back) und 399 $ / 199 $ (Telefonassistent).
+- **Begründung:** Selbstbedienungs-Tools kosten 29–99 $/Monat, müssen aber vom Inhaber eingerichtet werden; wir liefern fertig eingerichtet, mit den Website-Inhalten und zweisprachig. Unsere Kosten: Telefonassistent ca. 25–65 $/Monat bei 200 Minuten, Text-Back ca. 5–15 $/Monat. Website + Telefonassistent zusammen 248 $/Monat.
+
+**Ursprünglicher Vorschlag vom 23.10.2026 (zur Nachvollziehbarkeit, nicht mehr gültig):**
 
 | Paket | Einrichtung | Monatlich | Enthalten |
 |---|---|---|---|
@@ -104,7 +118,7 @@ Bei 200 Minuten liegen unsere Kosten für B bei etwa 25–65 $ im Monat. Die Mar
 ## 8. Deine Entscheidungen
 
 1. **Reihenfolge:** Vorschlag A → B → C. Einverstanden?
-2. **Preise** aus Abschnitt 3 übernehmen, ändern oder erst nach dem Pilot festlegen?
+2. ~~**Preise** aus Abschnitt 3 übernehmen, ändern oder erst nach dem Pilot festlegen?~~ **Entschieden 24.10.2026:** Pilotpreise Text-Back 149 $ + 49 $/Monat, Telefonassistent 299 $ + 149 $/Monat (Abschnitt 3).
 3. **Plattform:** Retell oder Vapi (beide vergleichbar; ich würde mit Retell beginnen, weil die Kosten leichter planbar sind)?
 4. **Spanisch** von Anfang an anbieten?
 5. **Budget für die Testphase:** Vorschlag bis 50 $/Monat (Nummer, Minuten, SMS-Registrierung).
