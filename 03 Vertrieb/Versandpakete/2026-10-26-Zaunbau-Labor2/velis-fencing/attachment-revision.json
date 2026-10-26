@@ -1,0 +1,17 @@
+{
+  "event": "draft_attachment_revision",
+  "at": "2026-10-26T17:13:57.982782+01:00",
+  "message_id": "msg_velis_fencing_assistant_20261026_001",
+  "experiment_id": "exp_fencing_assistant_line_20261026",
+  "reason": "Velis gallery scrollbar and outline clipping correction; body and experiment unchanged",
+  "previous_attachment_sha256": {
+    "velis-fencing-website-concept.pdf": "841e06c3a4475891dde8d77f895b3ee3a5c66d8b0cad6ecc701c8fd0937ba006",
+    "velis-fencing-scroll-mail.mp4": "df5c7bfa8d66b02fe86ced42af336503986f0823bcb5a53ea004db8183a17f9b"
+  },
+  "attachment_sha256": {
+    "velis-fencing-scroll-mail.mp4": "d4972ef818b588a09169e1d563f61ee86bd045a2888efae4889b2ab7506a3ecb",
+    "velis-fencing-website-concept.pdf": "c4d53b43fabd5fe79ff8d7ef44ce0cccbbe50934eb85f44ff5f2eb6f6ddb27bd"
+  },
+  "draft_file": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\velis-fencing\\velis-fencing-A.eml",
+  "sent_at": null
+}

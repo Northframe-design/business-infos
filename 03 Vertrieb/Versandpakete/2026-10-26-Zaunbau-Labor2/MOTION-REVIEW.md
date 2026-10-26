@@ -24,3 +24,7 @@ SteelWave: kleiner Bildrahmen öffnet zum Vollbild, anschließend große Wortmar
 Je Seite 28 Browseraufnahmen, Desktop 1440×960 und Mobil 390×844, mehrere bewegte und ruhende Scrollzustände. Keine JavaScript-Ladefehler, kaputten Bilder oder seitlichen Überläufe. Vier Menü/Formular/Reduced-Motion-Prüfungen und 16 zusätzliche Fensterprüfungen bestanden; Four-States-WebGL meldet ready. Absichtliche Bildüberlagerungen sind Teil der Komposition. PDFs mit je drei Seiten und tatsächliche 15-Sekunden-Browservideos neu erzeugt und visuell stichprobenartig geprüft. Entwürfe enthalten aktualisierte Anhänge; Versuchstexte und Zuteilung bleiben unverändert.
 
 Keine pixelgenaue 1:1-Kopie: eigene Firmenbilder, Texte, Schriften und Ringgeometrie; zeitliche Kurven und Scrolllängen rekonstruiert, nicht aus dem Vorlagencode übernommen. 3G nutzt ein Firmenfoto statt des bewegten Stoff-Hintergrunds der Vorlage. Ringmaterial und Beleuchtung unterscheiden sich. Reale Smartphones, Safari und schwache Grafikhardware nicht geprüft. Kontaktformulare bereiten nur eine lokale Mail vor, kein Backendversand. Keine Veröffentlichung, kein Commit, kein Versand.
+
+
+## Velis screenshot repair · 26.10.2026
+Gallery scrollbar hidden while retaining keyboard and touch scrolling. Outline line uses intrinsic height, safe line-height and Albert Sans to avoid internal serif outline seams. Ten viewport/motion checks passed; screenshots velis-fixed-*.jpg. Only these two defects were identified for this scoped correction.
