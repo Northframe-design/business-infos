@@ -1,0 +1,54 @@
+[
+  {
+    "slug": "3g-fencing",
+    "company": "3G Fencing, LLC",
+    "recipient": "3gfencingllc@gmail.com",
+    "variant": "B",
+    "subject": "3G Fencing: keep the estimate journey together",
+    "message_id": "msg_3g_fencing_assistant_20261026_001",
+    "eml": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\3g-fencing\\3g-fencing-B.eml",
+    "pdf_bytes": 477771,
+    "video_bytes": 1070671,
+    "body_word_count": 82,
+    "status": "draft"
+  },
+  {
+    "slug": "alberts-fences",
+    "company": "Albert’s Fences & More, LLC",
+    "recipient": "Albertsfencesandmore91@gmail.com",
+    "variant": "B",
+    "subject": "Albert’s: replace the unfinished homepage sections",
+    "message_id": "msg_alberts_fences_assistant_20261026_001",
+    "eml": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\alberts-fences\\alberts-fences-B.eml",
+    "pdf_bytes": 498410,
+    "video_bytes": 787602,
+    "body_word_count": 91,
+    "status": "draft"
+  },
+  {
+    "slug": "four-states-fence",
+    "company": "Four States Fence & Access Control LLC",
+    "recipient": "fourstatesfence@gmail.com",
+    "variant": "A",
+    "subject": "Four States: a clearer route from services to contact",
+    "message_id": "msg_four_states_fence_assistant_20261026_001",
+    "eml": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\four-states-fence\\four-states-fence-A.eml",
+    "pdf_bytes": 349203,
+    "video_bytes": 1195330,
+    "body_word_count": 83,
+    "status": "draft"
+  },
+  {
+    "slug": "velis-fencing",
+    "company": "Velis Fencing",
+    "recipient": "velisfencing@gmail.com",
+    "variant": "A",
+    "subject": "Velis: give vinyl fencing its own story",
+    "message_id": "msg_velis_fencing_assistant_20261026_001",
+    "eml": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\velis-fencing\\velis-fencing-A.eml",
+    "pdf_bytes": 430550,
+    "video_bytes": 1060352,
+    "body_word_count": 74,
+    "status": "draft"
+  }
+]
