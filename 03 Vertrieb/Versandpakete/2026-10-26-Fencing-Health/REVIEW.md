@@ -32,3 +32,10 @@ Weniger als zehn konkrete Probleme gefunden; keine zusätzlichen Defekte erfunde
 - Keine Leistungsmessung auf einem echten schwachen Handy; Chrome-Ansichten sind emuliert.
 - Lokale unabhängige Designvorschläge; Bildrechte und Firmenfreigaben vor einer öffentlichen Nutzung klären.
 - Kein Versand und keine neue Terminierung im Mailkonto oder Collect.
+
+## Nachbesserung nach Nutzer-Screenshots
+- Der Nutzer zeigte JR mit überlappender Wortmarke und Überschrift. Die früheren 390/1440-Ansichten deckten die gezeigte Fenster-/Zoomkombination nicht ausreichend ab. Absolute Textpositionen entfernt und durch natürliche Layoutzeilen mit Abstand ersetzt.
+- Converse: leere Schmuckbänder entfernt. Farbige Abschnitte enthalten jetzt tatsächlich Praxis-/Leistungsinhalte und stapeln sich nur bei ausreichender Desktop-Höhe. Mobil, bei niedrigen Fenstern und reduzierter Bewegung normaler Dokumentfluss.
+- Neu recherchierte lokale Schriften mit OFL: JR Anybody/Public Sans, Converse Literata/Commissioner. Tatsächlich gerenderte Fonts bei Converse über Chrome bestätigt.
+- Zwölf Größen (360×400, 390×844, 700×500, 768×600, 1280×640, 1440×960 pro Seite), jeweils mehrere Intro-Zeitpunkte: keine Titelüberlappung und kein Seitenüberlauf. Scrollansichten von Desktop und Handy visuell geprüft. Weniger als zehn konkrete neue Fehler; keine erfundenen Befunde.
+- Schriftrecherche als verbindliche Vorgabe in AGENTS.md und der zentralen Ressourcendatei ergänzt. PDF, Video und Vergleichsbilder aktualisiert.
