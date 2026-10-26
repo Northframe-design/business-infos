@@ -1,0 +1,70 @@
+[
+  {
+    "event": "draft_attachment_revision",
+    "at": "2026-10-26T15:24:21.093652+01:00",
+    "message_id": "msg_3g_fencing_assistant_20261026_001",
+    "experiment_id": "exp_fencing_assistant_line_20261026",
+    "reason": "Reference-specific motion rebuild, regenerated private concept media; mail body and allocation unchanged",
+    "previous_attachment_sha256": {
+      "3g-fencing-website-concept.pdf": "02673766c1397b43b80514a72aeb84a4287369131ade3251fef67f9b18f40eb5",
+      "3g-fencing-scroll-mail.mp4": "6d9ff296f830d342c0924c434d0e80440e73e149ec14c1185a4116f457005f4c"
+    },
+    "attachment_sha256": {
+      "3g-fencing-website-concept.pdf": "ac7e57124b540d39cfe3ee05ece0adde4ea9c265da11f6a96adee9cdd13d2f17",
+      "3g-fencing-scroll-mail.mp4": "6f93c4346479085df5c6c9b7de18f3dbedfd8df4036d8efa5229eae9b6831b68"
+    },
+    "draft_file": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\3g-fencing\\3g-fencing-B.eml",
+    "sent_at": null
+  },
+  {
+    "event": "draft_attachment_revision",
+    "at": "2026-10-26T15:24:21.093652+01:00",
+    "message_id": "msg_alberts_fences_assistant_20261026_001",
+    "experiment_id": "exp_fencing_assistant_line_20261026",
+    "reason": "Reference-specific motion rebuild, regenerated private concept media; mail body and allocation unchanged",
+    "previous_attachment_sha256": {
+      "alberts-fences-website-concept.pdf": "d1ec73f2caa32cb88854b4a169d2dd0885ae8c8793d056a73c06ed288a57b34d",
+      "alberts-fences-scroll-mail.mp4": "c41894248ac47f2fcf2f8e3229c3530317b80bc05449379bf319001f366c3db3"
+    },
+    "attachment_sha256": {
+      "alberts-fences-website-concept.pdf": "72149309f5e035d4d48d2b440520ec120b1c09a7b0b4651cd173c5016b5d0173",
+      "alberts-fences-scroll-mail.mp4": "ac76fa8820b4405fca0633fa71045fa0ef7f121247dfd2916173c593bcc29743"
+    },
+    "draft_file": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\alberts-fences\\alberts-fences-B.eml",
+    "sent_at": null
+  },
+  {
+    "event": "draft_attachment_revision",
+    "at": "2026-10-26T15:24:21.093652+01:00",
+    "message_id": "msg_four_states_fence_assistant_20261026_001",
+    "experiment_id": "exp_fencing_assistant_line_20261026",
+    "reason": "Reference-specific motion rebuild, regenerated private concept media; mail body and allocation unchanged",
+    "previous_attachment_sha256": {
+      "four-states-fence-website-concept.pdf": "f3a9e2cce18ca700b921f939c96dd8f4499d26d830d9428826aef04f6459c2ad",
+      "four-states-fence-scroll-mail.mp4": "4c5a33ff8ce20062b2b556a5c9b7c6d2b03bc76af3ae4518bcd8670f943a85cb"
+    },
+    "attachment_sha256": {
+      "four-states-fence-website-concept.pdf": "2cd8dfe8ab19d0c3a48d66240801ed8e1457a69ecef52ce3b2642147006580df",
+      "four-states-fence-scroll-mail.mp4": "edf13f697cbdcf30360f1ca5879aafab2f19e0fa4b4cca11130f03bcb68d6763"
+    },
+    "draft_file": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\four-states-fence\\four-states-fence-A.eml",
+    "sent_at": null
+  },
+  {
+    "event": "draft_attachment_revision",
+    "at": "2026-10-26T15:24:21.093652+01:00",
+    "message_id": "msg_velis_fencing_assistant_20261026_001",
+    "experiment_id": "exp_fencing_assistant_line_20261026",
+    "reason": "Reference-specific motion rebuild, regenerated private concept media; mail body and allocation unchanged",
+    "previous_attachment_sha256": {
+      "velis-fencing-website-concept.pdf": "3403206e820264947afb6e292d4401674d2ddaa17f95bda0494269f3dc1e5802",
+      "velis-fencing-scroll-mail.mp4": "c56fd1c6ea89ead9a8612ef85c2c37a8f4b205cc71483cb70f537de2e68d1673"
+    },
+    "attachment_sha256": {
+      "velis-fencing-website-concept.pdf": "841e06c3a4475891dde8d77f895b3ee3a5c66d8b0cad6ecc701c8fd0937ba006",
+      "velis-fencing-scroll-mail.mp4": "df5c7bfa8d66b02fe86ced42af336503986f0823bcb5a53ea004db8183a17f9b"
+    },
+    "draft_file": "C:\\Users\\natgu\\Documents\\business-infos\\03 Vertrieb\\Versandpakete\\2026-10-26-Zaunbau-Labor2\\velis-fencing\\velis-fencing-A.eml",
+    "sent_at": null
+  }
+]
