@@ -1,5 +1,5 @@
 # Versandplan · Drei Zaunbau-Firmen · 26.10.2026
-**Nur Plan: keine Mail versendet oder im Postfach terminiert. Collect-Eintrag noch ausstehend: Browser-Anmeldung und berechtigter Arbeitsbereich erforderlich.**
+**Nur Plan: keine Mail versendet oder im Postfach terminiert. Collect: bestehender Test auf Version 2 ergänzt und drei offene Versandaufgaben gespeichert.**
 Zuteilung nach dem bestehenden Versandtag-Test ab 02.11.2026: zufällige Firmenreihenfolge, zufälliger Starttag und anschließende Verteilung. Keine Behauptung eines besten Wochentags.
 | Firma | Tag | Deutsche Zeit | Texas-Zeit |
 |---|---|---|---|
@@ -11,4 +11,6 @@ Alle drei nutzen S01 v3, dieselben Anhänge und dasselbe Zeitfenster. Vor Versan
 Drei Firmen reichen nicht für einen Vergleich aller fünf Wochentage; weitere Runden müssen die Verteilung ergänzen.
 ## Für Collect vorbereitet
 Bestehende Marketing-Aufgabe zum Test: b339e348-1212-499e-adcb-9a5ee200a327, Projekt PROJECT-000001. Vor Änderung aktuellen Datensatz und Versionsnummer laden, vorhandene Beschreibung erhalten und Plan ergänzen. Zuerst nach vorhandenen Firmen/Aufgaben suchen; nicht doppelt anlegen.
-Die mit dem MCP verbundenen Zugangsdaten stellen aktuell keine work-/acquisition-/learning.outreach-Werkzeuge bereit. Keine Rechte erweitert, kein alternativer Zugang verwendet.
+Über die vom Nutzer angemeldete Collect-Oberfläche gespeichert und sichtbar geprüft. Keine Agentenrechte erweitert.
+
+Nutzerbestätigung: Die drei Versandtage sind vorgemerkt. Kein bestätigter Versand und keine bestätigte Mailbox-Terminierung.
