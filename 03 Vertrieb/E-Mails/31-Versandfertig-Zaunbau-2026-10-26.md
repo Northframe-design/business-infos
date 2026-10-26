@@ -1,6 +1,6 @@
 # Drei Akquise-Pakete · Zaunbau Texas · 26.10.2026
 
-Nur Entwürfe. Nichts versendet oder terminiert. S01 v3 / manual_assignment; eigene Dreier-Kohorte. Noch keine Zuteilung zum Versandtag-Test ab 02.11.2026.
+Nur Entwürfe. Nichts versendet oder terminiert. S01 v3 / manual_assignment; eigene Dreier-Kohorte. Geplante Versandtage sind dem Test ab 02.11.2026 zugeteilt; siehe 32-Versandplan-Zaunbau-2026-10-26.md. Noch nicht im Postfach terminiert. Collect-Übernahme steht aus.
 
 Pro Firma: lokales Website-Konzept, vierseitige PDF, echtes 15-Sekunden-Scrollvideo und .eml mit beiden Anhängen. Vor echtem Versand bleibt die Zustellprobe an eigene Postfächer offen.
 
