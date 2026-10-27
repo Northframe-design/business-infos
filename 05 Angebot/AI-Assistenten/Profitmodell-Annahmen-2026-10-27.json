@@ -1,0 +1,68 @@
+{
+  "as_of": "2026-10-27",
+  "currency": "USD",
+  "status": "planning_estimate_not_actual_profit",
+  "price": 149,
+  "minutes_per_customer": 200,
+  "voice_all_in_per_minute": 0.18,
+  "sms_carrier_registration_reserve": 10,
+  "number": 2,
+  "automation_hosting": 5,
+  "payment_allowance": 5,
+  "operating_per_customer": 58,
+  "monthly_labor_hours_per_customer": 0.5,
+  "labor_cost_per_hour": 30,
+  "shared_monthly_overhead": 100,
+  "rows": [
+    {
+      "customers": 1,
+      "revenue": 149,
+      "operating": 58,
+      "contribution": 91,
+      "labor": 15,
+      "fixed": 100,
+      "result": -24
+    },
+    {
+      "customers": 5,
+      "revenue": 745,
+      "operating": 290,
+      "contribution": 455,
+      "labor": 75,
+      "fixed": 100,
+      "result": 280
+    },
+    {
+      "customers": 10,
+      "revenue": 1490,
+      "operating": 580,
+      "contribution": 910,
+      "labor": 150,
+      "fixed": 100,
+      "result": 660
+    },
+    {
+      "customers": 20,
+      "revenue": 2980,
+      "operating": 1160,
+      "contribution": 1820,
+      "labor": 300,
+      "fixed": 100,
+      "result": 1420
+    }
+  ],
+  "excluded": [
+    "actual staff salaries and employer costs beyond modeled 30 USD/h",
+    "initial product development",
+    "customer acquisition",
+    "taxes",
+    "churn/refunds",
+    "unbudgeted service costs"
+  ],
+  "sources": [
+    "https://www.retellai.com/pricing",
+    "https://www.twilio.com/en-us/sms/pricing/us",
+    "https://www.twilio.com/en-us/pricing/messaging"
+  ],
+  "source_basis": "Retell official page: voice platform 0.07-0.31 USD/min headline, components and phone routing vary. Twilio official messaging pages: SMS per segment plus carrier fees, number and campaign charges. Model deliberately uses estimated combined voice .18/min, SMS reserve10, number2, automation5, payment5; none is a binding tariff. No Dessa availability or pricing assumed."
+}
