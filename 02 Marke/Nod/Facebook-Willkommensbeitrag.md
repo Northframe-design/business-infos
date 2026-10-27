@@ -18,3 +18,8 @@ And that friendly face? Meet Nod, our little studio companion.
 Have a business website in mind? Send us a message — we’d love to hear what you’re working on.
 
 northframesites.com
+
+## Fertiges Beitragsbild
+![[Northframe-Willkommen-Vorhang.png]]
+
+
