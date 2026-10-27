@@ -1,0 +1,10 @@
+# Memphis film – style profile
+
+Mode: reference-driven. Existing English20-second9:16 social advert, no narration/music retained.24fps image-action animation, English headline cards. No TTS or speaker identity is introduced in a visual revision.
+Reference roles: user Memphis collage = palette, geometry, patterns, editorial rhythm only; approved Nolly profile PNG = strict Northframe-owned character identity.
+Medium: flat printed collage, black ink edges, very light screenprint grain. Shapes: triangles, disks, asymmetric outlined rectangles, stripes and black/white squiggles. Palette: coral#FE7141, cream#F3F3F3, mint#A7ECDD, pink#F4ADD0, lavender#BDB1FF, yellow#F9DF42, ink#111214. Dense patterned perimeter; quiet center behind words and website.
+Character invariants: cream arch body/open lower arch, black oval eyes and tiny smile, black short arms/feet, sage circular upper-left detail, two sage accent strokes. Flat ink finish, no costume, no new species or accessories. Both arms and both feet visible in each state. Bottom-anchor poses. No vector substitute.
+Typography: generated raster headline plates, large black/cream geometric display letters, no small decorative copy. Exact website URL. Screen captures remain genuine local Northframe interface; do not redraw company information.
+Originality: do not copy MEMPHIS/MARS/Metamorphosis wordmarks, magazine brands, poster layouts, rocket, pencil, portraits, or signed graphic arrangements. Five differences: original mascot, Northframe naming, website-service story, browser/phone props, original compositions and brand-led coral.
+Motion: motivated6-state gesture sequences, brief stepped action then readable hold, no whole-sprite dissolves, no generic looping bounce. Generated-step for limbs, hard-cut for scene changes. Camera/props may translate as compositing. No unsafe optical-flow across changing arms.
+Review: user supplied style reference and approved character are direction approval; inspect generated proof and a4-second motion proof internally before full render. Preserve v1/v2.

@@ -1,0 +1,108 @@
+{
+  "version": "memphis-v3",
+  "duration": 20,
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 24,
+    "motion_fps": 8,
+    "background": "#F4ADD0"
+  },
+  "renderer": "Remotion raster compositing in ../src/NorthframeMemphis.tsx",
+  "style": {
+    "mode": "reference-driven",
+    "profile": "style-profile.md"
+  },
+  "voice": {
+    "engine": null,
+    "rationale": "Preserve the existing silent visual-ad format. No speaker or narration requested in this style revision."
+  },
+  "scenes": [
+    {
+      "start": 0,
+      "end": 4.5,
+      "action": "reveal",
+      "states": [
+        0,
+        10,
+        20,
+        30,
+        42,
+        54
+      ],
+      "transition": "generated-step",
+      "type_plate": 0
+    },
+    {
+      "start": 4.5,
+      "end": 10,
+      "action": "website",
+      "states": [
+        0,
+        10,
+        20,
+        30,
+        42,
+        54
+      ],
+      "action_delay_frames": 12,
+      "transition": "generated-step",
+      "type_plate": 1
+    },
+    {
+      "start": 10,
+      "end": 15,
+      "action": "mobile",
+      "states": [
+        0,
+        14,
+        25,
+        38,
+        62,
+        65
+      ],
+      "transition": "generated-step",
+      "blink_closed_frames": [
+        62,
+        64
+      ],
+      "reopened_frame": 65,
+      "type_plate": 2
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "action": "invite",
+      "states": [
+        0,
+        10,
+        20,
+        30,
+        42,
+        54
+      ],
+      "transition": "generated-step",
+      "type_plate": 3
+    }
+  ],
+  "frame_safety": {
+    "subject_safe_rect": [
+      90,
+      200,
+      990,
+      1635
+    ],
+    "pattern_edge_crop": "intentional decorative perimeter",
+    "atlas_min_margin": 0.08,
+    "final_url_glyph_height_px": 54,
+    "glyph_measurement": "Measured on final encoded18s frame: dark connected components in rendered URL, median visible glyph height54px."
+  },
+  "text": [
+    "GOOD WEBSITES.",
+    "BUILT FOR YOUR BUSINESS.",
+    "SMALL SCREEN. BIG IDEAS.",
+    "LET\u00e2\u20ac\u2122S BUILD. northframesites.com"
+  ],
+  "art_policy": "Generated raster character poses, headline plates, background and props; genuine website screenshots/recording. Code only composites, positions, clips frames, times and encodes. No vector mascot substitute, no whole-character crossfade.",
+  "output": "../out/northframe-memphis-v3/Northframe-Memphis-Nolly.mp4"
+}
