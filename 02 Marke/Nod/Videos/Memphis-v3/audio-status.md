@@ -1,9 +1,9 @@
-# Audio addition – pending voice
+# Audio complete — 27.10.2026
 
-User requested realistic conversational voice-over plus music. User chose Romy through the voice picker: voice_id2e5f5f01-6d50-5335-a9ae-e8f81cd42342,voice_type preset. Script: Voiceover-English.txt. Intended engine seed_audio,mp3,48000Hz,speech_rate0.
+User approved Kokoro af_heart after the sample, explicitly replacing unavailable Romy. Exact script: Voiceover-English.txt. kokoro-js 1.2.1, Kokoro-82M-v1.0-ONNX q8 CPU, speed 0.95; scene 1 additionally atempo=1.08. Speech starts at 0.35, 4.65, 10.40, 15.35 seconds and ends by 19.35 seconds.
 
-Submission was rejected before generation: out of credits. Verified balance0.13credits on starter plan, no available audio allowance. No voice job ID returned; no retry, different voice or purchase initiated. Do not claim voice-over exists. Resume the same selected voice when generation is available; do not invent another ID or silently replace it.
+Music: user-supplied mixkit-vastness-184.mp3. First 20 seconds with 1-second fade-in/out and gain lowered during narration. Mixkit music free license permits commercial social posts and online ads: https://mixkit.co/license/modal/musicFree/ . No exclusive rights or claim immunity implied. Prior music and silent master preserved.
 
-Original music composed locally with synthesized plucked keys, bass and percussion,120bpm,20seconds. No stock recordings or external samples. Master48kHz stereo PCM16 WAV; peak0.68,fade-in150ms,fade-out800ms. Mix is for music-only review; final ducking remains pending the real voice recording. Do not claim subjective listening validation.
+Final: Northframe-Memphis-Heart-Vastness.mp4. Remotion source, Next preview and matching English captions updated. Final film and standalone narration copied to Obsidian Memphis-v3.
 
-Intermediate deliverable: Northframe-Memphis-Musik-ohne-Voiceover.mp4. Original silent video remains untouched. Next.js preview stays on the previously approved silent version until the full requested voice/music mix is complete. No social publication.
+Validation: 20 seconds, H264, stereo AAC 48kHz, peak 0.809 without clipping; full decode and TypeScript passed. Browser playback completed all 480 frames at 1080px and 540px widths. No subjective listening verification by assistant. Not uploaded, deployed, committed or pushed.

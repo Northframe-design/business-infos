@@ -1,0 +1,19 @@
+{
+  "composition": "northframe-builder-anthro",
+  "duration": 25,
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "frames": 600,
+  "voice": {"engine":"kokoro-js 1.2.1","model":"onnx-community/Kokoro-82M-v1.0-ONNX","dtype":"q8","name":"am_puck","speed":1.04,"pitchRatio":1.1,"tempoCorrection":0.909091},
+  "music": {"title":"Funky Martian","artist":"Michael Ramir C.","mixkitId":1029,"start":0,"end":25},
+  "scenes": [
+    {"name":"chaos","from":0,"duration":115,"voiceStart":0.4,"states":[0,14,28,43,49,65]},
+    {"name":"arrange","from":115,"duration":185,"voiceStart":5,"states":[0,28,52,78,105,111]},
+    {"name":"mobile","from":300,"duration":132,"voiceStart":13,"states":[0,18,34,51,57,76]},
+    {"name":"finish","from":432,"duration":168,"voiceStart":18.5,"states":[0,18,34,65,71,100]}
+  ],
+  "pixelFormat":"yuv420p",
+  "audio":"48kHz stereo AAC",
+  "captionLanguage":"en"
+}
