@@ -1,0 +1,83 @@
+{
+  "composition": "northframe-free-tools",
+  "width": 1080,
+  "height": 1920,
+  "fps": 24,
+  "duration": 30,
+  "frames": 720,
+  "voice": {
+    "engine": "kokoro-js1.2.1",
+    "name": "af_heart",
+    "dtype": "q8",
+    "speed": 0.98,
+    "pitchEffect": false
+  },
+  "music": false,
+  "scenes": [
+    {
+      "name": "hook",
+      "from": 0,
+      "duration": 96,
+      "states": [
+        0,
+        12,
+        33,
+        39,
+        55
+      ]
+    },
+    {
+      "name": "solution",
+      "from": 96,
+      "duration": 120,
+      "states": [
+        0,
+        36,
+        42
+      ]
+    },
+    {
+      "name": "tools",
+      "from": 216,
+      "duration": 240,
+      "cuts": [
+        0,
+        80,
+        160
+      ],
+      "states": [
+        0,
+        180
+      ]
+    },
+    {
+      "name": "result",
+      "from": 456,
+      "duration": 144,
+      "states": [
+        0,
+        20,
+        45,
+        51
+      ]
+    },
+    {
+      "name": "invite",
+      "from": 600,
+      "duration": 120,
+      "states": [
+        0,
+        95
+      ]
+    }
+  ],
+  "cta": "https://northframesites.com/tools/",
+  "pixelFormat": "yuv420p",
+  "audio": "48kHz stereoAAC, narration only",
+  "recordings": [
+    "review-kit.webm",
+    "local-seo.webm",
+    "email-check.webm"
+  ],
+  "typography": "Native animated brand-font headlines per explicit tech/SaaS brief; character/props remain generated raster assets."
+}
